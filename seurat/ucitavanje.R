@@ -1,16 +1,16 @@
 library(Seurat)
 
 
-file_path <- "C:\\Users\\NenadPC\\Downloads\\SCP424\\SCP424\\metadata\\meta.tsv"
+file_path <- "C:\\Users\\zivic\\Desktop\\scrna\\SCP424\\metadata\\meta.txt"
 
-data <- read.delim(file_path, header = FALSE, sep = "\t", stringsAsFactors = FALSE)
+data <- read.delim(file_path, header = FALSE, sep = "\t", stringsAsFactors = FALSE, row.names = 1)
 
 colnames(data) <- as.character(data[1, ])
 column_types <- as.character(data[2, ])
 
 data <- data[-c(1, 2), ]
 
-colnames(data) <- as.character(data[1, ])
+#colnames(data) <- as.character(data[1, ])
 
 data <- data[-1, ]
 
@@ -27,7 +27,7 @@ for (i in 1:ncol(data)) {
   }
 }
 
-expression_matrix <- Read10X(data.dir = "C:\\Users\\NenadPC\\Downloads\\SCP424\\SCP424\\uzorak")
+expression_matrix <- Read10X(data.dir = "C:\\Users\\zivic\\Desktop\\scrna\\SCP424\\uzorak")
 
 seurat_object <- CreateSeuratObject(
   counts = expression_matrix,
