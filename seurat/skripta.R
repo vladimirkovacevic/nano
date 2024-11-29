@@ -49,5 +49,5 @@ for (sample in samples){
 
   table(data.query$predicted.id)
   write.csv(as.matrix(data.query$'predicted.celltype'), file=paste(sample, ".csv", sep=""))
-  as.anndata(x = data.ref, file_path = getwd(), file_name = paste(sample, ".h5ad", sep=""))
+  as.anndata(x = data.query, file_path = getwd(), file_name = paste(sample, ".h5ad", sep=""))
 }
