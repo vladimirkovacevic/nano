@@ -1,2 +1,2 @@
 # scRNA Analysis
-[scRNA reference cell types for PBMC](https://singlecell.broadinstitute.org/single_cell/study/SCP424/single-cell-comparison-pbmc-data#study-visualize)
+scRNA reference cell types for PBMC (cells.umi.new.txt, counts.umi.txt.gz, genes.umi.txt and meta.txt) are downloaded from Broad Institute repository (https://singlecell.broadinstitute.org/single_cell/study/SCP424/single-cell-comparison-pbmc-data#study-visualize) and merged into sc.h5ad available in  [gdrive link](https://drive.google.com/file/d/1u3bSTjpIuOwvHsOopd0tmtlO775dK-LV/view?usp=sharing)
