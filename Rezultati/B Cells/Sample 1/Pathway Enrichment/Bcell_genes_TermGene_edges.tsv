@@ -1,0 +1,3602 @@
+Term_ID	Term	Source	Gene
+GO:0098542	defense response to other organism	GO:BP	IFI44L
+GO:0098542	defense response to other organism	GO:BP	SLAMF7
+GO:0098542	defense response to other organism	GO:BP	PTPN6
+GO:0098542	defense response to other organism	GO:BP	IFIH1
+GO:0098542	defense response to other organism	GO:BP	IL1B
+GO:0098542	defense response to other organism	GO:BP	NFKB2
+GO:0098542	defense response to other organism	GO:BP	CD40
+GO:0006955	immune response	GO:BP	IFI44L
+GO:0006955	immune response	GO:BP	SLAMF7
+GO:0006955	immune response	GO:BP	PTPN6
+GO:0006955	immune response	GO:BP	IFIH1
+GO:0006955	immune response	GO:BP	IL1B
+GO:0006955	immune response	GO:BP	NFKB2
+GO:0006955	immune response	GO:BP	CD40
+GO:0006955	immune response	GO:BP	LTB
+REAC:R-HSA-168256	Immune System	REAC	SERPINB2
+REAC:R-HSA-168256	Immune System	REAC	XAF1
+REAC:R-HSA-168256	Immune System	REAC	SLAMF7
+REAC:R-HSA-168256	Immune System	REAC	PTPN6
+REAC:R-HSA-168256	Immune System	REAC	IFIH1
+REAC:R-HSA-168256	Immune System	REAC	IL1B
+REAC:R-HSA-168256	Immune System	REAC	NFKB2
+REAC:R-HSA-168256	Immune System	REAC	LTB
+GO:0001817	regulation of cytokine production	GO:BP	XAF1
+GO:0001817	regulation of cytokine production	GO:BP	PTPN6
+GO:0001817	regulation of cytokine production	GO:BP	IFIH1
+GO:0001817	regulation of cytokine production	GO:BP	IL1B
+GO:0001817	regulation of cytokine production	GO:BP	CD40
+GO:0001817	regulation of cytokine production	GO:BP	LTB
+WP:WP5115	Network map of SARS CoV 2 signaling	WP	IFI44L
+WP:WP5115	Network map of SARS CoV 2 signaling	WP	PTPN6
+WP:WP5115	Network map of SARS CoV 2 signaling	WP	IFIH1
+WP:WP5115	Network map of SARS CoV 2 signaling	WP	IL1B
+WP:WP5115	Network map of SARS CoV 2 signaling	WP	NFKB2
+GO:0001816	cytokine production	GO:BP	XAF1
+GO:0001816	cytokine production	GO:BP	PTPN6
+GO:0001816	cytokine production	GO:BP	IFIH1
+GO:0001816	cytokine production	GO:BP	IL1B
+GO:0001816	cytokine production	GO:BP	CD40
+GO:0001816	cytokine production	GO:BP	LTB
+REAC:R-HSA-1280215	Cytokine Signaling in Immune system	REAC	SERPINB2
+REAC:R-HSA-1280215	Cytokine Signaling in Immune system	REAC	XAF1
+REAC:R-HSA-1280215	Cytokine Signaling in Immune system	REAC	PTPN6
+REAC:R-HSA-1280215	Cytokine Signaling in Immune system	REAC	IL1B
+REAC:R-HSA-1280215	Cytokine Signaling in Immune system	REAC	NFKB2
+REAC:R-HSA-1280215	Cytokine Signaling in Immune system	REAC	LTB
+GO:0009605	response to external stimulus	GO:BP	IFI44L
+GO:0009605	response to external stimulus	GO:BP	SERPINB2
+GO:0009605	response to external stimulus	GO:BP	SLAMF7
+GO:0009605	response to external stimulus	GO:BP	PTPN6
+GO:0009605	response to external stimulus	GO:BP	IFIH1
+GO:0009605	response to external stimulus	GO:BP	IL1B
+GO:0009605	response to external stimulus	GO:BP	NFKB2
+GO:0009605	response to external stimulus	GO:BP	CD40
+GO:0051707	response to other organism	GO:BP	IFI44L
+GO:0051707	response to other organism	GO:BP	SLAMF7
+GO:0051707	response to other organism	GO:BP	PTPN6
+GO:0051707	response to other organism	GO:BP	IFIH1
+GO:0051707	response to other organism	GO:BP	IL1B
+GO:0051707	response to other organism	GO:BP	NFKB2
+GO:0051707	response to other organism	GO:BP	CD40
+GO:0043207	response to external biotic stimulus	GO:BP	IFI44L
+GO:0043207	response to external biotic stimulus	GO:BP	SLAMF7
+GO:0043207	response to external biotic stimulus	GO:BP	PTPN6
+GO:0043207	response to external biotic stimulus	GO:BP	IFIH1
+GO:0043207	response to external biotic stimulus	GO:BP	IL1B
+GO:0043207	response to external biotic stimulus	GO:BP	NFKB2
+GO:0043207	response to external biotic stimulus	GO:BP	CD40
+GO:0034097	response to cytokine	GO:BP	XAF1
+GO:0034097	response to cytokine	GO:BP	PTPN6
+GO:0034097	response to cytokine	GO:BP	IFIH1
+GO:0034097	response to cytokine	GO:BP	IL1B
+GO:0034097	response to cytokine	GO:BP	NFKB2
+GO:0034097	response to cytokine	GO:BP	CD40
+GO:1901652	response to peptide	GO:BP	XAF1
+GO:1901652	response to peptide	GO:BP	PTPN6
+GO:1901652	response to peptide	GO:BP	IFIH1
+GO:1901652	response to peptide	GO:BP	IL1B
+GO:1901652	response to peptide	GO:BP	NFKB2
+GO:1901652	response to peptide	GO:BP	CD40
+GO:0009607	response to biotic stimulus	GO:BP	IFI44L
+GO:0009607	response to biotic stimulus	GO:BP	SLAMF7
+GO:0009607	response to biotic stimulus	GO:BP	PTPN6
+GO:0009607	response to biotic stimulus	GO:BP	IFIH1
+GO:0009607	response to biotic stimulus	GO:BP	IL1B
+GO:0009607	response to biotic stimulus	GO:BP	NFKB2
+GO:0009607	response to biotic stimulus	GO:BP	CD40
+HP:0033166	Recurrent viral upper respiratory tract infections	HP	IFIH1
+HP:0033166	Recurrent viral upper respiratory tract infections	HP	NFKB2
+GO:0044419	biological process involved in interspecies interaction between organisms	GO:BP	IFI44L
+GO:0044419	biological process involved in interspecies interaction between organisms	GO:BP	SLAMF7
+GO:0044419	biological process involved in interspecies interaction between organisms	GO:BP	PTPN6
+GO:0044419	biological process involved in interspecies interaction between organisms	GO:BP	IFIH1
+GO:0044419	biological process involved in interspecies interaction between organisms	GO:BP	IL1B
+GO:0044419	biological process involved in interspecies interaction between organisms	GO:BP	NFKB2
+GO:0044419	biological process involved in interspecies interaction between organisms	GO:BP	CD40
+REAC:R-HSA-448706	Interleukin-1 processing	REAC	IL1B
+REAC:R-HSA-448706	Interleukin-1 processing	REAC	NFKB2
+GO:0006952	defense response	GO:BP	IFI44L
+GO:0006952	defense response	GO:BP	SLAMF7
+GO:0006952	defense response	GO:BP	PTPN6
+GO:0006952	defense response	GO:BP	IFIH1
+GO:0006952	defense response	GO:BP	IL1B
+GO:0006952	defense response	GO:BP	NFKB2
+GO:0006952	defense response	GO:BP	CD40
+GO:0002376	immune system process	GO:BP	IFI44L
+GO:0002376	immune system process	GO:BP	SLAMF7
+GO:0002376	immune system process	GO:BP	PTPN6
+GO:0002376	immune system process	GO:BP	IFIH1
+GO:0002376	immune system process	GO:BP	IL1B
+GO:0002376	immune system process	GO:BP	NFKB2
+GO:0002376	immune system process	GO:BP	CD40
+GO:0002376	immune system process	GO:BP	LTB
+WP:WP4341	Non genomic actions of 1 25 dihydroxyvitamin D3	WP	IFI44L
+WP:WP4341	Non genomic actions of 1 25 dihydroxyvitamin D3	WP	NFKB2
+WP:WP4341	Non genomic actions of 1 25 dihydroxyvitamin D3	WP	CD40
+GO:0007249	canonical NF-kappaB signal transduction	GO:BP	IL1B
+GO:0007249	canonical NF-kappaB signal transduction	GO:BP	NFKB2
+GO:0007249	canonical NF-kappaB signal transduction	GO:BP	CD40
+GO:0007249	canonical NF-kappaB signal transduction	GO:BP	LTB
+GO:0051607	defense response to virus	GO:BP	IFI44L
+GO:0051607	defense response to virus	GO:BP	IFIH1
+GO:0051607	defense response to virus	GO:BP	IL1B
+GO:0051607	defense response to virus	GO:BP	CD40
+GO:0002250	adaptive immune response	GO:BP	SLAMF7
+GO:0002250	adaptive immune response	GO:BP	PTPN6
+GO:0002250	adaptive immune response	GO:BP	IL1B
+GO:0002250	adaptive immune response	GO:BP	NFKB2
+GO:0002250	adaptive immune response	GO:BP	CD40
+WP:WP4462	Platelet mediated interactions with vascular and circulating cells	WP	IL1B
+WP:WP4462	Platelet mediated interactions with vascular and circulating cells	WP	CD40
+GO:0002449	lymphocyte mediated immunity	GO:BP	SLAMF7
+GO:0002449	lymphocyte mediated immunity	GO:BP	PTPN6
+GO:0002449	lymphocyte mediated immunity	GO:BP	IL1B
+GO:0002449	lymphocyte mediated immunity	GO:BP	CD40
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	PTPN6
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	IL1B
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	NFKB2
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	CD40
+HP:0002633	Vasculitis	HP	PTPN6
+HP:0002633	Vasculitis	HP	IFIH1
+HP:0002633	Vasculitis	HP	NFKB2
+WP:WP5146	Lung pathology of COVID 19	WP	IFIH1
+WP:WP5146	Lung pathology of COVID 19	WP	IL1B
+GO:0009615	response to virus	GO:BP	IFI44L
+GO:0009615	response to virus	GO:BP	IFIH1
+GO:0009615	response to virus	GO:BP	IL1B
+GO:0009615	response to virus	GO:BP	CD40
+REAC:R-HSA-446652	Interleukin-1 family signaling	REAC	PTPN6
+REAC:R-HSA-446652	Interleukin-1 family signaling	REAC	IL1B
+REAC:R-HSA-446652	Interleukin-1 family signaling	REAC	NFKB2
+REAC:R-HSA-9660826	Purinergic signaling in leishmaniasis infection	REAC	IL1B
+REAC:R-HSA-9660826	Purinergic signaling in leishmaniasis infection	REAC	NFKB2
+REAC:R-HSA-933542	TRAF6 mediated NF-kB activation	REAC	IFIH1
+REAC:R-HSA-933542	TRAF6 mediated NF-kB activation	REAC	NFKB2
+REAC:R-HSA-9664424	Cell recruitment (pro-inflammatory response)	REAC	IL1B
+REAC:R-HSA-9664424	Cell recruitment (pro-inflammatory response)	REAC	NFKB2
+WP:WP5272	LDL influence on CD14 and TLR4	WP	IL1B
+WP:WP5272	LDL influence on CD14 and TLR4	WP	NFKB2
+GO:0032635	interleukin-6 production	GO:BP	PTPN6
+GO:0032635	interleukin-6 production	GO:BP	IFIH1
+GO:0032635	interleukin-6 production	GO:BP	IL1B
+GO:0032675	regulation of interleukin-6 production	GO:BP	PTPN6
+GO:0032675	regulation of interleukin-6 production	GO:BP	IFIH1
+GO:0032675	regulation of interleukin-6 production	GO:BP	IL1B
+REAC:R-HSA-449147	Signaling by Interleukins	REAC	SERPINB2
+REAC:R-HSA-449147	Signaling by Interleukins	REAC	PTPN6
+REAC:R-HSA-449147	Signaling by Interleukins	REAC	IL1B
+REAC:R-HSA-449147	Signaling by Interleukins	REAC	NFKB2
+GO:0045087	innate immune response	GO:BP	SLAMF7
+GO:0045087	innate immune response	GO:BP	PTPN6
+GO:0045087	innate immune response	GO:BP	IFIH1
+GO:0045087	innate immune response	GO:BP	NFKB2
+GO:0045087	innate immune response	GO:BP	CD40
+WP:WP4630	Measles virus infection	WP	IFIH1
+WP:WP4630	Measles virus infection	WP	IL1B
+WP:WP4630	Measles virus infection	WP	NFKB2
+GO:0006950	response to stress	GO:BP	IFI44L
+GO:0006950	response to stress	GO:BP	SERPINB2
+GO:0006950	response to stress	GO:BP	SLAMF7
+GO:0006950	response to stress	GO:BP	PTPN6
+GO:0006950	response to stress	GO:BP	IFIH1
+GO:0006950	response to stress	GO:BP	IL1B
+GO:0006950	response to stress	GO:BP	NFKB2
+GO:0006950	response to stress	GO:BP	CD40
+GO:0002443	leukocyte mediated immunity	GO:BP	SLAMF7
+GO:0002443	leukocyte mediated immunity	GO:BP	PTPN6
+GO:0002443	leukocyte mediated immunity	GO:BP	IL1B
+GO:0002443	leukocyte mediated immunity	GO:BP	CD40
+GO:0001819	positive regulation of cytokine production	GO:BP	IFIH1
+GO:0001819	positive regulation of cytokine production	GO:BP	IL1B
+GO:0001819	positive regulation of cytokine production	GO:BP	CD40
+GO:0001819	positive regulation of cytokine production	GO:BP	LTB
+WP:WP5038	Mitochondrial immune response to SARS CoV 2	WP	IFIH1
+WP:WP5038	Mitochondrial immune response to SARS CoV 2	WP	NFKB2
+GO:0032101	regulation of response to external stimulus	GO:BP	SERPINB2
+GO:0032101	regulation of response to external stimulus	GO:BP	PTPN6
+GO:0032101	regulation of response to external stimulus	GO:BP	IFIH1
+GO:0032101	regulation of response to external stimulus	GO:BP	IL1B
+GO:0032101	regulation of response to external stimulus	GO:BP	CD40
+GO:0140546	defense response to symbiont	GO:BP	SLAMF7
+GO:0140546	defense response to symbiont	GO:BP	PTPN6
+GO:0140546	defense response to symbiont	GO:BP	IFIH1
+GO:0140546	defense response to symbiont	GO:BP	NFKB2
+GO:0140546	defense response to symbiont	GO:BP	CD40
+HP:0005550	Chronic lymphatic leukemia	HP	PTPN6
+HP:0005550	Chronic lymphatic leukemia	HP	IFIH1
+WP:WP3617	Photodynamic therapy induced NF kB survival signaling	WP	IL1B
+WP:WP3617	Photodynamic therapy induced NF kB survival signaling	WP	NFKB2
+GO:0002831	regulation of response to biotic stimulus	GO:BP	PTPN6
+GO:0002831	regulation of response to biotic stimulus	GO:BP	IFIH1
+GO:0002831	regulation of response to biotic stimulus	GO:BP	IL1B
+GO:0002831	regulation of response to biotic stimulus	GO:BP	CD40
+HP:0004315	Decreased circulating IgG concentration	HP	IFIH1
+HP:0004315	Decreased circulating IgG concentration	HP	NFKB2
+HP:0004315	Decreased circulating IgG concentration	HP	CD40
+GO:0033257	Bcl3/NF-kappaB2 complex	GO:CC	NFKB2
+GO:0051239	regulation of multicellular organismal process	GO:BP	SERPINB2
+GO:0051239	regulation of multicellular organismal process	GO:BP	XAF1
+GO:0051239	regulation of multicellular organismal process	GO:BP	PTPN6
+GO:0051239	regulation of multicellular organismal process	GO:BP	IFIH1
+GO:0051239	regulation of multicellular organismal process	GO:BP	IL1B
+GO:0051239	regulation of multicellular organismal process	GO:BP	CD40
+GO:0051239	regulation of multicellular organismal process	GO:BP	LTB
+GO:0006915	apoptotic process	GO:BP	SERPINB2
+GO:0006915	apoptotic process	GO:BP	XAF1
+GO:0006915	apoptotic process	GO:BP	PTPN6
+GO:0006915	apoptotic process	GO:BP	IL1B
+GO:0006915	apoptotic process	GO:BP	CD40
+GO:0006915	apoptotic process	GO:BP	LTB
+GO:0002706	regulation of lymphocyte mediated immunity	GO:BP	PTPN6
+GO:0002706	regulation of lymphocyte mediated immunity	GO:BP	IL1B
+GO:0002706	regulation of lymphocyte mediated immunity	GO:BP	CD40
+GO:0001775	cell activation	GO:BP	SLAMF7
+GO:0001775	cell activation	GO:BP	PTPN6
+GO:0001775	cell activation	GO:BP	IL1B
+GO:0001775	cell activation	GO:BP	NFKB2
+GO:0001775	cell activation	GO:BP	CD40
+GO:0002253	activation of immune response	GO:BP	PTPN6
+GO:0002253	activation of immune response	GO:BP	IFIH1
+GO:0002253	activation of immune response	GO:BP	IL1B
+GO:0002253	activation of immune response	GO:BP	CD40
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	PTPN6
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	IL1B
+GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	CD40
+GO:0002520	immune system development	GO:BP	NFKB2
+GO:0002520	immune system development	GO:BP	CD40
+GO:0002520	immune system development	GO:BP	LTB
+WP:WP5474	Catabolism of skeletal muscle in cachexia	WP	IL1B
+WP:WP5474	Catabolism of skeletal muscle in cachexia	WP	NFKB2
+GO:0012501	programmed cell death	GO:BP	SERPINB2
+GO:0012501	programmed cell death	GO:BP	XAF1
+GO:0012501	programmed cell death	GO:BP	PTPN6
+GO:0012501	programmed cell death	GO:BP	IL1B
+GO:0012501	programmed cell death	GO:BP	CD40
+GO:0012501	programmed cell death	GO:BP	LTB
+GO:0008219	cell death	GO:BP	SERPINB2
+GO:0008219	cell death	GO:BP	XAF1
+GO:0008219	cell death	GO:BP	PTPN6
+GO:0008219	cell death	GO:BP	IL1B
+GO:0008219	cell death	GO:BP	CD40
+GO:0008219	cell death	GO:BP	LTB
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:BP	IL1B
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:BP	CD40
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:BP	LTB
+GO:0002819	regulation of adaptive immune response	GO:BP	PTPN6
+GO:0002819	regulation of adaptive immune response	GO:BP	IL1B
+GO:0002819	regulation of adaptive immune response	GO:BP	CD40
+WP:WP2873	Aryl hydrocarbon receptor pathway	WP	SERPINB2
+WP:WP2873	Aryl hydrocarbon receptor pathway	WP	IL1B
+HP:0410242	Abnormal circulating IgG concentration	HP	IFIH1
+HP:0410242	Abnormal circulating IgG concentration	HP	NFKB2
+HP:0410242	Abnormal circulating IgG concentration	HP	CD40
+GO:0007596	blood coagulation	GO:BP	SERPINB2
+GO:0007596	blood coagulation	GO:BP	PTPN6
+GO:0007596	blood coagulation	GO:BP	CD40
+GO:0050670	regulation of lymphocyte proliferation	GO:BP	PTPN6
+GO:0050670	regulation of lymphocyte proliferation	GO:BP	IL1B
+GO:0050670	regulation of lymphocyte proliferation	GO:BP	CD40
+GO:0007599	hemostasis	GO:BP	SERPINB2
+GO:0007599	hemostasis	GO:BP	PTPN6
+GO:0007599	hemostasis	GO:BP	CD40
+GO:0050817	coagulation	GO:BP	SERPINB2
+GO:0050817	coagulation	GO:BP	PTPN6
+GO:0050817	coagulation	GO:BP	CD40
+HP:0005558	Chronic leukemia	HP	PTPN6
+HP:0005558	Chronic leukemia	HP	IFIH1
+GO:0032944	regulation of mononuclear cell proliferation	GO:BP	PTPN6
+GO:0032944	regulation of mononuclear cell proliferation	GO:BP	IL1B
+GO:0032944	regulation of mononuclear cell proliferation	GO:BP	CD40
+GO:0033256	I-kappaB/NF-kappaB complex	GO:CC	NFKB2
+GO:0032735	positive regulation of interleukin-12 production	GO:BP	CD40
+GO:0032735	positive regulation of interleukin-12 production	GO:BP	LTB
+WP:WP1533	Vitamin B12 metabolism	WP	IL1B
+WP:WP1533	Vitamin B12 metabolism	WP	NFKB2
+GO:0002703	regulation of leukocyte mediated immunity	GO:BP	PTPN6
+GO:0002703	regulation of leukocyte mediated immunity	GO:BP	IL1B
+GO:0002703	regulation of leukocyte mediated immunity	GO:BP	CD40
+GO:0050896	response to stimulus	GO:BP	IFI44L
+GO:0050896	response to stimulus	GO:BP	SERPINB2
+GO:0050896	response to stimulus	GO:BP	XAF1
+GO:0050896	response to stimulus	GO:BP	SLAMF7
+GO:0050896	response to stimulus	GO:BP	PTPN6
+GO:0050896	response to stimulus	GO:BP	IFIH1
+GO:0050896	response to stimulus	GO:BP	IL1B
+GO:0050896	response to stimulus	GO:BP	NFKB2
+GO:0050896	response to stimulus	GO:BP	CD40
+GO:0050896	response to stimulus	GO:BP	LTB
+GO:0002920	regulation of humoral immune response	GO:BP	PTPN6
+GO:0002920	regulation of humoral immune response	GO:BP	IL1B
+GO:0002699	positive regulation of immune effector process	GO:BP	PTPN6
+GO:0002699	positive regulation of immune effector process	GO:BP	IL1B
+GO:0002699	positive regulation of immune effector process	GO:BP	CD40
+HP:0012490	Panniculitis	HP	PTPN6
+HP:0012490	Panniculitis	HP	IFIH1
+GO:0070663	regulation of leukocyte proliferation	GO:BP	PTPN6
+GO:0070663	regulation of leukocyte proliferation	GO:BP	IL1B
+GO:0070663	regulation of leukocyte proliferation	GO:BP	CD40
+GO:0080134	regulation of response to stress	GO:BP	SERPINB2
+GO:0080134	regulation of response to stress	GO:BP	PTPN6
+GO:0080134	regulation of response to stress	GO:BP	IFIH1
+GO:0080134	regulation of response to stress	GO:BP	IL1B
+GO:0080134	regulation of response to stress	GO:BP	CD40
+GO:0002252	immune effector process	GO:BP	SLAMF7
+GO:0002252	immune effector process	GO:BP	PTPN6
+GO:0002252	immune effector process	GO:BP	IL1B
+GO:0002252	immune effector process	GO:BP	CD40
+GO:0038023	signaling receptor activity	GO:MF	PTPN6
+GO:0038023	signaling receptor activity	GO:MF	IFIH1
+GO:0038023	signaling receptor activity	GO:MF	IL1B
+GO:0038023	signaling receptor activity	GO:MF	CD40
+GO:0038023	signaling receptor activity	GO:MF	LTB
+GO:0060089	molecular transducer activity	GO:MF	PTPN6
+GO:0060089	molecular transducer activity	GO:MF	IFIH1
+GO:0060089	molecular transducer activity	GO:MF	IL1B
+GO:0060089	molecular transducer activity	GO:MF	CD40
+GO:0060089	molecular transducer activity	GO:MF	LTB
+REAC:R-HSA-909733	Interferon alpha/beta signaling	REAC	XAF1
+REAC:R-HSA-909733	Interferon alpha/beta signaling	REAC	PTPN6
+GO:0043122	regulation of canonical NF-kappaB signal transduction	GO:BP	IL1B
+GO:0043122	regulation of canonical NF-kappaB signal transduction	GO:BP	CD40
+GO:0043122	regulation of canonical NF-kappaB signal transduction	GO:BP	LTB
+GO:0050778	positive regulation of immune response	GO:BP	PTPN6
+GO:0050778	positive regulation of immune response	GO:BP	IFIH1
+GO:0050778	positive regulation of immune response	GO:BP	IL1B
+GO:0050778	positive regulation of immune response	GO:BP	CD40
+GO:0045765	regulation of angiogenesis	GO:BP	PTPN6
+GO:0045765	regulation of angiogenesis	GO:BP	IL1B
+GO:0045765	regulation of angiogenesis	GO:BP	CD40
+GO:0042105	alpha-beta T cell receptor complex	GO:CC	PTPN6
+WP:WP176	Folate metabolism	WP	IL1B
+WP:WP176	Folate metabolism	WP	NFKB2
+GO:0042981	regulation of apoptotic process	GO:BP	SERPINB2
+GO:0042981	regulation of apoptotic process	GO:BP	PTPN6
+GO:0042981	regulation of apoptotic process	GO:BP	IL1B
+GO:0042981	regulation of apoptotic process	GO:BP	CD40
+GO:0042981	regulation of apoptotic process	GO:BP	LTB
+GO:1901342	regulation of vasculature development	GO:BP	PTPN6
+GO:1901342	regulation of vasculature development	GO:BP	IL1B
+GO:1901342	regulation of vasculature development	GO:BP	CD40
+REAC:R-HSA-168928	DDX58/IFIH1-mediated induction of interferon-alpha/beta	REAC	IFIH1
+REAC:R-HSA-168928	DDX58/IFIH1-mediated induction of interferon-alpha/beta	REAC	NFKB2
+WP:WP5218	Extrafollicular and follicular B cell activation by SARS CoV 2	WP	SLAMF7
+WP:WP5218	Extrafollicular and follicular B cell activation by SARS CoV 2	WP	CD40
+GO:0043067	regulation of programmed cell death	GO:BP	SERPINB2
+GO:0043067	regulation of programmed cell death	GO:BP	PTPN6
+GO:0043067	regulation of programmed cell death	GO:BP	IL1B
+GO:0043067	regulation of programmed cell death	GO:BP	CD40
+GO:0043067	regulation of programmed cell death	GO:BP	LTB
+GO:0046651	lymphocyte proliferation	GO:BP	PTPN6
+GO:0046651	lymphocyte proliferation	GO:BP	IL1B
+GO:0046651	lymphocyte proliferation	GO:BP	CD40
+GO:0032655	regulation of interleukin-12 production	GO:BP	CD40
+GO:0032655	regulation of interleukin-12 production	GO:BP	LTB
+GO:0032615	interleukin-12 production	GO:BP	CD40
+GO:0032615	interleukin-12 production	GO:BP	LTB
+GO:0031347	regulation of defense response	GO:BP	PTPN6
+GO:0031347	regulation of defense response	GO:BP	IFIH1
+GO:0031347	regulation of defense response	GO:BP	IL1B
+GO:0031347	regulation of defense response	GO:BP	CD40
+GO:0032943	mononuclear cell proliferation	GO:BP	PTPN6
+GO:0032943	mononuclear cell proliferation	GO:BP	IL1B
+GO:0032943	mononuclear cell proliferation	GO:BP	CD40
+GO:0043196	varicosity	GO:CC	CD40
+HP:0011893	Abnormal leukocyte count	HP	PTPN6
+HP:0011893	Abnormal leukocyte count	HP	IFIH1
+HP:0011893	Abnormal leukocyte count	HP	NFKB2
+HP:0011893	Abnormal leukocyte count	HP	CD40
+GO:0046649	lymphocyte activation	GO:BP	SLAMF7
+GO:0046649	lymphocyte activation	GO:BP	PTPN6
+GO:0046649	lymphocyte activation	GO:BP	IL1B
+GO:0046649	lymphocyte activation	GO:BP	CD40
+GO:0002712	regulation of B cell mediated immunity	GO:BP	PTPN6
+GO:0002712	regulation of B cell mediated immunity	GO:BP	CD40
+GO:0002889	regulation of immunoglobulin mediated immune response	GO:BP	PTPN6
+GO:0002889	regulation of immunoglobulin mediated immune response	GO:BP	CD40
+GO:0051251	positive regulation of lymphocyte activation	GO:BP	PTPN6
+GO:0051251	positive regulation of lymphocyte activation	GO:BP	IL1B
+GO:0051251	positive regulation of lymphocyte activation	GO:BP	CD40
+REAC:R-HSA-5607764	CLEC7A (Dectin-1) signaling	REAC	IL1B
+REAC:R-HSA-5607764	CLEC7A (Dectin-1) signaling	REAC	NFKB2
+GO:0032496	response to lipopolysaccharide	GO:BP	IL1B
+GO:0032496	response to lipopolysaccharide	GO:BP	NFKB2
+GO:0032496	response to lipopolysaccharide	GO:BP	CD40
+WP:WP15	Selenium micronutrient network	WP	IL1B
+WP:WP15	Selenium micronutrient network	WP	NFKB2
+GO:0071345	cellular response to cytokine stimulus	GO:BP	PTPN6
+GO:0071345	cellular response to cytokine stimulus	GO:BP	IFIH1
+GO:0071345	cellular response to cytokine stimulus	GO:BP	IL1B
+GO:0071345	cellular response to cytokine stimulus	GO:BP	CD40
+GO:0035631	CD40 receptor complex	GO:CC	CD40
+REAC:R-HSA-5668541	TNFR2 non-canonical NF-kB pathway	REAC	NFKB2
+REAC:R-HSA-5668541	TNFR2 non-canonical NF-kB pathway	REAC	LTB
+GO:0006954	inflammatory response	GO:BP	PTPN6
+GO:0006954	inflammatory response	GO:BP	IL1B
+GO:0006954	inflammatory response	GO:BP	NFKB2
+GO:0006954	inflammatory response	GO:BP	CD40
+WP:WP2328	Allograft rejection	WP	IL1B
+WP:WP2328	Allograft rejection	WP	CD40
+GO:0043406	positive regulation of MAP kinase activity	GO:BP	IL1B
+GO:0043406	positive regulation of MAP kinase activity	GO:BP	CD40
+WP:WP2882	Nuclear receptors meta pathway	WP	SERPINB2
+WP:WP2882	Nuclear receptors meta pathway	WP	IL1B
+WP:WP2882	Nuclear receptors meta pathway	WP	NFKB2
+GO:0032501	multicellular organismal process	GO:BP	SERPINB2
+GO:0032501	multicellular organismal process	GO:BP	XAF1
+GO:0032501	multicellular organismal process	GO:BP	SLAMF7
+GO:0032501	multicellular organismal process	GO:BP	PTPN6
+GO:0032501	multicellular organismal process	GO:BP	IFIH1
+GO:0032501	multicellular organismal process	GO:BP	IL1B
+GO:0032501	multicellular organismal process	GO:BP	NFKB2
+GO:0032501	multicellular organismal process	GO:BP	CD40
+GO:0032501	multicellular organismal process	GO:BP	LTB
+GO:0070661	leukocyte proliferation	GO:BP	PTPN6
+GO:0070661	leukocyte proliferation	GO:BP	IL1B
+GO:0070661	leukocyte proliferation	GO:BP	CD40
+GO:0019904	protein domain specific binding	GO:MF	PTPN6
+GO:0019904	protein domain specific binding	GO:MF	IL1B
+GO:0019904	protein domain specific binding	GO:MF	CD40
+GO:0002237	response to molecule of bacterial origin	GO:BP	IL1B
+GO:0002237	response to molecule of bacterial origin	GO:BP	NFKB2
+GO:0002237	response to molecule of bacterial origin	GO:BP	CD40
+GO:0071260	cellular response to mechanical stimulus	GO:BP	IL1B
+GO:0071260	cellular response to mechanical stimulus	GO:BP	CD40
+GO:0071496	cellular response to external stimulus	GO:BP	IL1B
+GO:0071496	cellular response to external stimulus	GO:BP	CD40
+GO:0051240	positive regulation of multicellular organismal process	GO:BP	PTPN6
+GO:0051240	positive regulation of multicellular organismal process	GO:BP	IFIH1
+GO:0051240	positive regulation of multicellular organismal process	GO:BP	IL1B
+GO:0051240	positive regulation of multicellular organismal process	GO:BP	CD40
+GO:0051240	positive regulation of multicellular organismal process	GO:BP	LTB
+GO:0002696	positive regulation of leukocyte activation	GO:BP	PTPN6
+GO:0002696	positive regulation of leukocyte activation	GO:BP	IL1B
+GO:0002696	positive regulation of leukocyte activation	GO:BP	CD40
+WP:WP75	Toll like receptor signaling	WP	IL1B
+WP:WP75	Toll like receptor signaling	WP	CD40
+GO:0042267	natural killer cell mediated cytotoxicity	GO:BP	SLAMF7
+GO:0042267	natural killer cell mediated cytotoxicity	GO:BP	PTPN6
+REAC:R-HSA-9020702	Interleukin-1 signaling	REAC	IL1B
+REAC:R-HSA-9020702	Interleukin-1 signaling	REAC	NFKB2
+HP:0100614	Myositis	HP	PTPN6
+HP:0100614	Myositis	HP	IFIH1
+GO:0050878	regulation of body fluid levels	GO:BP	SERPINB2
+GO:0050878	regulation of body fluid levels	GO:BP	PTPN6
+GO:0050878	regulation of body fluid levels	GO:BP	CD40
+GO:0050867	positive regulation of cell activation	GO:BP	PTPN6
+GO:0050867	positive regulation of cell activation	GO:BP	IL1B
+GO:0050867	positive regulation of cell activation	GO:BP	CD40
+GO:0002228	natural killer cell mediated immunity	GO:BP	SLAMF7
+GO:0002228	natural killer cell mediated immunity	GO:BP	PTPN6
+HP:0004313	Decreased circulating immunoglobulin concentration	HP	IFIH1
+HP:0004313	Decreased circulating immunoglobulin concentration	HP	NFKB2
+HP:0004313	Decreased circulating immunoglobulin concentration	HP	CD40
+REAC:R-HSA-9705671	SARS-CoV-2 activates/modulates innate and adaptive immune responses	REAC	PTPN6
+REAC:R-HSA-9705671	SARS-CoV-2 activates/modulates innate and adaptive immune responses	REAC	IFIH1
+WP:WP615	Senescence and autophagy in cancer	WP	SERPINB2
+WP:WP615	Senescence and autophagy in cancer	WP	IL1B
+GO:0050776	regulation of immune response	GO:BP	PTPN6
+GO:0050776	regulation of immune response	GO:BP	IFIH1
+GO:0050776	regulation of immune response	GO:BP	IL1B
+GO:0050776	regulation of immune response	GO:BP	CD40
+HP:0011112	Abnormal circulating cytokine concentration	HP	PTPN6
+HP:0011112	Abnormal circulating cytokine concentration	HP	IFIH1
+GO:0060337	type I interferon-mediated signaling pathway	GO:BP	PTPN6
+GO:0060337	type I interferon-mediated signaling pathway	GO:BP	IFIH1
+GO:0071347	cellular response to interleukin-1	GO:BP	IL1B
+GO:0071347	cellular response to interleukin-1	GO:BP	CD40
+GO:0071357	cellular response to type I interferon	GO:BP	PTPN6
+GO:0071357	cellular response to type I interferon	GO:BP	IFIH1
+HP:0011111	Abnormal immune serum protein physiology	HP	PTPN6
+HP:0011111	Abnormal immune serum protein physiology	HP	IFIH1
+GO:0002697	regulation of immune effector process	GO:BP	PTPN6
+GO:0002697	regulation of immune effector process	GO:BP	IL1B
+GO:0002697	regulation of immune effector process	GO:BP	CD40
+GO:0140031	phosphorylation-dependent protein binding	GO:MF	PTPN6
+GO:0098802	plasma membrane signaling receptor complex	GO:CC	PTPN6
+GO:0098802	plasma membrane signaling receptor complex	GO:CC	CD40
+GO:0045321	leukocyte activation	GO:BP	SLAMF7
+GO:0045321	leukocyte activation	GO:BP	PTPN6
+GO:0045321	leukocyte activation	GO:BP	IL1B
+GO:0045321	leukocyte activation	GO:BP	CD40
+GO:0034340	response to type I interferon	GO:BP	PTPN6
+GO:0034340	response to type I interferon	GO:BP	IFIH1
+WP:WP2431	Spinal cord injury	WP	IL1B
+WP:WP2431	Spinal cord injury	WP	LTB
+HP:0010597	Abnormality of the distal radial epiphysis	HP	IFIH1
+HP:0033214	Recurrent viral pneumonia	HP	IFIH1
+HP:0008102	Expanded metatarsals with widened medullary cavities	HP	IFIH1
+HP:0032137	Decreased circulating IgG3 concentration	HP	IFIH1
+HP:0005303	Aortic arch calcification	HP	IFIH1
+HP:0006386	Hypoplastic distal radial epiphyses	HP	IFIH1
+HP:0006353	Hypoplasia of the tooth germ	HP	IFIH1
+HP:0006232	Expanded metacarpals with widened medullary cavities	HP	IFIH1
+HP:0006112	Expanded phalanges with widened medullary cavities	HP	IFIH1
+HP:0001562	Oligohydramnios	HP	IFIH1
+HP:0001373	Joint dislocation	HP	IFIH1
+HP:0001371	Flexion contracture	HP	IFIH1
+HP:0001369	Arthritis	HP	PTPN6
+HP:0001369	Arthritis	HP	IFIH1
+HP:0001635	Congestive heart failure	HP	IFIH1
+HP:0001637	Abnormal myocardium morphology	HP	PTPN6
+HP:0001637	Abnormal myocardium morphology	HP	IFIH1
+HP:0001367	Abnormal joint morphology	HP	PTPN6
+HP:0001367	Abnormal joint morphology	HP	IFIH1
+HP:0001357	Plagiocephaly	HP	IFIH1
+HP:0001344	Absent speech	HP	IFIH1
+HP:0001337	Tremor	HP	IFIH1
+HP:0001332	Dystonia	HP	IFIH1
+HP:0001325	Hypoglycemic coma	HP	NFKB2
+HP:0001324	Muscle weakness	HP	IFIH1
+HP:0001638	Cardiomyopathy	HP	PTPN6
+HP:0001638	Cardiomyopathy	HP	IFIH1
+HP:0001317	Abnormal cerebellum morphology	HP	IFIH1
+HP:0001317	Abnormal cerebellum morphology	HP	NFKB2
+HP:0001290	Generalized hypotonia	HP	IFIH1
+HP:0001288	Gait disturbance	HP	IFIH1
+HP:0001639	Hypertrophic cardiomyopathy	HP	IFIH1
+HP:0001384	Abnormal hip joint morphology	HP	IFIH1
+HP:0001633	Abnormal mitral valve morphology	HP	IFIH1
+HP:0001392	Abnormality of the liver	HP	IFIH1
+HP:0001392	Abnormality of the liver	HP	NFKB2
+WP:WP5087	Pleural mesothelioma	WP	IL1B
+HP:0001595	Abnormal hair morphology	HP	IFIH1
+HP:0001595	Abnormal hair morphology	HP	NFKB2
+HP:0001596	Alopecia	HP	NFKB2
+HP:0001597	Abnormal nail morphology	HP	IFIH1
+HP:0001597	Abnormal nail morphology	HP	NFKB2
+HP:0001608	Abnormality of the voice	HP	IFIH1
+HP:0001560	Abnormality of the amniotic fluid	HP	IFIH1
+HP:0001531	Failure to thrive in infancy	HP	NFKB2
+HP:0001511	Intrauterine growth retardation	HP	IFIH1
+HP:0001609	Hoarse voice	HP	IFIH1
+HP:0001510	Growth delay	HP	IFIH1
+HP:0001508	Failure to thrive	HP	NFKB2
+WP:WP5083	Neuroinflammation and glutamatergic signaling	WP	IL1B
+WP:WP5083	Neuroinflammation and glutamatergic signaling	WP	NFKB2
+HP:0001285	Spastic tetraparesis	HP	IFIH1
+HP:0001626	Abnormality of the cardiovascular system	HP	PTPN6
+HP:0001626	Abnormality of the cardiovascular system	HP	IFIH1
+HP:0001626	Abnormality of the cardiovascular system	HP	NFKB2
+HP:0001626	Abnormality of the cardiovascular system	HP	CD40
+HP:0001507	Growth abnormality	HP	IFIH1
+HP:0001507	Growth abnormality	HP	NFKB2
+HP:0001500	Broad finger	HP	IFIH1
+HP:0001627	Abnormal heart morphology	HP	PTPN6
+HP:0001627	Abnormal heart morphology	HP	IFIH1
+HP:0001442	Typified by somatic mosaicism	HP	IL1B
+HP:0001438	Abnormal abdomen morphology	HP	IFIH1
+HP:0001438	Abnormal abdomen morphology	HP	NFKB2
+HP:0001433	Hepatosplenomegaly	HP	IFIH1
+HP:0001397	Hepatic steatosis	HP	IFIH1
+HP:0001396	Cholestasis	HP	IFIH1
+HP:0001574	Abnormality of the integument	HP	PTPN6
+HP:0001574	Abnormality of the integument	HP	IFIH1
+HP:0001574	Abnormality of the integument	HP	NFKB2
+WP:WP1455	Serotonin transporter activity	WP	IL1B
+HP:0001257	Spasticity	HP	IFIH1
+HP:0001273	Abnormal corpus callosum morphology	HP	IFIH1
+HP:0000925	Abnormality of the vertebral column	HP	IFIH1
+HP:0000924	Abnormality of the skeletal system	HP	PTPN6
+HP:0000924	Abnormality of the skeletal system	HP	IFIH1
+HP:0000924	Abnormality of the skeletal system	HP	NFKB2
+HP:0000864	Abnormality of the hypothalamus-pituitary axis	HP	NFKB2
+HP:0000846	Adrenal insufficiency	HP	NFKB2
+HP:0000834	Abnormality of the adrenal glands	HP	NFKB2
+HP:0000830	Anterior hypopituitarism	HP	NFKB2
+HP:0000824	Decreased response to growth hormone stimulation test	HP	NFKB2
+HP:0000822	Hypertension	HP	IFIH1
+HP:0000821	Hypothyroidism	HP	IFIH1
+HP:0000820	Abnormality of the thyroid gland	HP	IFIH1
+HP:0000820	Abnormality of the thyroid gland	HP	NFKB2
+HP:0000819	Diabetes mellitus	HP	IFIH1
+HP:0000818	Abnormality of the endocrine system	HP	IFIH1
+HP:0000818	Abnormality of the endocrine system	HP	NFKB2
+HP:0000811	Abnormal external genitalia morphology	HP	IFIH1
+HP:0000769	Abnormality of the breast	HP	PTPN6
+HP:0000750	Delayed speech and language development	HP	IFIH1
+HP:0000737	Irritability	HP	IFIH1
+HP:0000707	Abnormality of the nervous system	HP	IFIH1
+HP:0000707	Abnormality of the nervous system	HP	NFKB2
+HP:0000706	Eruption failure	HP	IFIH1
+HP:0000685	Hypoplasia of teeth	HP	IFIH1
+HP:0000670	Carious teeth	HP	IFIH1
+WP:WP5095	Overview of proinflammatory and profibrotic mediators	WP	IL1B
+HP:0000651	Diplopia	HP	NFKB2
+HP:0000639	Nystagmus	HP	IFIH1
+HP:0000625	Eyelid coloboma	HP	IFIH1
+HP:0000600	Abnormality of the pharynx	HP	IFIH1
+HP:0000600	Abnormality of the pharynx	HP	NFKB2
+HP:0000599	Abnormality of the frontal hairline	HP	IFIH1
+HP:0000598	Abnormality of the ear	HP	IFIH1
+HP:0000598	Abnormality of the ear	HP	NFKB2
+HP:0000545	Myopia	HP	IFIH1
+HP:0000539	Abnormality of refraction	HP	IFIH1
+HP:0000929	Abnormal skull morphology	HP	IFIH1
+HP:0000929	Abnormal skull morphology	HP	NFKB2
+HP:0000938	Osteopenia	HP	IFIH1
+HP:0000939	Osteoporosis	HP	IFIH1
+HP:0000940	Abnormal diaphysis morphology	HP	IFIH1
+HP:0001272	Cerebellar atrophy	HP	IFIH1
+HP:0001263	Global developmental delay	HP	IFIH1
+HP:0001263	Global developmental delay	HP	NFKB2
+HP:0001259	Coma	HP	NFKB2
+WP:WP5078	T cell modulation and desmoplasia in pancreatic cancer	WP	CD40
+HP:0001252	Hypotonia	HP	IFIH1
+HP:0001250	Seizure	HP	IFIH1
+HP:0001250	Seizure	HP	NFKB2
+HP:0001249	Intellectual disability	HP	IFIH1
+HP:0001197	Abnormality of prenatal development or birth	HP	IFIH1
+HP:0001167	Abnormal finger morphology	HP	IFIH1
+WP:WP5088	Prostaglandin signaling	WP	IL1B
+WP:WP5094	Orexin receptor pathway	WP	IL1B
+HP:0001155	Abnormality of the hand	HP	PTPN6
+HP:0001155	Abnormality of the hand	HP	IFIH1
+HP:0001087	Developmental glaucoma	HP	IFIH1
+HP:0001063	Acrocyanosis	HP	IFIH1
+HP:0001276	Hypertonia	HP	IFIH1
+HP:0001061	Acne	HP	PTPN6
+HP:0001045	Vitiligo	HP	NFKB2
+HP:0001025	Urticaria	HP	IFIH1
+HP:0001005	Dermatological manifestations of systemic disorders	HP	IFIH1
+HP:0001000	Abnormality of skin pigmentation	HP	NFKB2
+HP:0000992	Cutaneous photosensitivity	HP	IFIH1
+HP:0000988	Skin rash	HP	IFIH1
+HP:0000979	Purpura	HP	NFKB2
+HP:0000969	Edema	HP	IFIH1
+HP:0000965	Cutis marmorata	HP	IFIH1
+HP:0000964	Eczematoid dermatitis	HP	IFIH1
+HP:0000961	Cyanosis	HP	IFIH1
+HP:0000958	Dry skin	HP	IFIH1
+HP:0000952	Jaundice	HP	IFIH1
+HP:0000951	Abnormality of the skin	HP	PTPN6
+HP:0000951	Abnormality of the skin	HP	IFIH1
+HP:0000951	Abnormality of the skin	HP	NFKB2
+HP:0001047	Atopic dermatitis	HP	IFIH1
+HP:0001640	Cardiomegaly	HP	IFIH1
+HP:0001698	Pericardial effusion	HP	IFIH1
+HP:0001646	Abnormal aortic valve morphology	HP	IFIH1
+HP:0002248	Hematemesis	HP	IFIH1
+HP:0002242	Abnormal intestine morphology	HP	PTPN6
+HP:0002240	Hepatomegaly	HP	IFIH1
+HP:0002239	Gastrointestinal hemorrhage	HP	IFIH1
+HP:0002205	Recurrent respiratory infections	HP	IFIH1
+HP:0002205	Recurrent respiratory infections	HP	NFKB2
+HP:0002202	Pleural effusion	HP	IFIH1
+HP:0002197	Generalized-onset seizure	HP	NFKB2
+HP:0002187	Intellectual disability, profound	HP	IFIH1
+HP:0002180	Neurodegeneration	HP	IFIH1
+HP:0002167	Abnormal speech pattern	HP	IFIH1
+HP:0002164	Nail dysplasia	HP	NFKB2
+HP:0002153	Hyperkalemia	HP	NFKB2
+HP:0002139	Arrhinencephaly	HP	IFIH1
+HP:0002250	Abnormal large intestine morphology	HP	PTPN6
+HP:0002135	Basal ganglia calcification	HP	IFIH1
+HP:0002132	Porencephalic cyst	HP	IFIH1
+HP:0002121	Generalized non-motor (absence) seizure	HP	NFKB2
+HP:0002119	Ventriculomegaly	HP	IFIH1
+HP:0002118	Abnormal cerebral ventricle morphology	HP	IFIH1
+HP:0002110	Bronchiectasis	HP	NFKB2
+HP:0002103	Abnormal pleura morphology	HP	IFIH1
+HP:0002099	Asthma	HP	NFKB2
+HP:0002098	Respiratory distress	HP	IFIH1
+HP:0002097	Emphysema	HP	NFKB2
+HP:0002094	Dyspnea	HP	IFIH1
+HP:0002093	Respiratory insufficiency	HP	IFIH1
+HP:0002091	Restrictive ventilatory defect	HP	NFKB2
+HP:0002090	Pneumonia	HP	IFIH1
+HP:0002090	Pneumonia	HP	NFKB2
+HP:0002134	Abnormal basal ganglia morphology	HP	IFIH1
+HP:0002088	Abnormal lung morphology	HP	IFIH1
+HP:0002088	Abnormal lung morphology	HP	NFKB2
+HP:0002273	Tetraparesis	HP	IFIH1
+HP:0002313	Spastic paraparesis	HP	IFIH1
+HP:0002664	Neoplasm	HP	PTPN6
+HP:0002664	Neoplasm	HP	IFIH1
+HP:0002664	Neoplasm	HP	IL1B
+HP:0002664	Neoplasm	HP	NFKB2
+HP:0002650	Scoliosis	HP	IFIH1
+HP:0002644	Abnormal pelvic girdle bone morphology	HP	IFIH1
+WP:WP4912	SARS coronavirus and innate immunity	WP	IFIH1
+HP:0002617	Vascular dilatation	HP	IFIH1
+HP:0002615	Hypotension	HP	NFKB2
+HP:0002597	Abnormality of the vasculature	HP	PTPN6
+HP:0002597	Abnormality of the vasculature	HP	IFIH1
+HP:0002597	Abnormality of the vasculature	HP	NFKB2
+HP:0002597	Abnormality of the vasculature	HP	CD40
+HP:0002582	Atrophic gastritis	HP	IFIH1
+HP:0002577	Abnormal stomach morphology	HP	IFIH1
+HP:0002577	Abnormal stomach morphology	HP	IL1B
+HP:0002577	Abnormal stomach morphology	HP	NFKB2
+HP:0002573	Hematochezia	HP	IFIH1
+HP:0002515	Waddling gait	HP	IFIH1
+HP:0002514	Cerebral calcification	HP	IFIH1
+HP:0002510	Spastic tetraplegia	HP	IFIH1
+HP:0002308	Chiari malformation	HP	NFKB2
+HP:0002509	Limb hypertonia	HP	IFIH1
+HP:0002493	Upper motor neuron dysfunction	HP	IFIH1
+HP:0002488	Acute leukemia	HP	PTPN6
+HP:0002463	Language impairment	HP	IFIH1
+WP:WP4925	Unfolded protein response	WP	IL1B
+HP:0002445	Tetraplegia	HP	IFIH1
+HP:0002438	Cerebellar malformation	HP	NFKB2
+HP:0002423	Long-tract sign	HP	IFIH1
+HP:0002421	Poor head control	HP	IFIH1
+HP:0002415	Leukodystrophy	HP	IFIH1
+HP:0002385	Paraparesis	HP	IFIH1
+HP:0002376	Developmental regression	HP	IFIH1
+HP:0002371	Loss of speech	HP	IFIH1
+HP:0002315	Headache	HP	IFIH1
+HP:0002500	Abnormal cerebral white matter morphology	HP	IFIH1
+HP:0001644	Dilated cardiomyopathy	HP	PTPN6
+HP:0002087	Abnormality of the upper respiratory tract	HP	IFIH1
+HP:0002087	Abnormality of the upper respiratory tract	HP	NFKB2
+HP:0002079	Hypoplasia of the corpus callosum	HP	IFIH1
+WP:WP5055	Burn wound healing	WP	IL1B
+HP:0001881	Abnormal leukocyte morphology	HP	PTPN6
+HP:0001881	Abnormal leukocyte morphology	HP	IFIH1
+HP:0001881	Abnormal leukocyte morphology	HP	NFKB2
+HP:0001881	Abnormal leukocyte morphology	HP	CD40
+HP:0001878	Hemolytic anemia	HP	IFIH1
+HP:0001878	Hemolytic anemia	HP	NFKB2
+HP:0001877	Abnormal erythrocyte morphology	HP	PTPN6
+HP:0001877	Abnormal erythrocyte morphology	HP	IFIH1
+HP:0001877	Abnormal erythrocyte morphology	HP	NFKB2
+HP:0001876	Pancytopenia	HP	IFIH1
+WP:WP5072	Modulators of TCR signaling and T cell activation	WP	PTPN6
+HP:0001875	Decreased total neutrophil count	HP	CD40
+HP:0001874	Abnormality of neutrophils	HP	PTPN6
+HP:0001874	Abnormality of neutrophils	HP	CD40
+HP:0001873	Thrombocytopenia	HP	IFIH1
+HP:0001873	Thrombocytopenia	HP	NFKB2
+HP:0001872	Abnormality of thrombocytes	HP	IFIH1
+HP:0001872	Abnormality of thrombocytes	HP	NFKB2
+HP:0001871	Abnormality of blood and blood-forming tissues	HP	PTPN6
+HP:0001871	Abnormality of blood and blood-forming tissues	HP	IFIH1
+HP:0001871	Abnormality of blood and blood-forming tissues	HP	NFKB2
+HP:0001871	Abnormality of blood and blood-forming tissues	HP	CD40
+HP:0001832	Abnormal metatarsal morphology	HP	IFIH1
+HP:0001824	Weight loss	HP	IFIH1
+HP:0001883	Talipes	HP	IFIH1
+HP:0001806	Onycholysis	HP	IFIH1
+HP:0001761	Pes cavus	HP	IFIH1
+HP:0001760	Abnormal foot morphology	HP	IFIH1
+HP:0001744	Splenomegaly	HP	IFIH1
+HP:0001744	Splenomegaly	HP	NFKB2
+HP:0001743	Abnormality of the spleen	HP	IFIH1
+HP:0001743	Abnormality of the spleen	HP	NFKB2
+HP:0001739	Abnormal nasopharynx morphology	HP	IFIH1
+HP:0001739	Abnormal nasopharynx morphology	HP	NFKB2
+HP:0001713	Abnormal cardiac ventricle morphology	HP	IFIH1
+HP:0001711	Abnormal left ventricle morphology	HP	IFIH1
+HP:0000508	Ptosis	HP	IFIH1
+HP:0001697	Abnormal pericardium morphology	HP	IFIH1
+HP:0001682	Subvalvular aortic stenosis	HP	IFIH1
+HP:0001679	Abnormal aortic morphology	HP	IFIH1
+HP:0001654	Abnormal heart valve morphology	HP	IFIH1
+HP:0001650	Aortic valve stenosis	HP	IFIH1
+HP:0001762	Talipes equinovarus	HP	IFIH1
+HP:0002086	Abnormality of the respiratory system	HP	IFIH1
+HP:0002086	Abnormality of the respiratory system	HP	NFKB2
+WP:WP5046	NAD metabolism in oncogene induced senescence and mitochondrial dysfunction associated senescence	WP	IL1B
+HP:0001888	Decreased total lymphocyte count	HP	IFIH1
+HP:0001888	Decreased total lymphocyte count	HP	NFKB2
+HP:0002071	Abnormality of extrapyramidal motor function	HP	IFIH1
+HP:0002063	Rigidity	HP	IFIH1
+HP:0002061	Lower limb spasticity	HP	IFIH1
+HP:0002060	Abnormal cerebral morphology	HP	IFIH1
+HP:0002059	Cerebral atrophy	HP	IFIH1
+HP:0002037	Inflammation of the large intestine	HP	PTPN6
+HP:0002023	Anal atresia	HP	NFKB2
+HP:0002021	Pyloric stenosis	HP	NFKB2
+HP:0002014	Diarrhea	HP	IFIH1
+HP:0002012	Abnormality of the abdominal organs	HP	IFIH1
+HP:0002012	Abnormality of the abdominal organs	HP	NFKB2
+HP:0002011	Morphological central nervous system abnormality	HP	IFIH1
+HP:0002011	Morphological central nervous system abnormality	HP	NFKB2
+HP:0001988	Recurrent hypoglycemia	HP	NFKB2
+HP:0001974	Increased total leukocyte count	HP	PTPN6
+WP:WP5033	Genes associated with the development of rheumatoid arthritis	WP	CD40
+HP:0001973	Autoimmune thrombocytopenia	HP	NFKB2
+HP:0001955	Unexplained fevers	HP	IFIH1
+HP:0001954	Recurrent fever	HP	PTPN6
+HP:0001954	Recurrent fever	HP	IFIH1
+HP:0001952	Glucose intolerance	HP	IFIH1
+HP:0001945	Fever	HP	PTPN6
+HP:0001945	Fever	HP	IFIH1
+WP:WP4961	STING pathway in Kawasaki like disease and COVID 19	WP	IL1B
+HP:0001943	Hypoglycemia	HP	NFKB2
+HP:0001939	Abnormality of metabolism/homeostasis	HP	PTPN6
+HP:0001939	Abnormality of metabolism/homeostasis	HP	IFIH1
+HP:0001939	Abnormality of metabolism/homeostasis	HP	IL1B
+HP:0001939	Abnormality of metabolism/homeostasis	HP	NFKB2
+HP:0001939	Abnormality of metabolism/homeostasis	HP	CD40
+HP:0001933	Subcutaneous hemorrhage	HP	NFKB2
+WP:WP4969	RAS and bradykinin pathways in COVID 19	WP	IL1B
+HP:0001911	Abnormal granulocyte morphology	HP	PTPN6
+HP:0001911	Abnormal granulocyte morphology	HP	CD40
+HP:0001909	Leukemia	HP	PTPN6
+HP:0001909	Leukemia	HP	IFIH1
+HP:0001903	Anemia	HP	PTPN6
+HP:0001903	Anemia	HP	IFIH1
+HP:0001903	Anemia	HP	NFKB2
+HP:0001892	Abnormal bleeding	HP	IFIH1
+HP:0001892	Abnormal bleeding	HP	NFKB2
+HP:0001965	Abnormal scalp morphology	HP	IFIH1
+HP:0000504	Abnormality of vision	HP	NFKB2
+HP:0000403	Recurrent otitis media	HP	NFKB2
+HP:0000496	Abnormality of eye movement	HP	IFIH1
+REAC:R-HSA-1643685	Disease	REAC	PTPN6
+REAC:R-HSA-1643685	Disease	REAC	IFIH1
+REAC:R-HSA-1643685	Disease	REAC	IL1B
+REAC:R-HSA-1643685	Disease	REAC	NFKB2
+REAC:R-HSA-5688426	Deubiquitination	REAC	IFIH1
+REAC:R-HSA-5607761	Dectin-1 mediated noncanonical NF-kB signaling	REAC	NFKB2
+REAC:R-HSA-3134963	DEx/H-box helicases activate type I IFN and inflammatory cytokines production 	REAC	NFKB2
+WP:WP5470	Effect of omega 3 PUFA on Huntington 39 s disease pathways	WP	IL1B
+WP:WP5473	Cytokine cytokine receptor interaction	WP	CD40
+WP:WP5473	Cytokine cytokine receptor interaction	WP	LTB
+WP:WP5485	Post COVID neuroinflammation	WP	IL1B
+REAC:R-HSA-1834949	Cytosolic sensors of pathogen-associated DNA 	REAC	NFKB2
+WP:WP5491	Transcriptional regulation of memory B cell differentiation	WP	CD40
+REAC:R-HSA-389948	Co-inhibition by PD-1	REAC	PTPN6
+REAC:R-HSA-4839726	Chromatin organization	REAC	NFKB2
+REAC:R-HSA-3247509	Chromatin modifying enzymes	REAC	NFKB2
+REAC:R-HSA-1500931	Cell-Cell communication	REAC	PTPN6
+REAC:R-HSA-202733	Cell surface interactions at the vascular wall	REAC	PTPN6
+WP:WP5527	NF kB signaling and ARTD family members	WP	NFKB2
+WP:WP5537	Psoriasis mechanisms and therapies	WP	IL1B
+REAC:R-HSA-5660668	CLEC7A/inflammasome pathway	REAC	IL1B
+WP:WP585	Interferon type I signaling	WP	PTPN6
+REAC:R-HSA-5690714	CD22 mediated BCR regulation	REAC	PTPN6
+REAC:R-HSA-5621481	C-type lectin receptors (CLRs)	REAC	IL1B
+REAC:R-HSA-5621481	C-type lectin receptors (CLRs)	REAC	NFKB2
+REAC:R-HSA-983695	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	REAC	PTPN6
+REAC:R-HSA-1280218	Adaptive Immune System	REAC	SLAMF7
+REAC:R-HSA-1280218	Adaptive Immune System	REAC	PTPN6
+GO:2001280	positive regulation of unsaturated fatty acid biosynthetic process	GO:BP	IL1B
+GO:2001279	regulation of unsaturated fatty acid biosynthetic process	GO:BP	IL1B
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO:BP	IL1B
+GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO:BP	IL1B
+GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	GO:BP	LTB
+REAC:R-HSA-5602358	Diseases associated with the TLR signaling cascade	REAC	NFKB2
+REAC:R-HSA-5260271	Diseases of Immune System	REAC	NFKB2
+REAC:R-HSA-5663202	Diseases of signal transduction by growth factor receptors and second messengers	REAC	PTPN6
+REAC:R-HSA-75205	Dissolution of Fibrin Clot	REAC	SERPINB2
+REAC:R-HSA-392499	Metabolism of proteins	REAC	IFIH1
+REAC:R-HSA-392499	Metabolism of proteins	REAC	NFKB2
+REAC:R-HSA-9658195	Leishmania infection	REAC	IL1B
+REAC:R-HSA-9658195	Leishmania infection	REAC	NFKB2
+REAC:R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	REAC	IL1B
+REAC:R-HSA-9008059	Interleukin-37 signaling	REAC	PTPN6
+REAC:R-HSA-512988	Interleukin-3, Interleukin-5 and GM-CSF signaling	REAC	PTPN6
+REAC:R-HSA-451927	Interleukin-2 family signaling	REAC	PTPN6
+REAC:R-HSA-9020591	Interleukin-12 signaling	REAC	SERPINB2
+REAC:R-HSA-447115	Interleukin-12 family signaling	REAC	SERPINB2
+REAC:R-HSA-6783783	Interleukin-10 signaling	REAC	IL1B
+WP:WP5347	IL26 signaling	WP	IL1B
+WP:WP5353	Macrophage stimulating protein MSP signaling	WP	IL1B
+REAC:R-HSA-912526	Interleukin receptor SHC signaling	REAC	PTPN6
+REAC:R-HSA-877300	Interferon gamma signaling	REAC	PTPN6
+GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	GO:BP	IL1B
+WP:WP5356	Affected pathways in Duchenne muscular dystrophy	WP	IL1B
+REAC:R-HSA-168249	Innate Immune System	REAC	PTPN6
+REAC:R-HSA-168249	Innate Immune System	REAC	IFIH1
+REAC:R-HSA-168249	Innate Immune System	REAC	IL1B
+REAC:R-HSA-168249	Innate Immune System	REAC	NFKB2
+REAC:R-HSA-622312	Inflammasomes	REAC	NFKB2
+REAC:R-HSA-5663205	Infectious disease	REAC	PTPN6
+REAC:R-HSA-5663205	Infectious disease	REAC	IFIH1
+REAC:R-HSA-5663205	Infectious disease	REAC	IL1B
+REAC:R-HSA-5663205	Infectious disease	REAC	NFKB2
+REAC:R-HSA-198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	REAC	SLAMF7
+WP:WP5381	Smith Magenis and Potocki Lupski syndrome copy number variation	WP	IL1B
+REAC:R-HSA-5603029	IkBA variant leads to EDA-ID	REAC	NFKB2
+REAC:R-HSA-109582	Hemostasis	REAC	SERPINB2
+REAC:R-HSA-109582	Hemostasis	REAC	PTPN6
+REAC:R-HSA-982772	Growth hormone receptor signaling	REAC	PTPN6
+REAC:R-HSA-8950505	Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	REAC	SERPINB2
+REAC:R-HSA-114604	GPVI-mediated activation cascade	REAC	PTPN6
+REAC:R-HSA-9833109	Evasion by RSV of host interferon responses	REAC	IFIH1
+WP:WP5434	Cancer pathways	WP	NFKB2
+WP:WP5440	EPAC1 and PKA reduction of retinal inflammation	WP	IL1B
+REAC:R-HSA-913531	Interferon Signaling	REAC	XAF1
+REAC:R-HSA-913531	Interferon Signaling	REAC	PTPN6
+GO:2001236	regulation of extrinsic apoptotic signaling pathway	GO:BP	IL1B
+GO:2001236	regulation of extrinsic apoptotic signaling pathway	GO:BP	LTB
+GO:2001235	positive regulation of apoptotic signaling pathway	GO:BP	LTB
+GO:2001234	negative regulation of apoptotic signaling pathway	GO:BP	IL1B
+GO:1903556	negative regulation of tumor necrosis factor superfamily cytokine production	GO:BP	PTPN6
+GO:1903555	regulation of tumor necrosis factor superfamily cytokine production	GO:BP	PTPN6
+GO:1903555	regulation of tumor necrosis factor superfamily cytokine production	GO:BP	IFIH1
+GO:1903532	positive regulation of secretion by cell	GO:BP	IL1B
+GO:1903531	negative regulation of secretion by cell	GO:BP	IL1B
+GO:1903530	regulation of secretion by cell	GO:BP	IL1B
+GO:1903169	regulation of calcium ion transmembrane transport	GO:BP	PTPN6
+WP:WP706	Sudden infant death syndrome SIDS susceptibility pathways	WP	IL1B
+WP:WP706	Sudden infant death syndrome SIDS susceptibility pathways	WP	NFKB2
+GO:1903140	regulation of establishment of endothelial barrier	GO:BP	IL1B
+GO:1903131	mononuclear cell differentiation	GO:BP	PTPN6
+GO:1903131	mononuclear cell differentiation	GO:BP	IL1B
+GO:1903047	mitotic cell cycle process	GO:BP	PTPN6
+GO:1903047	mitotic cell cycle process	GO:BP	IL1B
+GO:1903039	positive regulation of leukocyte cell-cell adhesion	GO:BP	PTPN6
+GO:1903039	positive regulation of leukocyte cell-cell adhesion	GO:BP	IL1B
+GO:1903038	negative regulation of leukocyte cell-cell adhesion	GO:BP	PTPN6
+GO:1903037	regulation of leukocyte cell-cell adhesion	GO:BP	PTPN6
+GO:1903037	regulation of leukocyte cell-cell adhesion	GO:BP	IL1B
+GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production	GO:BP	IFIH1
+GO:1903035	negative regulation of response to wounding	GO:BP	SERPINB2
+GO:1903035	negative regulation of response to wounding	GO:BP	PTPN6
+GO:1902806	regulation of cell cycle G1/S phase transition	GO:BP	PTPN6
+GO:1902680	positive regulation of RNA biosynthetic process	GO:BP	IL1B
+GO:1902680	positive regulation of RNA biosynthetic process	GO:BP	NFKB2
+GO:1902680	positive regulation of RNA biosynthetic process	GO:BP	CD40
+GO:1902533	positive regulation of intracellular signal transduction	GO:BP	PTPN6
+GO:1902533	positive regulation of intracellular signal transduction	GO:BP	IL1B
+GO:1902533	positive regulation of intracellular signal transduction	GO:BP	CD40
+GO:1902533	positive regulation of intracellular signal transduction	GO:BP	LTB
+GO:1902532	negative regulation of intracellular signal transduction	GO:BP	PTPN6
+GO:1902532	negative regulation of intracellular signal transduction	GO:BP	IL1B
+GO:1902531	regulation of intracellular signal transduction	GO:BP	PTPN6
+GO:1902531	regulation of intracellular signal transduction	GO:BP	IL1B
+GO:1902531	regulation of intracellular signal transduction	GO:BP	CD40
+GO:1902531	regulation of intracellular signal transduction	GO:BP	LTB
+GO:1902105	regulation of leukocyte differentiation	GO:BP	PTPN6
+GO:1901990	regulation of mitotic cell cycle phase transition	GO:BP	PTPN6
+GO:1901987	regulation of cell cycle phase transition	GO:BP	PTPN6
+GO:1901889	negative regulation of cell junction assembly	GO:BP	IL1B
+GO:1901888	regulation of cell junction assembly	GO:BP	IL1B
+GO:1901701	cellular response to oxygen-containing compound	GO:BP	IL1B
+GO:1901701	cellular response to oxygen-containing compound	GO:BP	CD40
+WP:WP710	DNA damage response only ATM dependent 	WP	NFKB2
+GO:1901700	response to oxygen-containing compound	GO:BP	IL1B
+GO:1901700	response to oxygen-containing compound	GO:BP	NFKB2
+GO:1901700	response to oxygen-containing compound	GO:BP	CD40
+GO:1903034	regulation of response to wounding	GO:BP	SERPINB2
+GO:1903034	regulation of response to wounding	GO:BP	PTPN6
+REAC:R-HSA-975871	MyD88 cascade initiated on plasma membrane	REAC	NFKB2
+GO:1903596	regulation of gap junction assembly	GO:BP	IL1B
+GO:1903706	regulation of hemopoiesis	GO:BP	PTPN6
+GO:2001233	regulation of apoptotic signaling pathway	GO:BP	IL1B
+GO:2001233	regulation of apoptotic signaling pathway	GO:BP	LTB
+GO:2001141	regulation of RNA biosynthetic process	GO:BP	IL1B
+GO:2001141	regulation of RNA biosynthetic process	GO:BP	NFKB2
+GO:2001141	regulation of RNA biosynthetic process	GO:BP	CD40
+GO:2001057	reactive nitrogen species metabolic process	GO:BP	IL1B
+GO:2000556	positive regulation of T-helper 1 cell cytokine production	GO:BP	IL1B
+GO:2000554	regulation of T-helper 1 cell cytokine production	GO:BP	IL1B
+GO:2000353	positive regulation of endothelial cell apoptotic process	GO:BP	CD40
+GO:2000351	regulation of endothelial cell apoptotic process	GO:BP	CD40
+GO:2000193	positive regulation of fatty acid transport	GO:BP	IL1B
+GO:2000191	regulation of fatty acid transport	GO:BP	IL1B
+GO:2000181	negative regulation of blood vessel morphogenesis	GO:BP	PTPN6
+GO:2000147	positive regulation of cell motility	GO:BP	IL1B
+GO:2000147	positive regulation of cell motility	GO:BP	CD40
+GO:2000145	regulation of cell motility	GO:BP	IL1B
+GO:2000145	regulation of cell motility	GO:BP	CD40
+GO:2000045	regulation of G1/S transition of mitotic cell cycle	GO:BP	PTPN6
+GO:1903597	negative regulation of gap junction assembly	GO:BP	IL1B
+GO:2000026	regulation of multicellular organismal development	GO:BP	PTPN6
+GO:2000026	regulation of multicellular organismal development	GO:BP	IL1B
+GO:2000026	regulation of multicellular organismal development	GO:BP	CD40
+GO:1905954	positive regulation of lipid localization	GO:BP	IL1B
+GO:1905952	regulation of lipid localization	GO:BP	IL1B
+GO:1905867	epididymis development	GO:BP	PTPN6
+GO:1904951	positive regulation of establishment of protein localization	GO:BP	IL1B
+GO:1904950	negative regulation of establishment of protein localization	GO:BP	IL1B
+WP:WP619	Type II interferon signaling	WP	IL1B
+GO:1904659	D-glucose transmembrane transport	GO:BP	IL1B
+GO:1904407	positive regulation of nitric oxide metabolic process	GO:BP	IL1B
+GO:1904062	regulation of monoatomic cation transmembrane transport	GO:BP	PTPN6
+GO:1904018	positive regulation of vasculature development	GO:BP	IL1B
+GO:1904018	positive regulation of vasculature development	GO:BP	CD40
+GO:1903900	regulation of viral life cycle	GO:BP	IFIH1
+GO:1903829	positive regulation of protein localization	GO:BP	IL1B
+GO:1903828	negative regulation of protein localization	GO:BP	IL1B
+GO:1990266	neutrophil migration	GO:BP	IL1B
+REAC:R-HSA-975155	MyD88 dependent cascade initiated on endosome	REAC	NFKB2
+REAC:R-HSA-166166	MyD88-independent TLR4 cascade 	REAC	NFKB2
+REAC:R-HSA-166058	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	REAC	NFKB2
+HP:0000164	Abnormality of the dentition	HP	IFIH1
+HP:0000163	Abnormal oral cavity morphology	HP	IFIH1
+HP:0000159	Abnormal lip morphology	HP	IFIH1
+WP:WP5124	Alzheimer 39 s disease	WP	IL1B
+HP:0000153	Abnormality of the mouth	HP	IFIH1
+HP:0000152	Abnormality of head or neck	HP	PTPN6
+HP:0000152	Abnormality of head or neck	HP	IFIH1
+HP:0000152	Abnormality of head or neck	HP	NFKB2
+HP:0000119	Abnormality of the genitourinary system	HP	IFIH1
+HP:0000119	Abnormality of the genitourinary system	HP	IL1B
+HP:0000118	Phenotypic abnormality	HP	PTPN6
+HP:0000118	Phenotypic abnormality	HP	IFIH1
+HP:0000118	Phenotypic abnormality	HP	IL1B
+HP:0000118	Phenotypic abnormality	HP	NFKB2
+HP:0000118	Phenotypic abnormality	HP	CD40
+HP:0000100	Nephrotic syndrome	HP	IFIH1
+HP:0000079	Abnormality of the urinary system	HP	IFIH1
+HP:0000079	Abnormality of the urinary system	HP	IL1B
+HP:0000078	Abnormality of the genital system	HP	IFIH1
+HP:0000077	Abnormality of the kidney	HP	IFIH1
+HP:0000054	Micropenis	HP	IFIH1
+HP:0000177	Abnormal upper lip morphology	HP	IFIH1
+HP:0000050	Hypoplastic male external genitalia	HP	IFIH1
+HP:0000032	Abnormal male external genitalia morphology	HP	IFIH1
+HP:0000007	Autosomal recessive inheritance	HP	IFIH1
+HP:0000007	Autosomal recessive inheritance	HP	CD40
+HP:0000006	Autosomal dominant inheritance	HP	IFIH1
+HP:0000006	Autosomal dominant inheritance	HP	NFKB2
+HP:0000005	Mode of inheritance	HP	IFIH1
+HP:0000005	Mode of inheritance	HP	IL1B
+HP:0000005	Mode of inheritance	HP	NFKB2
+HP:0000005	Mode of inheritance	HP	CD40
+HP:0000002	Abnormality of body height	HP	IFIH1
+HP:0000001	HP root	HP	PTPN6
+HP:0000001	HP root	HP	IFIH1
+HP:0000001	HP root	HP	IL1B
+HP:0000001	HP root	HP	NFKB2
+HP:0000001	HP root	HP	CD40
+REAC:0000000	REACTOME root term	REAC	SERPINB2
+REAC:0000000	REACTOME root term	REAC	XAF1
+REAC:0000000	REACTOME root term	REAC	SLAMF7
+REAC:0000000	REACTOME root term	REAC	PTPN6
+REAC:0000000	REACTOME root term	REAC	IFIH1
+REAC:0000000	REACTOME root term	REAC	IL1B
+REAC:0000000	REACTOME root term	REAC	NFKB2
+REAC:0000000	REACTOME root term	REAC	LTB
+REAC:R-HSA-1606322	ZBP1(DAI) mediated induction of type I IFNs	REAC	NFKB2
+REAC:R-HSA-9824446	Viral Infection Pathways	REAC	PTPN6
+REAC:R-HSA-9824446	Viral Infection Pathways	REAC	IFIH1
+REAC:R-HSA-5689880	Ub-specific processing proteases	REAC	IFIH1
+REAC:R-HSA-168898	Toll-like Receptor Cascades	REAC	NFKB2
+REAC:R-HSA-168188	Toll Like Receptor TLR6:TLR2 Cascade	REAC	NFKB2
+REAC:R-HSA-168179	Toll Like Receptor TLR1:TLR2 Cascade	REAC	NFKB2
+HP:0000036	Abnormal penis morphology	HP	IFIH1
+REAC:R-HSA-168138	Toll Like Receptor 9 (TLR9) Cascade	REAC	NFKB2
+HP:0000219	Thin upper lip vermilion	HP	IFIH1
+HP:0000234	Abnormality of the head	HP	PTPN6
+HP:0000234	Abnormality of the head	HP	IFIH1
+HP:0000234	Abnormality of the head	HP	NFKB2
+HP:0000492	Abnormal eyelid morphology	HP	IFIH1
+HP:0000478	Abnormality of the eye	HP	IFIH1
+HP:0000478	Abnormality of the eye	HP	NFKB2
+HP:0000464	Abnormality of the neck	HP	PTPN6
+HP:0000444	Convex nasal ridge	HP	IFIH1
+WP:WP5113	Antiviral and anti inflammatory effects of Nrf2 on SARS CoV 2 pathway	WP	IL1B
+HP:0002665	Lymphoma	HP	NFKB2
+HP:0000389	Chronic otitis media	HP	NFKB2
+HP:0000388	Otitis media	HP	NFKB2
+HP:0000377	Abnormal pinna morphology	HP	IFIH1
+HP:0000370	Abnormality of the middle ear	HP	NFKB2
+HP:0000369	Low-set ears	HP	IFIH1
+HP:0000366	Abnormality of the nose	HP	IFIH1
+HP:0000366	Abnormality of the nose	HP	NFKB2
+HP:0000357	Abnormal location of ears	HP	IFIH1
+HP:0000233	Thin vermilion border	HP	IFIH1
+HP:0000356	Abnormality of the outer ear	HP	IFIH1
+HP:0000337	Broad forehead	HP	IFIH1
+HP:0000327	Hypoplasia of the maxilla	HP	IFIH1
+HP:0000326	Abnormal maxilla morphology	HP	IFIH1
+HP:0000319	Smooth philtrum	HP	IFIH1
+HP:0000315	Abnormality of the orbital region	HP	IFIH1
+HP:0000290	Abnormal forehead morphology	HP	IFIH1
+HP:0000288	Abnormality of the philtrum	HP	IFIH1
+HP:0000271	Abnormality of the face	HP	PTPN6
+HP:0000271	Abnormality of the face	HP	IFIH1
+HP:0000271	Abnormality of the face	HP	NFKB2
+HP:0000252	Microcephaly	HP	IFIH1
+HP:0000248	Brachycephaly	HP	NFKB2
+HP:0000246	Sinusitis	HP	NFKB2
+HP:0000245	Abnormal paranasal sinus morphology	HP	NFKB2
+HP:0000240	Abnormality of skull size	HP	IFIH1
+WP:WP5120	Inclusion body myositis	WP	NFKB2
+HP:0000501	Glaucoma	HP	IFIH1
+REAC:R-HSA-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	REAC	NFKB2
+REAC:R-HSA-166016	Toll Like Receptor 4 (TLR4) Cascade	REAC	NFKB2
+REAC:R-HSA-9678108	SARS-CoV-1 Infection	REAC	IFIH1
+WP:WP530	Cytokines and inflammatory response	WP	IL1B
+REAC:R-HSA-9679506	SARS-CoV Infections	REAC	PTPN6
+REAC:R-HSA-9679506	SARS-CoV Infections	REAC	IFIH1
+REAC:R-HSA-9820952	Respiratory Syncytial Virus Infection Pathway	REAC	IFIH1
+REAC:R-HSA-388841	Regulation of T cell activation by CD28 family	REAC	PTPN6
+REAC:R-HSA-1433559	Regulation of KIT signaling	REAC	PTPN6
+REAC:R-HSA-877312	Regulation of IFNG signaling	REAC	PTPN6
+REAC:R-HSA-912694	Regulation of IFNA/IFNB signaling	REAC	PTPN6
+REAC:R-HSA-5218859	Regulated Necrosis	REAC	IL1B
+REAC:R-HSA-9833110	RSV-host interactions	REAC	IFIH1
+REAC:R-HSA-1810476	RIP-mediated NFkB activation via ZBP1	REAC	NFKB2
+REAC:R-HSA-5620971	Pyroptosis	REAC	IL1B
+WP:WP5345	1p36 copy number variation syndrome	WP	IFIH1
+REAC:R-HSA-9692916	SARS-CoV-1 activates/modulates innate immune responses	REAC	IFIH1
+REAC:R-HSA-5357801	Programmed Cell Death	REAC	IL1B
+REAC:R-HSA-432142	Platelet sensitization by LDL	REAC	PTPN6
+REAC:R-HSA-418346	Platelet homeostasis	REAC	PTPN6
+REAC:R-HSA-76002	Platelet activation, signaling and aggregation	REAC	PTPN6
+REAC:R-HSA-9824443	Parasitic Infection Pathways	REAC	IL1B
+REAC:R-HSA-9824443	Parasitic Infection Pathways	REAC	NFKB2
+REAC:R-HSA-3214841	PKMTs methylate histone lysines	REAC	NFKB2
+REAC:R-HSA-210990	PECAM1 interactions	REAC	PTPN6
+REAC:R-HSA-5689896	Ovarian tumor domain proteases	REAC	IFIH1
+REAC:R-HSA-168643	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	REAC	NFKB2
+REAC:R-HSA-9725371	Nuclear events stimulated by ALK signaling in cancer	REAC	PTPN6
+REAC:R-HSA-6798695	Neutrophil degranulation	REAC	PTPN6
+REAC:R-HSA-936440	Negative regulators of DDX58/IFIH1 signaling	REAC	IFIH1
+REAC:R-HSA-5676590	NIK-->noncanonical NF-kB signaling	REAC	NFKB2
+REAC:R-HSA-933543	NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10	REAC	IFIH1
+REAC:R-HSA-597592	Post-translational protein modification	REAC	IFIH1
+REAC:R-HSA-597592	Post-translational protein modification	REAC	NFKB2
+REAC:R-HSA-168176	Toll Like Receptor 5 (TLR5) Cascade	REAC	NFKB2
+REAC:R-HSA-9692914	SARS-CoV-1-host interactions	REAC	IFIH1
+REAC:R-HSA-9694516	SARS-CoV-2 Infection	REAC	PTPN6
+REAC:R-HSA-9694516	SARS-CoV-2 Infection	REAC	IFIH1
+REAC:R-HSA-168164	Toll Like Receptor 3 (TLR3) Cascade	REAC	NFKB2
+REAC:R-HSA-181438	Toll Like Receptor 2 (TLR2) Cascade	REAC	NFKB2
+REAC:R-HSA-168142	Toll Like Receptor 10 (TLR10) Cascade	REAC	NFKB2
+REAC:R-HSA-844456	The NLRP3 inflammasome	REAC	NFKB2
+REAC:R-HSA-937061	TRIF (TICAM1)-mediated TLR4 signaling 	REAC	NFKB2
+REAC:R-HSA-975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	REAC	NFKB2
+WP:WP5130	Th17 cell differentiation pathway	WP	IL1B
+WP:WP5144	NRP1 triggered signaling in pancreatic cancer 	WP	NFKB2
+WP:WP5158	Urotensin II mediated signaling	WP	IL1B
+REAC:R-HSA-933541	TRAF6 mediated IRF7 activation	REAC	IFIH1
+REAC:R-HSA-918233	TRAF3-dependent IRF activation pathway	REAC	IFIH1
+WP:WP5187	mRNA vaccine activation of dendritic cell and induction of IFN 1	WP	IFIH1
+REAC:R-HSA-5676594	TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	REAC	LTB
+WP:WP5285	Immune infiltration in pancreatic cancer	WP	IL1B
+REAC:R-HSA-445989	TAK1-dependent IKK and NF-kappa-B activation  	REAC	NFKB2
+REAC:R-HSA-983705	Signaling by the B Cell Receptor (BCR)	REAC	PTPN6
+REAC:R-HSA-1433557	Signaling by SCF-KIT	REAC	PTPN6
+REAC:R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	REAC	PTPN6
+WP:WP5224	2q37 copy number variation syndrome	WP	IL1B
+REAC:R-HSA-9700206	Signaling by ALK in cancer	REAC	PTPN6
+REAC:R-HSA-9725370	Signaling by ALK fusions and activated point mutants	REAC	PTPN6
+REAC:R-HSA-201556	Signaling by ALK	REAC	PTPN6
+REAC:R-HSA-391160	Signal regulatory protein family interactions	REAC	PTPN6
+REAC:R-HSA-162582	Signal Transduction	REAC	PTPN6
+REAC:R-HSA-4755510	SUMOylation of immune response proteins	REAC	NFKB2
+REAC:R-HSA-2990846	SUMOylation	REAC	NFKB2
+REAC:R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	REAC	NFKB2
+REAC:R-HSA-9705683	SARS-CoV-2-host interactions	REAC	PTPN6
+REAC:R-HSA-9705683	SARS-CoV-2-host interactions	REAC	IFIH1
+WP:WP5222	2q13 copy number variation syndrome	WP	IL1B
+HP:0002673	Coxa valga	HP	IFIH1
+HP:0002721	Immunodeficiency	HP	NFKB2
+HP:0002721	Immunodeficiency	HP	CD40
+HP:0002684	Thickened calvaria	HP	IFIH1
+HP:0025756	Abnormal nail attachment	HP	IFIH1
+HP:0025616	Sterile abscess	HP	PTPN6
+WP:WP3863	T cell antigen receptor TCR pathway during Staphylococcus aureus infection	WP	PTPN6
+HP:0025615	Abscess	HP	PTPN6
+HP:0025474	Erythematous plaque	HP	PTPN6
+HP:0025454	Abnormal CSF metabolite concentration	HP	IFIH1
+HP:0025452	Pyoderma gangrenosum	HP	PTPN6
+WP:WP3865	Novel intracellular components of RIG I like receptor pathway	WP	IFIH1
+HP:0025439	Pharyngitis	HP	NFKB2
+HP:0025426	Abnormal bronchus morphology	HP	NFKB2
+WP:WP3888	VEGFA VEGFR2 signaling	WP	PTPN6
+HP:0025408	Abnormal spleen morphology	HP	IFIH1
+HP:0025408	Abnormal spleen morphology	HP	NFKB2
+HP:0025379	Anti-thyroid peroxidase antibody positivity	HP	NFKB2
+WP:WP3890	Nanomaterial induced inflammasome activation	WP	IL1B
+HP:0025354	Abnormal cellular phenotype	HP	IFIH1
+HP:0025354	Abnormal cellular phenotype	HP	NFKB2
+HP:0025354	Abnormal cellular phenotype	HP	CD40
+HP:0025323	Abnormal arterial physiology	HP	IFIH1
+HP:0025179	Ground-glass opacification	HP	IFIH1
+HP:0025142	Constitutional symptom	HP	PTPN6
+HP:0025142	Constitutional symptom	HP	NFKB2
+HP:0025085	Bloody diarrhea	HP	IFIH1
+HP:0025033	Abnormal digestive system morphology	HP	PTPN6
+HP:0025033	Abnormal digestive system morphology	HP	IFIH1
+HP:0025033	Abnormal digestive system morphology	HP	IL1B
+HP:0025033	Abnormal digestive system morphology	HP	NFKB2
+HP:0025032	Abnormality of digestive system physiology	HP	PTPN6
+HP:0025032	Abnormality of digestive system physiology	HP	IFIH1
+HP:0025032	Abnormality of digestive system physiology	HP	NFKB2
+HP:0025031	Abnormality of the digestive system	HP	PTPN6
+HP:0025031	Abnormality of the digestive system	HP	IFIH1
+HP:0025031	Abnormality of the digestive system	HP	IL1B
+HP:0025031	Abnormality of the digestive system	HP	NFKB2
+HP:0025021	Abnormal erythrocyte sedimentation rate	HP	PTPN6
+HP:0025015	Abnormal vascular morphology	HP	PTPN6
+HP:0025015	Abnormal vascular morphology	HP	IFIH1
+HP:0025015	Abnormal vascular morphology	HP	NFKB2
+HP:0020169	Abnormal drug response	HP	PTPN6
+HP:0020100	Unusual fungal infection	HP	NFKB2
+HP:0012823	Clinical modifier	HP	IFIH1
+HP:0012823	Clinical modifier	HP	NFKB2
+WP:WP3858	Toll like receptor signaling related to MyD88	WP	NFKB2
+HP:0025766	Abnormal affect	HP	IFIH1
+HP:0025792	Abnormal cognitive process	HP	IFIH1
+HP:0025806	Abnormal total B cell count	HP	NFKB2
+HP:0030972	Abnormal systemic blood pressure	HP	IFIH1
+HP:0030972	Abnormal systemic blood pressure	HP	NFKB2
+HP:0030962	Abnormal morphology of the great vessels	HP	IFIH1
+HP:0030880	Raynaud phenomenon	HP	IFIH1
+WP:WP289	Myometrial relaxation and contraction pathways	WP	IL1B
+HP:0030878	Abnormality on pulmonary function testing	HP	NFKB2
+WP:WP304	Kit receptor signaling	WP	PTPN6
+HP:0030804	Trachyonychia	HP	NFKB2
+HP:0030791	Abnormal jaw morphology	HP	IFIH1
+WP:WP3286	Copper homeostasis	WP	XAF1
+HP:0030783	Increased circulating interleukin 6 concentration	HP	PTPN6
+HP:0030680	Abnormal cardiovascular system morphology	HP	PTPN6
+HP:0030680	Abnormal cardiovascular system morphology	HP	IFIH1
+HP:0030680	Abnormal cardiovascular system morphology	HP	NFKB2
+WP:WP3624	Lung fibrosis	WP	IL1B
+HP:0030674	Antenatal onset	HP	IFIH1
+HP:0012759	Neurodevelopmental abnormality	HP	IFIH1
+HP:0012759	Neurodevelopmental abnormality	HP	NFKB2
+HP:0030669	Abnormal ocular adnexa morphology	HP	IFIH1
+HP:0030355	Abnormal circulating interferon-gamma concentration	HP	IFIH1
+WP:WP382	MAPK signaling	WP	IL1B
+WP:WP382	MAPK signaling	WP	NFKB2
+HP:0030353	Decreased serum insulin-like growth factor 1	HP	NFKB2
+HP:0030352	Abnormal serum insulin-like growth factor 1 level	HP	NFKB2
+HP:0030350	Erythematous papule	HP	PTPN6
+HP:0030349	Decreased circulating androgen concentration	HP	NFKB2
+HP:0030347	Abnormal circulating androgen level	HP	NFKB2
+HP:0030311	Lower extremity joint dislocation	HP	IFIH1
+HP:0030182	Tetraplegia/tetraparesis	HP	IFIH1
+HP:0030163	Abnormal vascular physiology	HP	IFIH1
+HP:0030057	Autoimmune antibody positivity	HP	NFKB2
+HP:0030043	Hip subluxation	HP	IFIH1
+HP:0030038	Enchondroma	HP	IFIH1
+HP:0030356	Increased circulating interferon-gamma concentration	HP	IFIH1
+HP:0012758	Neurodevelopmental delay	HP	IFIH1
+HP:0012758	Neurodevelopmental delay	HP	NFKB2
+HP:0012719	Functional abnormality of the gastrointestinal tract	HP	PTPN6
+HP:0012719	Functional abnormality of the gastrointestinal tract	HP	IFIH1
+HP:0012719	Functional abnormality of the gastrointestinal tract	HP	NFKB2
+HP:0012718	Abnormal gastrointestinal tract morphology	HP	PTPN6
+HP:0012718	Abnormal gastrointestinal tract morphology	HP	IFIH1
+HP:0012718	Abnormal gastrointestinal tract morphology	HP	IL1B
+HP:0012718	Abnormal gastrointestinal tract morphology	HP	NFKB2
+WP:WP395	IL4 signaling	WP	PTPN6
+WP:WP4008	NO cGMP PKG mediated neuroprotection	WP	IL1B
+HP:0011968	Feeding difficulties	HP	IFIH1
+HP:0011947	Respiratory tract infection	HP	IFIH1
+HP:0011947	Respiratory tract infection	HP	NFKB2
+HP:0011944	Small vessel vasculitis	HP	PTPN6
+HP:0011915	Cardiovascular calcification	HP	IFIH1
+HP:0011897	Increased total neutrophil count	HP	PTPN6
+HP:0011895	Anemia due to reduced life span of red cells	HP	IFIH1
+HP:0011895	Anemia due to reduced life span of red cells	HP	NFKB2
+WP:WP4217	Ebola virus infection in host	WP	NFKB2
+HP:0011875	Abnormal platelet morphology	HP	IFIH1
+HP:0011875	Abnormal platelet morphology	HP	NFKB2
+HP:0011873	Abnormal platelet count	HP	IFIH1
+HP:0011873	Abnormal platelet count	HP	NFKB2
+HP:0011849	Abnormal bone ossification	HP	IFIH1
+HP:0011844	Abnormal appendicular skeleton morphology	HP	IFIH1
+HP:0011991	Abnormal total neutrophil count	HP	PTPN6
+HP:0011991	Abnormal total neutrophil count	HP	CD40
+HP:0011843	Abnormal musculoskeletal physiology	HP	IFIH1
+HP:0011834	Moyamoya phenomenon	HP	IFIH1
+HP:0011821	Abnormal facial skeleton morphology	HP	IFIH1
+HP:0011821	Abnormal facial skeleton morphology	HP	NFKB2
+WP:WP4262	Breast cancer pathway	WP	NFKB2
+HP:0011805	Abnormal skeletal muscle morphology	HP	PTPN6
+HP:0011805	Abnormal skeletal muscle morphology	HP	IFIH1
+HP:0011804	Abnormal muscle physiology	HP	IFIH1
+HP:0011793	Neoplasm by anatomical site	HP	PTPN6
+HP:0011793	Neoplasm by anatomical site	HP	IFIH1
+HP:0011793	Neoplasm by anatomical site	HP	IL1B
+HP:0011793	Neoplasm by anatomical site	HP	NFKB2
+HP:0011772	Abnormal thyroid morphology	HP	NFKB2
+HP:0011747	Abnormality of the anterior pituitary	HP	NFKB2
+HP:0011735	Adrenocorticotropin deficient adrenal insufficiency	HP	NFKB2
+HP:0011734	Central adrenal insufficiency	HP	NFKB2
+HP:0011733	Abnormality of adrenal physiology	HP	NFKB2
+HP:0011731	Abnormality of circulating cortisol level	HP	NFKB2
+HP:0011729	Abnormality of joint mobility	HP	IFIH1
+HP:0011842	Abnormal skeletal morphology	HP	PTPN6
+HP:0011842	Abnormal skeletal morphology	HP	IFIH1
+HP:0011842	Abnormal skeletal morphology	HP	NFKB2
+HP:0031072	Abnormal endocrine physiology	HP	NFKB2
+WP:WP3937	Microglia pathogen phagocytosis pathway	WP	PTPN6
+HP:0012111	Abnormality of circulating glucocorticoid level	HP	NFKB2
+HP:0012649	Increased inflammatory response	HP	PTPN6
+HP:0012649	Increased inflammatory response	HP	IFIH1
+HP:0012649	Increased inflammatory response	HP	NFKB2
+HP:0012647	Abnormal inflammatory response	HP	PTPN6
+HP:0012647	Abnormal inflammatory response	HP	IFIH1
+HP:0012647	Abnormal inflammatory response	HP	NFKB2
+HP:0012639	Abnormal nervous system morphology	HP	IFIH1
+HP:0012639	Abnormal nervous system morphology	HP	NFKB2
+HP:0012638	Abnormal nervous system physiology	HP	IFIH1
+HP:0012638	Abnormal nervous system physiology	HP	NFKB2
+HP:0012547	Abnormal involuntary eye movements	HP	IFIH1
+HP:0012531	Pain	HP	PTPN6
+HP:0012531	Pain	HP	NFKB2
+HP:0012504	Abnormal size of pituitary gland	HP	NFKB2
+HP:0012503	Abnormal pituitary gland morphology	HP	NFKB2
+WP:WP3893	Development and heterogeneity of the ILC family	WP	IL1B
+HP:0012448	Delayed myelination	HP	IFIH1
+HP:0012447	Abnormal myelination	HP	IFIH1
+HP:0012444	Brain atrophy	HP	IFIH1
+HP:0012443	Abnormal brain morphology	HP	IFIH1
+HP:0012443	Abnormal brain morphology	HP	NFKB2
+WP:WP3930	EDA signaling in hair follicle development	WP	LTB
+HP:0012387	Bronchitis	HP	NFKB2
+HP:0012378	Fatigue	HP	NFKB2
+HP:0012373	Abnormal eye physiology	HP	IFIH1
+HP:0012373	Abnormal eye physiology	HP	NFKB2
+HP:0012372	Abnormal eye morphology	HP	IFIH1
+HP:0012337	Abnormal homeostasis	HP	PTPN6
+HP:0012337	Abnormal homeostasis	HP	IFIH1
+HP:0012337	Abnormal homeostasis	HP	NFKB2
+HP:0012252	Abnormal respiratory system morphology	HP	IFIH1
+HP:0012252	Abnormal respiratory system morphology	HP	NFKB2
+HP:0012243	Abnormal reproductive system morphology	HP	IFIH1
+HP:0012229	CSF pleocytosis	HP	IFIH1
+HP:0012211	Abnormal renal physiology	HP	IFIH1
+HP:0012203	Onychomycosis	HP	NFKB2
+HP:0012145	Abnormality of multiple cell lineages in the bone marrow	HP	IFIH1
+HP:0012126	Stomach cancer	HP	IL1B
+HP:0012115	Hepatitis	HP	IFIH1
+WP:WP3926	ApoE and miR 146 in inflammation and atherosclerosis	WP	NFKB2
+HP:0012379	Abnormal circulating enzyme concentration or activity	HP	IFIH1
+HP:0012379	Abnormal circulating enzyme concentration or activity	HP	NFKB2
+HP:0011514	Abnormality of binocular vision	HP	NFKB2
+HP:0031073	Abnormal response to endocrine stimulation test	HP	NFKB2
+HP:0031093	Abnormal breast morphology	HP	PTPN6
+HP:0100659	Abnormal cerebral vascular morphology	HP	IFIH1
+WP:WP2203	Thymic stromal lymphopoietin TSLP signaling	WP	NFKB2
+HP:0100646	Thyroiditis	HP	NFKB2
+HP:0100578	Lipoatrophy	HP	IFIH1
+HP:0100550	Tendon rupture	HP	IFIH1
+HP:0100547	Abnormal forebrain morphology	HP	IFIH1
+HP:0100491	Abnormality of lower limb joint	HP	IFIH1
+HP:0100326	Immunologic hypersensitivity	HP	NFKB2
+HP:0100295	Muscle fiber atrophy	HP	IFIH1
+HP:0100261	Abnormal tendon morphology	HP	IFIH1
+HP:0100037	Abnormality of the scalp hair	HP	IFIH1
+HP:0100022	Abnormality of movement	HP	IFIH1
+HP:0100021	Cerebral palsy	HP	IFIH1
+HP:0100013	Neoplasm of the breast	HP	PTPN6
+HP:0045039	Osteolysis involving bones of the upper limbs	HP	IFIH1
+HP:0040313	Oligoarthritis	HP	PTPN6
+HP:0040220	Abnormal size of the dental root	HP	IFIH1
+HP:0040195	Decreased head circumference	HP	IFIH1
+HP:0040154	Acne inversa	HP	PTPN6
+HP:0040140	Degeneration of the striatum	HP	IFIH1
+HP:0040133	Abnormal circulating ferritin concentration	HP	IFIH1
+HP:0040088	Abnormal lymphocyte count	HP	IFIH1
+HP:0040088	Abnormal lymphocyte count	HP	NFKB2
+HP:0040075	Hypopituitarism	HP	NFKB2
+HP:0040072	Abnormal forearm bone morphology	HP	IFIH1
+HP:0040070	Abnormal upper limb bone morphology	HP	IFIH1
+HP:0040069	Abnormal lower limb bone morphology	HP	IFIH1
+HP:0040068	Abnormality of limb bone	HP	IFIH1
+HP:0100723	Gastrointestinal stroma tumor	HP	NFKB2
+HP:0100763	Abnormality of the lymphatic system	HP	IFIH1
+HP:0100763	Abnormality of the lymphatic system	HP	NFKB2
+HP:0100763	Abnormality of the lymphatic system	HP	CD40
+HP:0100776	Recurrent pharyngitis	HP	NFKB2
+WP:WP2064	Neural crest differentiation	WP	NFKB2
+WP:WP1433	Nucleotide binding oligomerization domain NOD pathway	WP	IL1B
+WP:000000	WIKIPATHWAYS	WP	IFI44L
+WP:000000	WIKIPATHWAYS	WP	SERPINB2
+WP:000000	WIKIPATHWAYS	WP	XAF1
+WP:000000	WIKIPATHWAYS	WP	SLAMF7
+WP:000000	WIKIPATHWAYS	WP	PTPN6
+WP:000000	WIKIPATHWAYS	WP	IFIH1
+WP:000000	WIKIPATHWAYS	WP	IL1B
+WP:000000	WIKIPATHWAYS	WP	NFKB2
+WP:000000	WIKIPATHWAYS	WP	CD40
+WP:000000	WIKIPATHWAYS	WP	LTB
+HP:6000441	Abnormal circulating interleukin 6 concentration	HP	PTPN6
+HP:4000072	Abnormal language feature	HP	IFIH1
+HP:0430135	Abnormal circulating hepatic transaminase concentration	HP	IFIH1
+HP:0430135	Abnormal circulating hepatic transaminase concentration	HP	NFKB2
+HP:0430050	Anti-thyroid antibody positivity	HP	NFKB2
+HP:0430048	Intracranial calcification	HP	IFIH1
+HP:0410280	Pediatric onset	HP	IFIH1
+HP:0410280	Pediatric onset	HP	NFKB2
+HP:0410243	Abnormal circulating IgM concentration	HP	NFKB2
+HP:0410243	Abnormal circulating IgM concentration	HP	CD40
+WP:WP2018	RANKL RANK signaling	WP	NFKB2
+HP:0410241	Abnormal circulating IgE concentration	HP	CD40
+HP:0410240	Abnormal circulating IgA concentration	HP	NFKB2
+HP:0410240	Abnormal circulating IgA concentration	HP	CD40
+HP:0410067	Increased level of L-fucose in urine	HP	IL1B
+HP:0040064	Abnormality of limbs	HP	PTPN6
+HP:0040064	Abnormality of limbs	HP	IFIH1
+HP:0410042	Abnormal liver morphology	HP	IFIH1
+HP:0200149	CSF lymphocytic pleiocytosis	HP	IFIH1
+HP:0200042	Skin ulcer	HP	PTPN6
+HP:0200039	Pustule	HP	PTPN6
+HP:0200037	Skin vesicle	HP	PTPN6
+HP:0200036	Skin nodule	HP	PTPN6
+HP:0200035	Skin plaque	HP	PTPN6
+WP:WP2036	TNF related weak inducer of apoptosis TWEAK signaling	WP	NFKB2
+WP:WP2037	Prolactin signaling	WP	PTPN6
+HP:0200034	Papule	HP	PTPN6
+HP:0100851	Abnormal emotional state	HP	IFIH1
+WP:WP2059	Alzheimer 39 s disease and miRNA effects	WP	IL1B
+HP:0100806	Sepsis	HP	NFKB2
+HP:0100803	Abnormal periungual morphology	HP	NFKB2
+HP:0410028	Recurrent oral herpes	HP	NFKB2
+HP:0034930	Digestive system neoplasm	HP	IL1B
+HP:0034930	Digestive system neoplasm	HP	NFKB2
+HP:0034915	Abnormal anus morphology	HP	NFKB2
+HP:0034784	Vasculitis by anatomical site	HP	PTPN6
+WP:WP2849	Hematopoietic stem cell differentiation	WP	IL1B
+WP:WP286	IL3 signaling	WP	PTPN6
+HP:0032296	Increased circulating IgG subclass	HP	IFIH1
+HP:0032263	Increased blood pressure	HP	IFIH1
+HP:0032251	Abnormal immune system morphology	HP	PTPN6
+HP:0032251	Abnormal immune system morphology	HP	IFIH1
+HP:0032251	Abnormal immune system morphology	HP	NFKB2
+HP:0032251	Abnormal immune system morphology	HP	CD40
+HP:0032243	Abnormal tissue metabolite concentration	HP	IFIH1
+HP:0032180	Abnormal circulating metabolite concentration	HP	PTPN6
+HP:0032180	Abnormal circulating metabolite concentration	HP	IFIH1
+HP:0032180	Abnormal circulating metabolite concentration	HP	NFKB2
+HP:0032153	Joint subluxation	HP	IFIH1
+HP:0032135	Decreased circulating IgG subclass concentration	HP	IFIH1
+HP:0032101	Unusual infection	HP	PTPN6
+HP:0032101	Unusual infection	HP	IFIH1
+HP:0032101	Unusual infection	HP	NFKB2
+HP:0032101	Unusual infection	HP	CD40
+HP:0032069	Anti-thyroglobulin antibody positivity	HP	NFKB2
+HP:0032039	Abnormality of the ocular adnexa	HP	IFIH1
+WP:WP2865	IL1 and megakaryocytes in obesity	WP	IL1B
+WP:WP2806	Complement system	WP	CD40
+HP:0031983	Abnormal pulmonary thoracic imaging finding	HP	IFIH1
+HP:0031816	Abnormal oral morphology	HP	IFIH1
+HP:0031797	Clinical course	HP	IFIH1
+HP:0031797	Clinical course	HP	NFKB2
+WP:WP2877	Vitamin D receptor pathway	WP	CD40
+HP:0031703	Abnormal ear morphology	HP	IFIH1
+HP:0031703	Abnormal ear morphology	HP	NFKB2
+HP:0031653	Abnormal heart valve physiology	HP	IFIH1
+WP:WP288	Nod like receptor NLR signaling	WP	CD40
+HP:0031652	Abnormal aortic valve physiology	HP	IFIH1
+WP:WP2880	Glucocorticoid receptor pathway	WP	NFKB2
+HP:0031457	Pulmonary opacity	HP	IFIH1
+HP:0031409	Abnormal lymphocyte physiology	HP	IFIH1
+HP:0031409	Abnormal lymphocyte physiology	HP	NFKB2
+HP:0031409	Abnormal lymphocyte physiology	HP	CD40
+HP:0031236	Predominantly dermal neutrophilic infiltrate	HP	PTPN6
+HP:0031234	Neutrophilic infiltration of the skin	HP	PTPN6
+HP:0031137	Storage in hepatocytes	HP	IFIH1
+HP:0031979	Abnormal urine carbohydrate level	HP	IL1B
+HP:0031074	Abnormal response to ACTH stimulation test	HP	NFKB2
+HP:0032297	Increased circulating IgG3 level	HP	IFIH1
+HP:0032309	Abnormal granulocyte count	HP	PTPN6
+HP:0032309	Abnormal granulocyte count	HP	CD40
+HP:0034684	Abnormal enzyme concentration or activity	HP	IFIH1
+HP:0034684	Abnormal enzyme concentration or activity	HP	NFKB2
+HP:0034669	Abnormal knee morphology	HP	IFIH1
+HP:0034644	Abnormal liver metabolite concentration	HP	IFIH1
+HP:0034482	Abnormal spinal cord physiology	HP	IFIH1
+HP:0034434	Abnormal communication	HP	IFIH1
+HP:0034430	Abnormal joint physiology	HP	IFIH1
+HP:0034392	Joint contracture	HP	IFIH1
+HP:0034353	Appendicular spasticity	HP	IFIH1
+HP:0034345	Mendelian inheritance	HP	IFIH1
+HP:0034345	Mendelian inheritance	HP	NFKB2
+HP:0034345	Mendelian inheritance	HP	CD40
+HP:0034335	Inheritance qualifier	HP	IFIH1
+HP:0034335	Inheritance qualifier	HP	IL1B
+WP:WP23	B cell receptor signaling	WP	PTPN6
+WP:WP231	TNF alpha signaling	WP	NFKB2
+HP:0034318	Unusual virus reactivation	HP	NFKB2
+WP:WP272	Blood clotting cascade	WP	SERPINB2
+WP:WP2583	T cell receptor and co stimulatory signaling	WP	PTPN6
+HP:0034033	Peripheral cyanosis	HP	IFIH1
+HP:0033799	Abnormal circulating sex hormone concentration	HP	NFKB2
+HP:0033796	Abnormal leukocyte physiology	HP	IFIH1
+HP:0033796	Abnormal leukocyte physiology	HP	NFKB2
+HP:0033796	Abnormal leukocyte physiology	HP	CD40
+HP:0033725	Thin corpus callosum	HP	IFIH1
+HP:0033354	Abnormal urine metabolite level	HP	IL1B
+HP:0033353	Abnormal blood vessel morphology	HP	PTPN6
+HP:0033353	Abnormal blood vessel morphology	HP	IFIH1
+HP:0033353	Abnormal blood vessel morphology	HP	NFKB2
+HP:0033331	Acute phase response	HP	PTPN6
+HP:0033331	Acute phase response	HP	IFIH1
+HP:0033259	Non-motor seizure	HP	NFKB2
+WP:WP262	Ebstein Barr virus LMP1 signaling	WP	NFKB2
+HP:0033151	Abnormal pharynx morphology	HP	IFIH1
+HP:0033151	Abnormal pharynx morphology	HP	NFKB2
+HP:0033127	Abnormality of the musculoskeletal system	HP	PTPN6
+HP:0033127	Abnormality of the musculoskeletal system	HP	IFIH1
+HP:0033127	Abnormality of the musculoskeletal system	HP	NFKB2
+HP:0032436	Abnormal circulating C-reactive protein concentration	HP	PTPN6
+HP:0032324	Non-periodic recurrent fever	HP	PTPN6
+HP:0034317	Unusual viral infection	HP	NFKB2
+HP:0011463	Childhood onset	HP	IFIH1
+HP:0011463	Childhood onset	HP	NFKB2
+WP:WP4298	Acute viral myocarditis	WP	NFKB2
+WP:WP4304	Oligodendrocyte specification and differentiation leading to myelin components for CNS	WP	IL1B
+HP:0004325	Decreased body weight	HP	IFIH1
+HP:0004325	Decreased body weight	HP	NFKB2
+HP:0004323	Abnormality of body weight	HP	IFIH1
+HP:0004323	Abnormality of body weight	HP	NFKB2
+HP:0004322	Short stature	HP	IFIH1
+WP:WP4582	Cancer immunotherapy by CTLA4 blockade	WP	PTPN6
+HP:0004305	Involuntary movements	HP	IFIH1
+HP:0004303	Abnormal muscle fiber morphology	HP	IFIH1
+WP:WP4655	Cytosolic DNA sensing pathway	WP	IL1B
+HP:0004297	Abnormality of the biliary system	HP	IFIH1
+HP:0004295	Abnormal gastric mucosa morphology	HP	IFIH1
+HP:0003999	Abnormality of radial epiphyses	HP	IFIH1
+HP:0003839	Abnormal upper limb epiphysis morphology	HP	IFIH1
+HP:0003829	Typified by incomplete penetrance	HP	IFIH1
+HP:0003808	Abnormal muscle tone	HP	IFIH1
+HP:0003765	Psoriasiform dermatitis	HP	NFKB2
+HP:0003674	Onset	HP	IFIH1
+HP:0003674	Onset	HP	NFKB2
+HP:0003623	Neonatal onset	HP	IFIH1
+HP:0003621	Juvenile onset	HP	IFIH1
+HP:0003593	Infantile onset	HP	IFIH1
+HP:0003581	Adult onset	HP	IFIH1
+HP:0003577	Congenital onset	HP	IFIH1
+WP:WP4659	Gastrin signaling	WP	SERPINB2
+HP:0003565	Elevated erythrocyte sedimentation rate	HP	PTPN6
+GO:1901699	cellular response to nitrogen compound	GO:BP	IFIH1
+GO:1901699	cellular response to nitrogen compound	GO:BP	IL1B
+HP:0003549	Abnormality of connective tissue	HP	PTPN6
+HP:0003549	Abnormality of connective tissue	HP	IFIH1
+HP:0003496	Increased circulating IgM level	HP	CD40
+HP:0003367	Abnormal femoral neck morphology	HP	IFIH1
+HP:0003366	Abnormal femoral neck/head morphology	HP	IFIH1
+HP:0004328	Abnormal anterior eye segment morphology	HP	IFIH1
+HP:0004332	Abnormal lymphocyte morphology	HP	IFIH1
+HP:0004332	Abnormal lymphocyte morphology	HP	NFKB2
+HP:0004348	Abnormality of bone mineral density	HP	IFIH1
+HP:0004349	Reduced bone mineral density	HP	IFIH1
+WP:WP4559	Interactions between immune cells and microRNAs in tumor microenvironment	WP	NFKB2
+HP:0005479	Decreased circulating IgE concentration	HP	CD40
+HP:0005387	Combined immunodeficiency	HP	NFKB2
+HP:0005372	Abnormality of B cell physiology	HP	IFIH1
+HP:0005372	Abnormality of B cell physiology	HP	NFKB2
+HP:0005372	Abnormality of B cell physiology	HP	CD40
+HP:0005368	Abnormality of humoral immunity	HP	IFIH1
+HP:0005368	Abnormality of humoral immunity	HP	NFKB2
+HP:0005368	Abnormality of humoral immunity	HP	CD40
+HP:0005365	Severe B lymphocytopenia	HP	NFKB2
+HP:0005353	Recurrent herpes	HP	NFKB2
+HP:0005263	Gastritis	HP	IFIH1
+HP:0005215	Frequent Giardia lamblia infestation	HP	NFKB2
+HP:0005146	Cardiac valve calcification	HP	IFIH1
+HP:0005105	Abnormal nasal morphology	HP	IFIH1
+HP:0004963	Calcification of the aorta	HP	IFIH1
+HP:0004962	Thoracic aorta calcification	HP	IFIH1
+HP:0003330	Abnormal bone structure	HP	IFIH1
+HP:0004942	Aortic aneurysm	HP	IFIH1
+HP:0004809	Neonatal alloimmune thrombocytopenia	HP	IFIH1
+HP:0004808	Acute myeloid leukemia	HP	PTPN6
+HP:0004798	Recurrent infection of the gastrointestinal tract	HP	NFKB2
+HP:0004429	Recurrent viral infections	HP	IFIH1
+HP:0004429	Recurrent viral infections	HP	NFKB2
+HP:0004400	Abnormality of the pylorus	HP	NFKB2
+HP:0004386	Gastrointestinal inflammation	HP	PTPN6
+HP:0004382	Mitral valve calcification	HP	IFIH1
+HP:0004380	Aortic valve calcification	HP	IFIH1
+HP:0004378	Abnormality of the anus	HP	NFKB2
+HP:0004377	Hematological neoplasm	HP	PTPN6
+HP:0004377	Hematological neoplasm	HP	IFIH1
+HP:0004377	Hematological neoplasm	HP	NFKB2
+HP:0004374	Hemiplegia/hemiparesis	HP	IFIH1
+HP:0004372	Reduced consciousness	HP	NFKB2
+HP:0004370	Abnormality of temperature regulation	HP	PTPN6
+HP:0004370	Abnormality of temperature regulation	HP	IFIH1
+HP:0004934	Vascular calcification	HP	IFIH1
+HP:0003326	Myalgia	HP	PTPN6
+HP:0003281	Increased circulating ferritin concentration	HP	IFIH1
+HP:0003272	Abnormal hip bone morphology	HP	IFIH1
+HP:0002847	Impaired memory B cell generation	HP	CD40
+HP:0002846	Abnormal B cell morphology	HP	NFKB2
+HP:0002841	Recurrent fungal infections	HP	NFKB2
+HP:0002837	Recurrent bronchitis	HP	NFKB2
+HP:0002829	Arthralgia	HP	PTPN6
+HP:0002829	Arthralgia	HP	NFKB2
+WP:WP4876	Activation of NLRP3 inflammasome by SARS CoV 2	WP	IL1B
+HP:0002828	Multiple joint contractures	HP	IFIH1
+HP:0002827	Hip dislocation	HP	IFIH1
+HP:0002823	Abnormal femur morphology	HP	IFIH1
+HP:0002818	Abnormal morphology of the radius	HP	IFIH1
+HP:0002817	Abnormality of the upper limb	HP	PTPN6
+HP:0002817	Abnormality of the upper limb	HP	IFIH1
+HP:0002815	Abnormality of the knee	HP	IFIH1
+HP:0002814	Abnormality of the lower limb	HP	IFIH1
+HP:0002849	Absence of lymph node germinal center	HP	CD40
+HP:0002813	Abnormal limb bone morphology	HP	IFIH1
+HP:0002795	Abnormal respiratory system physiology	HP	IFIH1
+HP:0002795	Abnormal respiratory system physiology	HP	NFKB2
+HP:0002793	Abnormal pattern of respiration	HP	IFIH1
+HP:0002788	Recurrent upper respiratory tract infections	HP	IFIH1
+HP:0002788	Recurrent upper respiratory tract infections	HP	NFKB2
+HP:0002783	Recurrent lower respiratory tract infections	HP	IFIH1
+HP:0002783	Recurrent lower respiratory tract infections	HP	NFKB2
+HP:0002733	Abnormal lymph node morphology	HP	IFIH1
+HP:0002733	Abnormal lymph node morphology	HP	NFKB2
+HP:0002733	Abnormal lymph node morphology	HP	CD40
+WP:WP195	IL1 signaling	WP	IL1B
+WP:WP4880	Host pathogen interaction of human coronaviruses interferon induction	WP	IFIH1
+WP:WP4891	COVID 19 adverse outcome pathway	WP	IL1B
+HP:0002720	Decreased circulating IgA concentration	HP	NFKB2
+HP:0002720	Decreased circulating IgA concentration	HP	CD40
+HP:0002719	Recurrent infections	HP	PTPN6
+HP:0002719	Recurrent infections	HP	IFIH1
+HP:0002719	Recurrent infections	HP	NFKB2
+HP:0002719	Recurrent infections	HP	CD40
+HP:0002718	Recurrent bacterial infections	HP	CD40
+HP:0002716	Lymphadenopathy	HP	IFIH1
+HP:0002716	Lymphadenopathy	HP	NFKB2
+HP:0002715	Abnormality of the immune system	HP	PTPN6
+HP:0002715	Abnormality of the immune system	HP	IFIH1
+HP:0002715	Abnormality of the immune system	HP	NFKB2
+HP:0002715	Abnormality of the immune system	HP	CD40
+HP:0002797	Osteolysis	HP	IFIH1
+WP:WP453	Inflammatory response pathway	WP	CD40
+HP:0002850	Decreased circulating total IgM	HP	NFKB2
+HP:0002878	Respiratory failure	HP	IFIH1
+HP:0003271	Visceromegaly	HP	IFIH1
+HP:0003271	Visceromegaly	HP	NFKB2
+HP:0003241	External genital hypoplasia	HP	IFIH1
+HP:0003237	Increased circulating IgG concentration	HP	IFIH1
+HP:0003207	Arterial calcification	HP	IFIH1
+HP:0003182	Shallow acetabular fossae	HP	IFIH1
+HP:0003170	Abnormal acetabulum morphology	HP	IFIH1
+WP:WP4666	Hepatitis B infection	WP	IFIH1
+WP:WP4674	Head and neck squamous cell carcinoma	WP	NFKB2
+HP:0003117	Abnormal circulating hormone concentration	HP	NFKB2
+HP:0003111	Abnormal blood ion concentration	HP	NFKB2
+HP:0003110	Abnormality of urine homeostasis	HP	IL1B
+HP:0003011	Abnormality of the musculature	HP	PTPN6
+HP:0003011	Abnormality of the musculature	HP	IFIH1
+HP:0003002	Breast carcinoma	HP	PTPN6
+HP:0002857	Genu valgum	HP	IFIH1
+HP:0002981	Abnormality of the calf	HP	IFIH1
+WP:WP4705	Pathways of nucleic acid metabolism and innate immune sensing	WP	IFIH1
+HP:0002977	Aplasia/Hypoplasia involving the central nervous system	HP	IFIH1
+WP:WP4790	FGF23 signaling in hypophosphatemic rickets and related disorders	WP	NFKB2
+HP:0002973	Abnormal forearm morphology	HP	IFIH1
+HP:0002960	Autoimmunity	HP	IFIH1
+HP:0002960	Autoimmunity	HP	NFKB2
+HP:0002959	Impaired Ig class switch recombination	HP	CD40
+HP:0002926	Abnormality of thyroid physiology	HP	IFIH1
+HP:0002921	Abnormal cerebrospinal fluid morphology	HP	IFIH1
+HP:0002920	Decreased circulating ACTH concentration	HP	NFKB2
+HP:0002910	Elevated circulating hepatic transaminase concentration	HP	IFIH1
+HP:0002910	Elevated circulating hepatic transaminase concentration	HP	NFKB2
+WP:WP4868	Type I interferon induction and signaling during SARS CoV 2 infection	WP	IFIH1
+HP:0002902	Hyponatremia	HP	NFKB2
+WP:WP4874	CAMKK2 pathway	WP	IFI44L
+HP:0002979	Bowing of the legs	HP	IFIH1
+HP:0005561	Abnormal bone marrow cell morphology	HP	IFIH1
+HP:0005607	Abnormal tracheobronchial morphology	HP	NFKB2
+HP:0005622	Broad long bones	HP	IFIH1
+HP:0011117	Abnormal circulating interleukin concentration	HP	PTPN6
+HP:0011116	Abnormal circulating interferon concentration	HP	IFIH1
+HP:0011113	Abnormality of cytokine secretion	HP	PTPN6
+HP:0011108	Recurrent sinusitis	HP	NFKB2
+HP:0011103	Abnormal left ventricular outflow tract morphology	HP	IFIH1
+HP:0011061	Abnormality of dental structure	HP	IFIH1
+HP:0011043	Abnormal circulating adrenocorticotropin concentration	HP	NFKB2
+HP:0011042	Abnormal circulating potassium concentration	HP	NFKB2
+HP:0011032	Abnormality of fluid regulation	HP	IFIH1
+HP:0011029	Internal hemorrhage	HP	IFIH1
+HP:0011028	Abnormality of blood circulation	HP	IFIH1
+HP:0011025	Abnormal cardiovascular system physiology	HP	IFIH1
+HP:0011025	Abnormal cardiovascular system physiology	HP	NFKB2
+HP:0011024	Abnormality of the gastrointestinal tract	HP	PTPN6
+HP:0011024	Abnormality of the gastrointestinal tract	HP	IFIH1
+HP:0011024	Abnormality of the gastrointestinal tract	HP	IL1B
+HP:0011024	Abnormality of the gastrointestinal tract	HP	NFKB2
+HP:0011118	Abnormality of tumor necrosis factor secretion	HP	PTPN6
+HP:0011017	Abnormal cellular physiology	HP	IFIH1
+HP:0011017	Abnormal cellular physiology	HP	NFKB2
+HP:0011017	Abnormal cellular physiology	HP	CD40
+HP:0011014	Abnormal glucose homeostasis	HP	IFIH1
+HP:0011014	Abnormal glucose homeostasis	HP	NFKB2
+HP:0011004	Abnormal systemic arterial morphology	HP	IFIH1
+HP:0010994	Abnormal corpus striatum morphology	HP	IFIH1
+HP:0010993	Abnormal cerebral subcortex morphology	HP	IFIH1
+HP:0010987	Abnormal cellular immune system morphology	HP	PTPN6
+HP:0010987	Abnormal cellular immune system morphology	HP	IFIH1
+HP:0010987	Abnormal cellular immune system morphology	HP	NFKB2
+HP:0010987	Abnormal cellular immune system morphology	HP	CD40
+HP:0010978	Abnormality of immune system physiology	HP	PTPN6
+HP:0010978	Abnormality of immune system physiology	HP	IFIH1
+HP:0010978	Abnormality of immune system physiology	HP	NFKB2
+HP:0010978	Abnormality of immune system physiology	HP	CD40
+HP:0010976	Decreased total B cell count	HP	NFKB2
+HP:0010975	Abnormal B cell count	HP	NFKB2
+HP:0010974	Abnormal myeloid leukocyte morphology	HP	PTPN6
+HP:0010974	Abnormal myeloid leukocyte morphology	HP	CD40
+HP:0010938	Abnormal external nose morphology	HP	IFIH1
+HP:0010935	Abnormality of the upper urinary tract	HP	IFIH1
+HP:0010931	Abnormal blood sodium concentration	HP	NFKB2
+HP:0010930	Abnormal blood monovalent inorganic cation concentration	HP	NFKB2
+HP:0011015	Abnormal blood glucose concentration	HP	NFKB2
+HP:0010929	Abnormal blood cation concentration	HP	NFKB2
+HP:0011119	Abnormal nasal dorsum morphology	HP	IFIH1
+HP:0011122	Abnormality of skin physiology	HP	PTPN6
+HP:0011122	Abnormality of skin physiology	HP	IFIH1
+HP:0011122	Abnormality of skin physiology	HP	NFKB2
+HP:0011462	Young adult onset	HP	IFIH1
+HP:0011461	Fetal onset	HP	IFIH1
+HP:0011458	Abdominal symptom	HP	IFIH1
+WP:WP4329	miRNA role in immune response in sepsis	WP	NFKB2
+HP:0011451	Primary microcephaly	HP	IFIH1
+HP:0011446	Abnormality of mental function	HP	IFIH1
+HP:0011446	Abnormality of mental function	HP	NFKB2
+HP:0011442	Abnormal central motor function	HP	IFIH1
+HP:0011400	Abnormal CNS myelination	HP	IFIH1
+HP:0011362	Abnormal hair quantity	HP	NFKB2
+HP:0011361	Congenital abnormal hair pattern	HP	IFIH1
+HP:0011356	Regional abnormality of skin	HP	NFKB2
+HP:0011355	Localized skin lesion	HP	PTPN6
+HP:0011354	Generalized abnormality of skin	HP	IFIH1
+HP:0011354	Generalized abnormality of skin	HP	NFKB2
+HP:0011121	Abnormal skin morphology	HP	PTPN6
+HP:0011121	Abnormal skin morphology	HP	IFIH1
+HP:0011121	Abnormal skin morphology	HP	NFKB2
+HP:0011339	Abnormality of upper lip vermillion	HP	IFIH1
+HP:0011297	Abnormal digit morphology	HP	IFIH1
+HP:0011283	Abnormal metencephalon morphology	HP	IFIH1
+HP:0011283	Abnormal metencephalon morphology	HP	NFKB2
+HP:0011282	Abnormal hindbrain morphology	HP	IFIH1
+HP:0011282	Abnormal hindbrain morphology	HP	NFKB2
+WP:WP4331	Neovascularization processes	WP	NFKB2
+WP:WP4396	Nonalcoholic fatty liver disease	WP	IL1B
+HP:0011277	Abnormality of the urinary system physiology	HP	IFIH1
+HP:0011277	Abnormality of the urinary system physiology	HP	IL1B
+HP:0011276	Vascular skin abnormality	HP	IFIH1
+HP:0011276	Vascular skin abnormality	HP	NFKB2
+WP:WP4478	LTF danger signal response pathway	WP	IL1B
+HP:0011227	Elevated circulating C-reactive protein concentration	HP	PTPN6
+HP:0011226	Aplasia/Hypoplasia of the eyelid	HP	IFIH1
+HP:0011146	Dialeptic seizure	HP	NFKB2
+HP:0011138	Abnormal skin adnexa morphology	HP	IFIH1
+HP:0011138	Abnormal skin adnexa morphology	HP	NFKB2
+HP:0011123	Inflammatory abnormality of the skin	HP	PTPN6
+HP:0011123	Inflammatory abnormality of the skin	HP	IFIH1
+HP:0011123	Inflammatory abnormality of the skin	HP	NFKB2
+HP:0011314	Abnormal long bone morphology	HP	IFIH1
+HP:0002683	Abnormal calvaria morphology	HP	IFIH1
+HP:0002683	Abnormal calvaria morphology	HP	NFKB2
+HP:0010876	Abnormal circulating protein concentration	HP	PTPN6
+HP:0010876	Abnormal circulating protein concentration	HP	IFIH1
+HP:0010720	Abnormal hair pattern	HP	IFIH1
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum	HP	IFIH1
+HP:0007369	Atrophy/Degeneration affecting the cerebrum	HP	IFIH1
+HP:0007367	Atrophy/Degeneration affecting the central nervous system	HP	IFIH1
+HP:0007364	Aplasia/Hypoplasia of the cerebrum	HP	IFIH1
+HP:0007256	Abnormal pyramidal sign	HP	IFIH1
+HP:0007229	Intracerebral periventricular calcifications	HP	IFIH1
+HP:0007108	Demyelinating peripheral neuropathy	HP	IFIH1
+HP:0007099	Chiari type I malformation	HP	NFKB2
+HP:0007076	Extrapyramidal muscular rigidity	HP	IFIH1
+HP:0007052	Multifocal cerebral white matter abnormalities	HP	IFIH1
+HP:0006783	Posterior pharyngeal cleft	HP	NFKB2
+HP:0006753	Neoplasm of the stomach	HP	IL1B
+HP:0006705	Abnormal atrioventricular valve morphology	HP	IFIH1
+HP:0007378	Neoplasm of the gastrointestinal tract	HP	IL1B
+HP:0007378	Neoplasm of the gastrointestinal tract	HP	NFKB2
+HP:0006579	Prolonged neonatal jaundice	HP	IFIH1
+HP:0006532	Recurrent pneumonia	HP	IFIH1
+HP:0006532	Recurrent pneumonia	HP	NFKB2
+HP:0006505	Abnormal limb epiphysis morphology	HP	IFIH1
+HP:0006487	Bowing of the long bones	HP	IFIH1
+HP:0006486	Abnormal dental root morphology	HP	IFIH1
+HP:0006482	Abnormal dental morphology	HP	IFIH1
+HP:0006336	Short dental root	HP	IFIH1
+HP:0006292	Abnormality of dental eruption	HP	IFIH1
+HP:0006009	Broad phalanx	HP	IFIH1
+HP:0005930	Abnormal epiphysis morphology	HP	IFIH1
+HP:0005922	Abnormal hand morphology	HP	IFIH1
+HP:0005918	Abnormal finger phalanx morphology	HP	IFIH1
+HP:0005916	Abnormal metacarpal morphology	HP	IFIH1
+HP:0005656	Positional foot deformity	HP	IFIH1
+HP:0006561	Lipid accumulation in hepatocytes	HP	IFIH1
+HP:0010766	Ectopic calcification	HP	IFIH1
+HP:0007418	Alopecia totalis	HP	NFKB2
+HP:0008066	Abnormal blistering of the skin	HP	PTPN6
+HP:0010702	Increased circulating immunoglobulin concentration	HP	IFIH1
+HP:0010702	Increased circulating immunoglobulin concentration	HP	CD40
+HP:0010701	Abnormal circulating immunoglobulin concentration	HP	IFIH1
+HP:0010701	Abnormal circulating immunoglobulin concentration	HP	NFKB2
+HP:0010701	Abnormal circulating immunoglobulin concentration	HP	CD40
+HP:0010674	Abnormal curvature of the vertebral column	HP	IFIH1
+HP:0010622	Neoplasm of the skeletal system	HP	IFIH1
+HP:0010551	Paraplegia/paraparesis	HP	IFIH1
+HP:0010549	Weakness due to upper motor neuron dysfunction	HP	IFIH1
+HP:0010461	Abnormality of the male genitalia	HP	IFIH1
+HP:0009890	High anterior hairline	HP	IFIH1
+HP:0009830	Peripheral neuropathy	HP	IFIH1
+WP:WP4496	Signal transduction through IL1R	WP	IL1B
+HP:0009771	Osteolytic defects of the phalanges of the hand	HP	IFIH1
+HP:0009768	Broad phalanges of the hand	HP	IFIH1
+HP:0009710	Chilblains	HP	IFIH1
+HP:0007700	Ocular anterior segment dysgenesis	HP	IFIH1
+HP:0009709	Increased CSF interferon alpha	HP	IFIH1
+HP:0009699	Osteolytic defects of the hand bones	HP	IFIH1
+HP:0009553	Abnormality of the hairline	HP	IFIH1
+HP:0009145	Abnormal cerebral artery morphology	HP	IFIH1
+HP:0009127	Abnormality of the musculature of the limbs	HP	IFIH1
+HP:0009125	Lipodystrophy	HP	IFIH1
+HP:0009124	Abnormal adipose tissue morphology	HP	PTPN6
+HP:0009124	Abnormal adipose tissue morphology	HP	IFIH1
+HP:0009121	Abnormal axial skeleton morphology	HP	IFIH1
+HP:0009121	Abnormal axial skeleton morphology	HP	NFKB2
+HP:0008940	Generalized lymphadenopathy	HP	IFIH1
+HP:0008936	Axial hypotonia	HP	IFIH1
+HP:0008736	Hypoplasia of penis	HP	IFIH1
+HP:0008609	Abnormal middle ear morphology	HP	NFKB2
+HP:0008404	Nail dystrophy	HP	NFKB2
+HP:0008163	Decreased circulating cortisol level	HP	NFKB2
+HP:0009704	Chronic CSF lymphocytosis	HP	IFIH1
+HP:0003552	Muscle stiffness	HP	IFIH1
+GO:0000166	nucleotide binding	GO:MF	IFIH1
+GO:1901550	regulation of endothelial cell development	GO:BP	IL1B
+GO:0009611	response to wounding	GO:BP	SERPINB2
+GO:0009611	response to wounding	GO:BP	PTPN6
+GO:0009611	response to wounding	GO:BP	CD40
+GO:0009597	detection of virus	GO:BP	IFIH1
+GO:0009410	response to xenobiotic stimulus	GO:BP	IL1B
+GO:0009306	protein secretion	GO:BP	IL1B
+GO:0009059	macromolecule biosynthetic process	GO:BP	XAF1
+GO:0009059	macromolecule biosynthetic process	GO:BP	PTPN6
+GO:0009059	macromolecule biosynthetic process	GO:BP	IFIH1
+GO:0009059	macromolecule biosynthetic process	GO:BP	IL1B
+GO:0009059	macromolecule biosynthetic process	GO:BP	NFKB2
+GO:0009059	macromolecule biosynthetic process	GO:BP	CD40
+GO:0009059	macromolecule biosynthetic process	GO:BP	LTB
+GO:0009058	biosynthetic process	GO:BP	XAF1
+GO:0009058	biosynthetic process	GO:BP	PTPN6
+GO:0009058	biosynthetic process	GO:BP	IFIH1
+GO:0009058	biosynthetic process	GO:BP	IL1B
+GO:0009058	biosynthetic process	GO:BP	NFKB2
+GO:0009058	biosynthetic process	GO:BP	CD40
+GO:0009058	biosynthetic process	GO:BP	LTB
+GO:0009057	macromolecule catabolic process	GO:BP	IL1B
+GO:0009056	catabolic process	GO:BP	IL1B
+GO:0008645	hexose transmembrane transport	GO:BP	IL1B
+GO:0008643	carbohydrate transport	GO:BP	IL1B
+GO:0008610	lipid biosynthetic process	GO:BP	IL1B
+GO:0008286	insulin receptor signaling pathway	GO:BP	IL1B
+GO:0008285	negative regulation of cell population proliferation	GO:BP	PTPN6
+GO:0008285	negative regulation of cell population proliferation	GO:BP	IL1B
+GO:0008284	positive regulation of cell population proliferation	GO:BP	PTPN6
+GO:0008284	positive regulation of cell population proliferation	GO:BP	IL1B
+GO:0008284	positive regulation of cell population proliferation	GO:BP	CD40
+GO:0008283	cell population proliferation	GO:BP	PTPN6
+GO:0008283	cell population proliferation	GO:BP	IL1B
+GO:0008283	cell population proliferation	GO:BP	CD40
+GO:0008152	metabolic process	GO:BP	XAF1
+GO:0008152	metabolic process	GO:BP	PTPN6
+GO:0008152	metabolic process	GO:BP	IFIH1
+GO:0008152	metabolic process	GO:BP	IL1B
+GO:0008152	metabolic process	GO:BP	NFKB2
+GO:0008152	metabolic process	GO:BP	CD40
+GO:0008152	metabolic process	GO:BP	LTB
+GO:0008150	biological_process	GO:BP	IFI44L
+GO:0008150	biological_process	GO:BP	SERPINB2
+GO:0008150	biological_process	GO:BP	XAF1
+GO:0008150	biological_process	GO:BP	SLAMF7
+GO:0008150	biological_process	GO:BP	PTPN6
+GO:0008150	biological_process	GO:BP	IFIH1
+GO:0008150	biological_process	GO:BP	IL1B
+GO:0008150	biological_process	GO:BP	NFKB2
+GO:0008150	biological_process	GO:BP	CD40
+GO:0008150	biological_process	GO:BP	LTB
+GO:0008104	protein localization	GO:BP	IL1B
+GO:0007584	response to nutrient	GO:BP	CD40
+GO:0007566	embryo implantation	GO:BP	IL1B
+GO:0007565	female pregnancy	GO:BP	IL1B
+GO:0007417	central nervous system development	GO:BP	IL1B
+GO:0007399	nervous system development	GO:BP	IL1B
+GO:0007346	regulation of mitotic cell cycle	GO:BP	PTPN6
+GO:0007346	regulation of mitotic cell cycle	GO:BP	IL1B
+GO:0007275	multicellular organism development	GO:BP	PTPN6
+GO:0007275	multicellular organism development	GO:BP	IL1B
+GO:0007275	multicellular organism development	GO:BP	NFKB2
+GO:0007275	multicellular organism development	GO:BP	CD40
+GO:0007275	multicellular organism development	GO:BP	LTB
+GO:0007268	chemical synaptic transmission	GO:BP	IL1B
+GO:0007267	cell-cell signaling	GO:BP	IL1B
+GO:0007267	cell-cell signaling	GO:BP	LTB
+GO:0007260	tyrosine phosphorylation of STAT protein	GO:BP	CD40
+GO:0007259	cell surface receptor signaling pathway via JAK-STAT	GO:BP	CD40
+GO:0009612	response to mechanical stimulus	GO:BP	IL1B
+GO:0009612	response to mechanical stimulus	GO:BP	CD40
+GO:0007254	JNK cascade	GO:BP	IL1B
+GO:0009617	response to bacterium	GO:BP	IL1B
+GO:0009617	response to bacterium	GO:BP	NFKB2
+GO:0009617	response to bacterium	GO:BP	CD40
+GO:0009653	anatomical structure morphogenesis	GO:BP	PTPN6
+GO:0009653	anatomical structure morphogenesis	GO:BP	IL1B
+GO:0009653	anatomical structure morphogenesis	GO:BP	NFKB2
+GO:0009653	anatomical structure morphogenesis	GO:BP	CD40
+GO:0010574	regulation of vascular endothelial growth factor production	GO:BP	IL1B
+GO:0010573	vascular endothelial growth factor production	GO:BP	IL1B
+GO:0010565	regulation of ketone metabolic process	GO:BP	IL1B
+GO:0010564	regulation of cell cycle process	GO:BP	PTPN6
+GO:0010564	regulation of cell cycle process	GO:BP	IL1B
+GO:0010563	negative regulation of phosphorus metabolic process	GO:BP	PTPN6
+GO:0010563	negative regulation of phosphorus metabolic process	GO:BP	IL1B
+GO:0010562	positive regulation of phosphorus metabolic process	GO:BP	IL1B
+GO:0010562	positive regulation of phosphorus metabolic process	GO:BP	CD40
+GO:0010558	negative regulation of macromolecule biosynthetic process	GO:BP	XAF1
+GO:0010558	negative regulation of macromolecule biosynthetic process	GO:BP	PTPN6
+GO:0010557	positive regulation of macromolecule biosynthetic process	GO:BP	IFIH1
+GO:0010557	positive regulation of macromolecule biosynthetic process	GO:BP	IL1B
+GO:0010557	positive regulation of macromolecule biosynthetic process	GO:BP	NFKB2
+GO:0010557	positive regulation of macromolecule biosynthetic process	GO:BP	CD40
+GO:0010557	positive regulation of macromolecule biosynthetic process	GO:BP	LTB
+GO:0010556	regulation of macromolecule biosynthetic process	GO:BP	XAF1
+GO:0010556	regulation of macromolecule biosynthetic process	GO:BP	PTPN6
+GO:0010556	regulation of macromolecule biosynthetic process	GO:BP	IFIH1
+GO:0010556	regulation of macromolecule biosynthetic process	GO:BP	IL1B
+GO:0010556	regulation of macromolecule biosynthetic process	GO:BP	NFKB2
+GO:0010556	regulation of macromolecule biosynthetic process	GO:BP	CD40
+GO:0010556	regulation of macromolecule biosynthetic process	GO:BP	LTB
+GO:0010468	regulation of gene expression	GO:BP	XAF1
+GO:0010468	regulation of gene expression	GO:BP	PTPN6
+GO:0010468	regulation of gene expression	GO:BP	IFIH1
+GO:0010468	regulation of gene expression	GO:BP	IL1B
+GO:0010468	regulation of gene expression	GO:BP	NFKB2
+GO:0010468	regulation of gene expression	GO:BP	CD40
+GO:0010468	regulation of gene expression	GO:BP	LTB
+GO:0010467	gene expression	GO:BP	XAF1
+GO:0010467	gene expression	GO:BP	PTPN6
+GO:0010467	gene expression	GO:BP	IFIH1
+GO:0010467	gene expression	GO:BP	IL1B
+GO:0010467	gene expression	GO:BP	NFKB2
+GO:0010467	gene expression	GO:BP	CD40
+GO:0010467	gene expression	GO:BP	LTB
+GO:0010001	glial cell differentiation	GO:BP	IL1B
+GO:0009987	cellular process	GO:BP	SERPINB2
+GO:0009987	cellular process	GO:BP	XAF1
+GO:0009987	cellular process	GO:BP	SLAMF7
+GO:0009987	cellular process	GO:BP	PTPN6
+GO:0009987	cellular process	GO:BP	IFIH1
+GO:0009987	cellular process	GO:BP	IL1B
+GO:0009987	cellular process	GO:BP	NFKB2
+GO:0009987	cellular process	GO:BP	CD40
+GO:0009987	cellular process	GO:BP	LTB
+GO:0009968	negative regulation of signal transduction	GO:BP	PTPN6
+GO:0009968	negative regulation of signal transduction	GO:BP	IL1B
+GO:0009967	positive regulation of signal transduction	GO:BP	PTPN6
+GO:0009967	positive regulation of signal transduction	GO:BP	IL1B
+GO:0009967	positive regulation of signal transduction	GO:BP	CD40
+GO:0009967	positive regulation of signal transduction	GO:BP	LTB
+GO:0009966	regulation of signal transduction	GO:BP	PTPN6
+GO:0009966	regulation of signal transduction	GO:BP	IL1B
+GO:0009966	regulation of signal transduction	GO:BP	CD40
+GO:0009966	regulation of signal transduction	GO:BP	LTB
+GO:0009914	hormone transport	GO:BP	IL1B
+GO:0009896	positive regulation of catabolic process	GO:BP	IL1B
+GO:0009895	negative regulation of catabolic process	GO:BP	IL1B
+GO:0009894	regulation of catabolic process	GO:BP	IL1B
+GO:0009893	positive regulation of metabolic process	GO:BP	IFIH1
+GO:0009893	positive regulation of metabolic process	GO:BP	IL1B
+GO:0009893	positive regulation of metabolic process	GO:BP	NFKB2
+GO:0009893	positive regulation of metabolic process	GO:BP	CD40
+GO:0009893	positive regulation of metabolic process	GO:BP	LTB
+GO:0009892	negative regulation of metabolic process	GO:BP	XAF1
+GO:0009892	negative regulation of metabolic process	GO:BP	PTPN6
+GO:0009892	negative regulation of metabolic process	GO:BP	IL1B
+GO:0009891	positive regulation of biosynthetic process	GO:BP	IFIH1
+GO:0009891	positive regulation of biosynthetic process	GO:BP	IL1B
+GO:0009891	positive regulation of biosynthetic process	GO:BP	NFKB2
+GO:0009891	positive regulation of biosynthetic process	GO:BP	CD40
+GO:0009891	positive regulation of biosynthetic process	GO:BP	LTB
+GO:0009890	negative regulation of biosynthetic process	GO:BP	XAF1
+GO:0009890	negative regulation of biosynthetic process	GO:BP	PTPN6
+GO:0009889	regulation of biosynthetic process	GO:BP	XAF1
+GO:0009889	regulation of biosynthetic process	GO:BP	PTPN6
+GO:0009889	regulation of biosynthetic process	GO:BP	IFIH1
+GO:0009889	regulation of biosynthetic process	GO:BP	IL1B
+GO:0009889	regulation of biosynthetic process	GO:BP	NFKB2
+GO:0009889	regulation of biosynthetic process	GO:BP	CD40
+GO:0009889	regulation of biosynthetic process	GO:BP	LTB
+GO:0009888	tissue development	GO:BP	IL1B
+GO:0009743	response to carbohydrate	GO:BP	IL1B
+GO:0009725	response to hormone	GO:BP	IL1B
+GO:0009719	response to endogenous stimulus	GO:BP	IL1B
+GO:0009628	response to abiotic stimulus	GO:BP	IL1B
+GO:0009628	response to abiotic stimulus	GO:BP	CD40
+GO:0010575	positive regulation of vascular endothelial growth factor production	GO:BP	IL1B
+GO:0007186	G protein-coupled receptor signaling pathway	GO:BP	PTPN6
+GO:0007167	enzyme-linked receptor protein signaling pathway	GO:BP	IL1B
+GO:0006611	protein export from nucleus	GO:BP	IL1B
+GO:0006509	membrane protein ectodomain proteolysis	GO:BP	IL1B
+GO:0006508	proteolysis	GO:BP	IL1B
+GO:0006470	protein dephosphorylation	GO:BP	PTPN6
+GO:0006469	negative regulation of protein kinase activity	GO:BP	IL1B
+GO:0006468	protein phosphorylation	GO:BP	PTPN6
+GO:0006468	protein phosphorylation	GO:BP	IL1B
+GO:0006468	protein phosphorylation	GO:BP	CD40
+GO:0006366	transcription by RNA polymerase II	GO:BP	IL1B
+GO:0006366	transcription by RNA polymerase II	GO:BP	NFKB2
+GO:0006366	transcription by RNA polymerase II	GO:BP	CD40
+GO:0006357	regulation of transcription by RNA polymerase II	GO:BP	IL1B
+GO:0006357	regulation of transcription by RNA polymerase II	GO:BP	NFKB2
+GO:0006357	regulation of transcription by RNA polymerase II	GO:BP	CD40
+GO:0006355	regulation of DNA-templated transcription	GO:BP	IL1B
+GO:0006355	regulation of DNA-templated transcription	GO:BP	NFKB2
+GO:0006355	regulation of DNA-templated transcription	GO:BP	CD40
+GO:0006351	DNA-templated transcription	GO:BP	IL1B
+GO:0006351	DNA-templated transcription	GO:BP	NFKB2
+GO:0006351	DNA-templated transcription	GO:BP	CD40
+GO:0006310	DNA recombination	GO:BP	CD40
+GO:0006259	DNA metabolic process	GO:BP	CD40
+GO:0006139	nucleobase-containing compound metabolic process	GO:BP	IL1B
+GO:0006139	nucleobase-containing compound metabolic process	GO:BP	NFKB2
+GO:0006139	nucleobase-containing compound metabolic process	GO:BP	CD40
+GO:0006082	organic acid metabolic process	GO:BP	IL1B
+GO:0006024	glycosaminoglycan biosynthetic process	GO:BP	IL1B
+GO:0006023	aminoglycan biosynthetic process	GO:BP	IL1B
+GO:0006022	aminoglycan metabolic process	GO:BP	IL1B
+GO:0003158	endothelium development	GO:BP	IL1B
+GO:0003012	muscle system process	GO:BP	IL1B
+GO:0003008	system process	GO:BP	IL1B
+GO:0003006	developmental process involved in reproduction	GO:BP	IL1B
+GO:0002924	negative regulation of humoral immune response mediated by circulating immunoglobulin	GO:BP	PTPN6
+GO:0002923	regulation of humoral immune response mediated by circulating immunoglobulin	GO:BP	PTPN6
+GO:0002922	positive regulation of humoral immune response	GO:BP	IL1B
+GO:0002921	negative regulation of humoral immune response	GO:BP	PTPN6
+GO:0002891	positive regulation of immunoglobulin mediated immune response	GO:BP	CD40
+GO:0002890	negative regulation of immunoglobulin mediated immune response	GO:BP	PTPN6
+GO:0002833	positive regulation of response to biotic stimulus	GO:BP	IFIH1
+GO:0002833	positive regulation of response to biotic stimulus	GO:BP	CD40
+GO:0002832	negative regulation of response to biotic stimulus	GO:BP	PTPN6
+GO:0006629	lipid metabolic process	GO:BP	IL1B
+GO:0007169	cell surface receptor protein tyrosine kinase signaling pathway	GO:BP	IL1B
+GO:0006631	fatty acid metabolic process	GO:BP	IL1B
+GO:0006636	unsaturated fatty acid biosynthetic process	GO:BP	IL1B
+GO:0007166	cell surface receptor signaling pathway	GO:BP	PTPN6
+GO:0007166	cell surface receptor signaling pathway	GO:BP	IFIH1
+GO:0007166	cell surface receptor signaling pathway	GO:BP	IL1B
+GO:0007166	cell surface receptor signaling pathway	GO:BP	CD40
+GO:0007166	cell surface receptor signaling pathway	GO:BP	LTB
+GO:0007165	signal transduction	GO:BP	PTPN6
+GO:0007165	signal transduction	GO:BP	IFIH1
+GO:0007165	signal transduction	GO:BP	IL1B
+GO:0007165	signal transduction	GO:BP	NFKB2
+GO:0007165	signal transduction	GO:BP	CD40
+GO:0007165	signal transduction	GO:BP	LTB
+GO:0007162	negative regulation of cell adhesion	GO:BP	PTPN6
+GO:0007159	leukocyte cell-cell adhesion	GO:BP	PTPN6
+GO:0007159	leukocyte cell-cell adhesion	GO:BP	IL1B
+GO:0007155	cell adhesion	GO:BP	SLAMF7
+GO:0007155	cell adhesion	GO:BP	PTPN6
+GO:0007155	cell adhesion	GO:BP	IL1B
+GO:0007154	cell communication	GO:BP	PTPN6
+GO:0007154	cell communication	GO:BP	IFIH1
+GO:0007154	cell communication	GO:BP	IL1B
+GO:0007154	cell communication	GO:BP	NFKB2
+GO:0007154	cell communication	GO:BP	CD40
+GO:0007154	cell communication	GO:BP	LTB
+GO:0007088	regulation of mitotic nuclear division	GO:BP	IL1B
+GO:0007049	cell cycle	GO:BP	PTPN6
+GO:0007049	cell cycle	GO:BP	IL1B
+GO:0007043	cell-cell junction assembly	GO:BP	IL1B
+GO:0006996	organelle organization	GO:BP	IL1B
+GO:0006959	humoral immune response	GO:BP	PTPN6
+GO:0006959	humoral immune response	GO:BP	IL1B
+GO:0006956	complement activation	GO:BP	IL1B
+GO:0006953	acute-phase response	GO:BP	IL1B
+GO:0006935	chemotaxis	GO:BP	IL1B
+GO:0006913	nucleocytoplasmic transport	GO:BP	IL1B
+GO:0006886	intracellular protein transport	GO:BP	IL1B
+GO:0006874	intracellular calcium ion homeostasis	GO:BP	PTPN6
+GO:0006874	intracellular calcium ion homeostasis	GO:BP	CD40
+GO:0006873	intracellular monoatomic ion homeostasis	GO:BP	PTPN6
+GO:0006873	intracellular monoatomic ion homeostasis	GO:BP	CD40
+GO:0006869	lipid transport	GO:BP	IL1B
+GO:0006816	calcium ion transport	GO:BP	PTPN6
+GO:0006812	monoatomic cation transport	GO:BP	PTPN6
+GO:0006811	monoatomic ion transport	GO:BP	PTPN6
+GO:0006810	transport	GO:BP	PTPN6
+GO:0006810	transport	GO:BP	IL1B
+GO:0006809	nitric oxide biosynthetic process	GO:BP	IL1B
+GO:0006796	phosphate-containing compound metabolic process	GO:BP	PTPN6
+GO:0006796	phosphate-containing compound metabolic process	GO:BP	IL1B
+GO:0006796	phosphate-containing compound metabolic process	GO:BP	CD40
+GO:0006793	phosphorus metabolic process	GO:BP	PTPN6
+GO:0006793	phosphorus metabolic process	GO:BP	IL1B
+GO:0006793	phosphorus metabolic process	GO:BP	CD40
+GO:0006693	prostaglandin metabolic process	GO:BP	IL1B
+GO:0006692	prostanoid metabolic process	GO:BP	IL1B
+GO:0006690	icosanoid metabolic process	GO:BP	IL1B
+GO:0006633	fatty acid biosynthetic process	GO:BP	IL1B
+GO:0010594	regulation of endothelial cell migration	GO:BP	CD40
+GO:0010595	positive regulation of endothelial cell migration	GO:BP	CD40
+GO:0010604	positive regulation of macromolecule metabolic process	GO:BP	IFIH1
+GO:0010604	positive regulation of macromolecule metabolic process	GO:BP	IL1B
+GO:0010604	positive regulation of macromolecule metabolic process	GO:BP	NFKB2
+GO:0010604	positive regulation of macromolecule metabolic process	GO:BP	CD40
+GO:0010604	positive regulation of macromolecule metabolic process	GO:BP	LTB
+GO:0030203	glycosaminoglycan metabolic process	GO:BP	IL1B
+GO:0030198	extracellular matrix organization	GO:BP	NFKB2
+GO:0030195	negative regulation of blood coagulation	GO:BP	SERPINB2
+GO:0030193	regulation of blood coagulation	GO:BP	SERPINB2
+GO:0030183	B cell differentiation	GO:BP	PTPN6
+GO:0030168	platelet activation	GO:BP	PTPN6
+GO:0030168	platelet activation	GO:BP	CD40
+GO:0030163	protein catabolic process	GO:BP	IL1B
+GO:0030162	regulation of proteolysis	GO:BP	IL1B
+GO:0030155	regulation of cell adhesion	GO:BP	PTPN6
+GO:0030155	regulation of cell adhesion	GO:BP	IL1B
+GO:0030154	cell differentiation	GO:BP	PTPN6
+GO:0030154	cell differentiation	GO:BP	IL1B
+GO:0030154	cell differentiation	GO:BP	NFKB2
+GO:0030101	natural killer cell activation	GO:BP	SLAMF7
+GO:0030099	myeloid cell differentiation	GO:BP	PTPN6
+GO:0030098	lymphocyte differentiation	GO:BP	PTPN6
+GO:0030098	lymphocyte differentiation	GO:BP	IL1B
+GO:0030097	hemopoiesis	GO:BP	PTPN6
+GO:0030097	hemopoiesis	GO:BP	IL1B
+GO:0030073	insulin secretion	GO:BP	IL1B
+GO:0030072	peptide hormone secretion	GO:BP	IL1B
+GO:0030003	intracellular monoatomic cation homeostasis	GO:BP	PTPN6
+GO:0030003	intracellular monoatomic cation homeostasis	GO:BP	CD40
+GO:0030001	metal ion transport	GO:BP	PTPN6
+GO:0023061	signal release	GO:BP	IL1B
+GO:0023057	negative regulation of signaling	GO:BP	PTPN6
+GO:0023057	negative regulation of signaling	GO:BP	IL1B
+GO:0023056	positive regulation of signaling	GO:BP	PTPN6
+GO:0023056	positive regulation of signaling	GO:BP	IL1B
+GO:0023056	positive regulation of signaling	GO:BP	CD40
+GO:0023056	positive regulation of signaling	GO:BP	LTB
+GO:0023052	signaling	GO:BP	PTPN6
+GO:0023052	signaling	GO:BP	IFIH1
+GO:0023052	signaling	GO:BP	IL1B
+GO:0023052	signaling	GO:BP	NFKB2
+GO:0023052	signaling	GO:BP	CD40
+GO:0023052	signaling	GO:BP	LTB
+GO:0023051	regulation of signaling	GO:BP	PTPN6
+GO:0023051	regulation of signaling	GO:BP	IL1B
+GO:0023051	regulation of signaling	GO:BP	CD40
+GO:0023051	regulation of signaling	GO:BP	LTB
+GO:0023035	CD40 signaling pathway	GO:BP	CD40
+GO:0022607	cellular component assembly	GO:BP	IFIH1
+GO:0022607	cellular component assembly	GO:BP	IL1B
+GO:0022607	cellular component assembly	GO:BP	CD40
+GO:0022603	regulation of anatomical structure morphogenesis	GO:BP	PTPN6
+GO:0022603	regulation of anatomical structure morphogenesis	GO:BP	IL1B
+GO:0022603	regulation of anatomical structure morphogenesis	GO:BP	CD40
+GO:0022414	reproductive process	GO:BP	IL1B
+GO:0022409	positive regulation of cell-cell adhesion	GO:BP	PTPN6
+GO:0022409	positive regulation of cell-cell adhesion	GO:BP	IL1B
+GO:0022408	negative regulation of cell-cell adhesion	GO:BP	PTPN6
+GO:0030212	hyaluronan metabolic process	GO:BP	IL1B
+GO:0022407	regulation of cell-cell adhesion	GO:BP	PTPN6
+GO:0022407	regulation of cell-cell adhesion	GO:BP	IL1B
+GO:0030213	hyaluronan biosynthetic process	GO:BP	IL1B
+GO:0030219	megakaryocyte differentiation	GO:BP	PTPN6
+GO:0031667	response to nutrient levels	GO:BP	CD40
+GO:0031652	positive regulation of heat generation	GO:BP	IL1B
+GO:0031650	regulation of heat generation	GO:BP	IL1B
+GO:0031649	heat generation	GO:BP	IL1B
+GO:0031622	positive regulation of fever generation	GO:BP	IL1B
+GO:0031620	regulation of fever generation	GO:BP	IL1B
+GO:0031401	positive regulation of protein modification process	GO:BP	IL1B
+GO:0031401	positive regulation of protein modification process	GO:BP	CD40
+GO:0031400	negative regulation of protein modification process	GO:BP	PTPN6
+GO:0031400	negative regulation of protein modification process	GO:BP	IL1B
+GO:0031399	regulation of protein modification process	GO:BP	PTPN6
+GO:0031399	regulation of protein modification process	GO:BP	IL1B
+GO:0031399	regulation of protein modification process	GO:BP	CD40
+GO:0031394	positive regulation of prostaglandin biosynthetic process	GO:BP	IL1B
+GO:0031392	regulation of prostaglandin biosynthetic process	GO:BP	IL1B
+GO:0031349	positive regulation of defense response	GO:BP	IFIH1
+GO:0031349	positive regulation of defense response	GO:BP	IL1B
+GO:0031349	positive regulation of defense response	GO:BP	CD40
+GO:0031348	negative regulation of defense response	GO:BP	PTPN6
+GO:0031295	T cell costimulation	GO:BP	PTPN6
+GO:0031294	lymphocyte costimulation	GO:BP	PTPN6
+GO:0030949	positive regulation of vascular endothelial growth factor receptor signaling pathway	GO:BP	IL1B
+GO:0030947	regulation of vascular endothelial growth factor receptor signaling pathway	GO:BP	IL1B
+GO:0030890	positive regulation of B cell proliferation	GO:BP	CD40
+GO:0030888	regulation of B cell proliferation	GO:BP	CD40
+GO:0030856	regulation of epithelial cell differentiation	GO:BP	IL1B
+GO:0030855	epithelial cell differentiation	GO:BP	IL1B
+GO:0030730	triglyceride storage	GO:BP	IL1B
+GO:0030595	leukocyte chemotaxis	GO:BP	IL1B
+GO:0030593	neutrophil chemotaxis	GO:BP	IL1B
+GO:0030522	intracellular receptor signaling pathway	GO:BP	IFIH1
+GO:0030449	regulation of complement activation	GO:BP	IL1B
+GO:0030335	positive regulation of cell migration	GO:BP	IL1B
+GO:0030335	positive regulation of cell migration	GO:BP	CD40
+GO:0030334	regulation of cell migration	GO:BP	IL1B
+GO:0030334	regulation of cell migration	GO:BP	CD40
+GO:0030220	platelet formation	GO:BP	PTPN6
+GO:0030217	T cell differentiation	GO:BP	IL1B
+GO:0022402	cell cycle process	GO:BP	PTPN6
+GO:0022402	cell cycle process	GO:BP	IL1B
+GO:0022008	neurogenesis	GO:BP	IL1B
+GO:0021782	glial cell development	GO:BP	IL1B
+GO:0015833	peptide transport	GO:BP	IL1B
+GO:0015749	monosaccharide transmembrane transport	GO:BP	IL1B
+GO:0015732	prostaglandin transport	GO:BP	IL1B
+GO:0015718	monocarboxylic acid transport	GO:BP	IL1B
+GO:0015711	organic anion transport	GO:BP	IL1B
+GO:0015031	protein transport	GO:BP	IL1B
+GO:0014805	smooth muscle adaptation	GO:BP	IL1B
+GO:0014074	response to purine-containing compound	GO:BP	IL1B
+GO:0014015	positive regulation of gliogenesis	GO:BP	IL1B
+GO:0014013	regulation of gliogenesis	GO:BP	IL1B
+GO:0014009	glial cell proliferation	GO:BP	IL1B
+GO:0014002	astrocyte development	GO:BP	IL1B
+GO:0010959	regulation of metal ion transport	GO:BP	PTPN6
+GO:0010876	lipid localization	GO:BP	IL1B
+GO:0010829	negative regulation of D-glucose transmembrane transport	GO:BP	IL1B
+GO:0010827	regulation of D-glucose transmembrane transport	GO:BP	IL1B
+GO:0010817	regulation of hormone levels	GO:BP	IL1B
+GO:0010721	negative regulation of cell development	GO:BP	IL1B
+GO:0010720	positive regulation of cell development	GO:BP	IL1B
+GO:0010718	positive regulation of epithelial to mesenchymal transition	GO:BP	IL1B
+GO:0010717	regulation of epithelial to mesenchymal transition	GO:BP	IL1B
+GO:0010648	negative regulation of cell communication	GO:BP	PTPN6
+GO:0010648	negative regulation of cell communication	GO:BP	IL1B
+GO:0010647	positive regulation of cell communication	GO:BP	PTPN6
+GO:0010647	positive regulation of cell communication	GO:BP	IL1B
+GO:0010647	positive regulation of cell communication	GO:BP	CD40
+GO:0010647	positive regulation of cell communication	GO:BP	LTB
+GO:0010646	regulation of cell communication	GO:BP	PTPN6
+GO:0010646	regulation of cell communication	GO:BP	IL1B
+GO:0010646	regulation of cell communication	GO:BP	CD40
+GO:0010646	regulation of cell communication	GO:BP	LTB
+GO:0010638	positive regulation of organelle organization	GO:BP	IL1B
+GO:0010629	negative regulation of gene expression	GO:BP	XAF1
+GO:0010629	negative regulation of gene expression	GO:BP	PTPN6
+GO:0010628	positive regulation of gene expression	GO:BP	IFIH1
+GO:0010628	positive regulation of gene expression	GO:BP	IL1B
+GO:0010628	positive regulation of gene expression	GO:BP	CD40
+GO:0010628	positive regulation of gene expression	GO:BP	LTB
+GO:0010623	programmed cell death involved in cell development	GO:BP	IL1B
+GO:0010605	negative regulation of macromolecule metabolic process	GO:BP	XAF1
+GO:0010605	negative regulation of macromolecule metabolic process	GO:BP	PTPN6
+GO:0010605	negative regulation of macromolecule metabolic process	GO:BP	IL1B
+GO:0015849	organic acid transport	GO:BP	IL1B
+GO:0015908	fatty acid transport	GO:BP	IL1B
+GO:0016032	viral process	GO:BP	IFIH1
+GO:0016042	lipid catabolic process	GO:BP	IL1B
+GO:0019915	lipid storage	GO:BP	IL1B
+GO:0019752	carboxylic acid metabolic process	GO:BP	IL1B
+GO:0019725	cellular homeostasis	GO:BP	PTPN6
+GO:0019725	cellular homeostasis	GO:BP	CD40
+GO:0019724	B cell mediated immunity	GO:BP	PTPN6
+GO:0019724	B cell mediated immunity	GO:BP	CD40
+GO:0019538	protein metabolic process	GO:BP	PTPN6
+GO:0019538	protein metabolic process	GO:BP	IFIH1
+GO:0019538	protein metabolic process	GO:BP	IL1B
+GO:0019538	protein metabolic process	GO:BP	CD40
+GO:0019222	regulation of metabolic process	GO:BP	XAF1
+GO:0019222	regulation of metabolic process	GO:BP	PTPN6
+GO:0019222	regulation of metabolic process	GO:BP	IFIH1
+GO:0019222	regulation of metabolic process	GO:BP	IL1B
+GO:0019222	regulation of metabolic process	GO:BP	NFKB2
+GO:0019222	regulation of metabolic process	GO:BP	CD40
+GO:0019222	regulation of metabolic process	GO:BP	LTB
+GO:0019221	cytokine-mediated signaling pathway	GO:BP	PTPN6
+GO:0019221	cytokine-mediated signaling pathway	GO:BP	IFIH1
+GO:0019221	cytokine-mediated signaling pathway	GO:BP	IL1B
+GO:0019220	regulation of phosphate metabolic process	GO:BP	PTPN6
+GO:0019220	regulation of phosphate metabolic process	GO:BP	IL1B
+GO:0019220	regulation of phosphate metabolic process	GO:BP	CD40
+GO:0019219	regulation of nucleobase-containing compound metabolic process	GO:BP	IL1B
+GO:0019219	regulation of nucleobase-containing compound metabolic process	GO:BP	NFKB2
+GO:0019219	regulation of nucleobase-containing compound metabolic process	GO:BP	CD40
+GO:0019217	regulation of fatty acid metabolic process	GO:BP	IL1B
+GO:0019216	regulation of lipid metabolic process	GO:BP	IL1B
+GO:0019079	viral genome replication	GO:BP	IFIH1
+GO:0019058	viral life cycle	GO:BP	IFIH1
+GO:0018212	peptidyl-tyrosine modification	GO:BP	PTPN6
+GO:0018212	peptidyl-tyrosine modification	GO:BP	CD40
+GO:0002827	positive regulation of T-helper 1 type immune response	GO:BP	IL1B
+GO:0018205	peptidyl-lysine modification	GO:BP	IFIH1
+GO:0018108	peptidyl-tyrosine phosphorylation	GO:BP	PTPN6
+GO:0018108	peptidyl-tyrosine phosphorylation	GO:BP	CD40
+GO:0016925	protein sumoylation	GO:BP	IFIH1
+GO:0016525	negative regulation of angiogenesis	GO:BP	PTPN6
+GO:0016477	cell migration	GO:BP	IL1B
+GO:0016477	cell migration	GO:BP	CD40
+GO:0016447	somatic recombination of immunoglobulin gene segments	GO:BP	CD40
+GO:0016445	somatic diversification of immunoglobulins	GO:BP	CD40
+GO:0016444	somatic cell DNA recombination	GO:BP	CD40
+GO:0016311	dephosphorylation	GO:BP	PTPN6
+GO:0016310	phosphorylation	GO:BP	PTPN6
+GO:0016310	phosphorylation	GO:BP	IL1B
+GO:0016310	phosphorylation	GO:BP	CD40
+GO:0016264	gap junction assembly	GO:BP	IL1B
+GO:0016070	RNA metabolic process	GO:BP	IL1B
+GO:0016070	RNA metabolic process	GO:BP	NFKB2
+GO:0016070	RNA metabolic process	GO:BP	CD40
+GO:0016064	immunoglobulin mediated immune response	GO:BP	PTPN6
+GO:0016064	immunoglobulin mediated immune response	GO:BP	CD40
+GO:0016053	organic acid biosynthetic process	GO:BP	IL1B
+GO:0016043	cellular component organization	GO:BP	IFIH1
+GO:0016043	cellular component organization	GO:BP	IL1B
+GO:0016043	cellular component organization	GO:BP	NFKB2
+GO:0016043	cellular component organization	GO:BP	CD40
+GO:0018193	peptidyl-amino acid modification	GO:BP	PTPN6
+GO:0018193	peptidyl-amino acid modification	GO:BP	IFIH1
+GO:0018193	peptidyl-amino acid modification	GO:BP	CD40
+GO:0032102	negative regulation of response to external stimulus	GO:BP	SERPINB2
+GO:0032102	negative regulation of response to external stimulus	GO:BP	PTPN6
+GO:0002825	regulation of T-helper 1 type immune response	GO:BP	IL1B
+GO:0002823	negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	PTPN6
+GO:0120543	macromolecular conformation isomerase activity	GO:MF	IFIH1
+GO:0098772	molecular function regulator activity	GO:MF	SERPINB2
+GO:0098772	molecular function regulator activity	GO:MF	IL1B
+GO:0098772	molecular function regulator activity	GO:MF	LTB
+GO:0097367	carbohydrate derivative binding	GO:MF	IFIH1
+GO:0070851	growth factor receptor binding	GO:MF	IL1B
+GO:0061135	endopeptidase regulator activity	GO:MF	SERPINB2
+GO:0061134	peptidase regulator activity	GO:MF	SERPINB2
+GO:0051219	phosphoprotein binding	GO:MF	PTPN6
+GO:0050839	cell adhesion molecule binding	GO:MF	PTPN6
+GO:0050839	cell adhesion molecule binding	GO:MF	IL1B
+GO:0048018	receptor ligand activity	GO:MF	IL1B
+GO:0048018	receptor ligand activity	GO:MF	LTB
+GO:0046914	transition metal ion binding	GO:MF	XAF1
+GO:0046914	transition metal ion binding	GO:MF	IFIH1
+GO:0046872	metal ion binding	GO:MF	XAF1
+GO:0046872	metal ion binding	GO:MF	IFIH1
+GO:0045309	protein phosphorylated amino acid binding	GO:MF	PTPN6
+GO:0044877	protein-containing complex binding	GO:MF	IFIH1
+GO:0044877	protein-containing complex binding	GO:MF	IL1B
+GO:0044389	ubiquitin-like protein ligase binding	GO:MF	CD40
+GO:0043565	sequence-specific DNA binding	GO:MF	NFKB2
+GO:0043169	cation binding	GO:MF	XAF1
+GO:0043169	cation binding	GO:MF	IFIH1
+GO:0043168	anion binding	GO:MF	IFIH1
+GO:0043167	ion binding	GO:MF	XAF1
+GO:0043167	ion binding	GO:MF	IFIH1
+GO:0043021	ribonucleoprotein complex binding	GO:MF	IFIH1
+GO:0042802	identical protein binding	GO:MF	SLAMF7
+GO:0042802	identical protein binding	GO:MF	IFIH1
+GO:0042578	phosphoric ester hydrolase activity	GO:MF	PTPN6
+GO:0042169	SH2 domain binding	GO:MF	PTPN6
+GO:0038187	pattern recognition receptor activity	GO:MF	IFIH1
+GO:0036094	small molecule binding	GO:MF	XAF1
+GO:0036094	small molecule binding	GO:MF	IFIH1
+GO:0035639	purine ribonucleoside triphosphate binding	GO:MF	IFIH1
+GO:0032813	tumor necrosis factor receptor superfamily binding	GO:MF	LTB
+GO:0032559	adenyl ribonucleotide binding	GO:MF	IFIH1
+GO:0032555	purine ribonucleotide binding	GO:MF	IFIH1
+GO:0032553	ribonucleotide binding	GO:MF	IFIH1
+GO:0120545	nucleic acid conformation isomerase activity	GO:MF	IFIH1
+GO:0031625	ubiquitin protein ligase binding	GO:MF	CD40
+GO:0140030	modification-dependent protein binding	GO:MF	PTPN6
+GO:0140098	catalytic activity, acting on RNA	GO:MF	IFIH1
+GO:0009897	external side of plasma membrane	GO:CC	SLAMF7
+GO:0009897	external side of plasma membrane	GO:CC	CD40
+GO:0005911	cell-cell junction	GO:CC	PTPN6
+GO:0005886	plasma membrane	GO:CC	SERPINB2
+GO:0005886	plasma membrane	GO:CC	SLAMF7
+GO:0005886	plasma membrane	GO:CC	PTPN6
+GO:0005886	plasma membrane	GO:CC	CD40
+GO:0005886	plasma membrane	GO:CC	LTB
+GO:0005829	cytosol	GO:CC	XAF1
+GO:0005829	cytosol	GO:CC	PTPN6
+GO:0005829	cytosol	GO:CC	IFIH1
+GO:0005829	cytosol	GO:CC	IL1B
+GO:0005829	cytosol	GO:CC	NFKB2
+GO:0005783	endoplasmic reticulum	GO:CC	SLAMF7
+GO:0005773	vacuole	GO:CC	IL1B
+GO:0005764	lysosome	GO:CC	IL1B
+GO:0005739	mitochondrion	GO:CC	XAF1
+GO:0005739	mitochondrion	GO:CC	IFIH1
+GO:0005737	cytoplasm	GO:CC	IFI44L
+GO:0005737	cytoplasm	GO:CC	SERPINB2
+GO:0005737	cytoplasm	GO:CC	XAF1
+GO:0005737	cytoplasm	GO:CC	SLAMF7
+GO:0005737	cytoplasm	GO:CC	PTPN6
+GO:0005737	cytoplasm	GO:CC	IFIH1
+GO:0005737	cytoplasm	GO:CC	IL1B
+GO:0005737	cytoplasm	GO:CC	NFKB2
+GO:0005730	nucleolus	GO:CC	PTPN6
+GO:0005694	chromosome	GO:CC	NFKB2
+GO:0005654	nucleoplasm	GO:CC	XAF1
+GO:0005654	nucleoplasm	GO:CC	PTPN6
+GO:0005654	nucleoplasm	GO:CC	NFKB2
+GO:0005634	nucleus	GO:CC	XAF1
+GO:0005634	nucleus	GO:CC	PTPN6
+GO:0005634	nucleus	GO:CC	IFIH1
+GO:0005634	nucleus	GO:CC	NFKB2
+GO:0005622	intracellular anatomical structure	GO:CC	IFI44L
+GO:0005622	intracellular anatomical structure	GO:CC	SERPINB2
+GO:0005622	intracellular anatomical structure	GO:CC	XAF1
+GO:0005622	intracellular anatomical structure	GO:CC	SLAMF7
+GO:0005622	intracellular anatomical structure	GO:CC	PTPN6
+GO:0005622	intracellular anatomical structure	GO:CC	IFIH1
+GO:0005622	intracellular anatomical structure	GO:CC	IL1B
+GO:0005622	intracellular anatomical structure	GO:CC	NFKB2
+GO:0005622	intracellular anatomical structure	GO:CC	CD40
+GO:0005615	extracellular space	GO:CC	SERPINB2
+GO:0005615	extracellular space	GO:CC	PTPN6
+GO:0005615	extracellular space	GO:CC	IL1B
+GO:0005615	extracellular space	GO:CC	CD40
+GO:0005615	extracellular space	GO:CC	LTB
+GO:0005576	extracellular region	GO:CC	SERPINB2
+GO:0005576	extracellular region	GO:CC	PTPN6
+GO:0005576	extracellular region	GO:CC	IL1B
+GO:0005576	extracellular region	GO:CC	CD40
+GO:0005576	extracellular region	GO:CC	LTB
+GO:0005575	cellular_component	GO:CC	IFI44L
+GO:0005575	cellular_component	GO:CC	SERPINB2
+GO:0005575	cellular_component	GO:CC	XAF1
+GO:0005575	cellular_component	GO:CC	SLAMF7
+GO:0005575	cellular_component	GO:CC	PTPN6
+GO:0005575	cellular_component	GO:CC	IFIH1
+GO:0005575	cellular_component	GO:CC	IL1B
+GO:0005575	cellular_component	GO:CC	NFKB2
+GO:0005575	cellular_component	GO:CC	CD40
+GO:0005575	cellular_component	GO:CC	LTB
+GO:0001533	cornified envelope	GO:CC	SERPINB2
+GO:0000785	chromatin	GO:CC	NFKB2
+GO:0000323	lytic vacuole	GO:CC	IL1B
+GO:1990837	sequence-specific double-stranded DNA binding	GO:MF	NFKB2
+GO:1901363	heterocyclic compound binding	GO:MF	IFIH1
+GO:1901265	nucleoside phosphate binding	GO:MF	IFIH1
+GO:0140678	molecular function inhibitor activity	GO:MF	SERPINB2
+GO:0140677	molecular function activator activity	GO:MF	IL1B
+GO:0140677	molecular function activator activity	GO:MF	LTB
+GO:0140657	ATP-dependent activity	GO:MF	IFIH1
+GO:0140640	catalytic activity, acting on a nucleic acid	GO:MF	IFIH1
+GO:0140313	molecular sequestering activity	GO:MF	XAF1
+GO:0140110	transcription regulator activity	GO:MF	NFKB2
+GO:0140096	catalytic activity, acting on a protein	GO:MF	SERPINB2
+GO:0140096	catalytic activity, acting on a protein	GO:MF	PTPN6
+GO:0009986	cell surface	GO:CC	SLAMF7
+GO:0009986	cell surface	GO:CC	CD40
+GO:0030554	adenyl nucleotide binding	GO:MF	IFIH1
+GO:0030545	signaling receptor regulator activity	GO:MF	IL1B
+GO:0030545	signaling receptor regulator activity	GO:MF	LTB
+GO:0004867	serine-type endopeptidase inhibitor activity	GO:MF	SERPINB2
+GO:0004866	endopeptidase inhibitor activity	GO:MF	SERPINB2
+GO:0004857	enzyme inhibitor activity	GO:MF	SERPINB2
+GO:0004726	non-membrane spanning protein tyrosine phosphatase activity	GO:MF	PTPN6
+GO:0004725	protein tyrosine phosphatase activity	GO:MF	PTPN6
+GO:0004721	phosphoprotein phosphatase activity	GO:MF	PTPN6
+GO:0004386	helicase activity	GO:MF	IFIH1
+GO:0004252	serine-type endopeptidase activity	GO:MF	SERPINB2
+GO:0004175	endopeptidase activity	GO:MF	SERPINB2
+GO:0003824	catalytic activity	GO:MF	SERPINB2
+GO:0003824	catalytic activity	GO:MF	PTPN6
+GO:0003824	catalytic activity	GO:MF	IFIH1
+GO:0003823	antigen binding	GO:MF	CD40
+GO:0003727	single-stranded RNA binding	GO:MF	IFIH1
+GO:0003725	double-stranded RNA binding	GO:MF	IFIH1
+GO:0003724	RNA helicase activity	GO:MF	IFIH1
+GO:0003723	RNA binding	GO:MF	IFIH1
+GO:0003700	DNA-binding transcription factor activity	GO:MF	NFKB2
+GO:0003690	double-stranded DNA binding	GO:MF	NFKB2
+GO:0003677	DNA binding	GO:MF	IFIH1
+GO:0003677	DNA binding	GO:MF	NFKB2
+GO:0003676	nucleic acid binding	GO:MF	IFIH1
+GO:0003676	nucleic acid binding	GO:MF	NFKB2
+GO:0003674	molecular_function	GO:MF	IFI44L
+GO:0003674	molecular_function	GO:MF	SERPINB2
+GO:0003674	molecular_function	GO:MF	XAF1
+GO:0003674	molecular_function	GO:MF	SLAMF7
+GO:0003674	molecular_function	GO:MF	PTPN6
+GO:0003674	molecular_function	GO:MF	IFIH1
+GO:0003674	molecular_function	GO:MF	IL1B
+GO:0003674	molecular_function	GO:MF	NFKB2
+GO:0003674	molecular_function	GO:MF	CD40
+GO:0003674	molecular_function	GO:MF	LTB
+GO:0001784	phosphotyrosine residue binding	GO:MF	PTPN6
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	GO:MF	NFKB2
+GO:0001216	DNA-binding transcription activator activity	GO:MF	NFKB2
+GO:0001067	transcription regulatory region nucleic acid binding	GO:MF	NFKB2
+GO:0000987	cis-regulatory region sequence-specific DNA binding	GO:MF	NFKB2
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	GO:MF	NFKB2
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	GO:MF	NFKB2
+GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding	GO:MF	NFKB2
+GO:0000976	transcription cis-regulatory region binding	GO:MF	NFKB2
+GO:0004888	transmembrane signaling receptor activity	GO:MF	PTPN6
+GO:0030546	signaling receptor activator activity	GO:MF	IL1B
+GO:0030546	signaling receptor activator activity	GO:MF	LTB
+GO:0005001	transmembrane receptor protein tyrosine phosphatase activity	GO:MF	PTPN6
+GO:0005125	cytokine activity	GO:MF	IL1B
+GO:0005125	cytokine activity	GO:MF	LTB
+GO:0030414	peptidase inhibitor activity	GO:MF	SERPINB2
+GO:0030234	enzyme regulator activity	GO:MF	SERPINB2
+GO:0019901	protein kinase binding	GO:MF	PTPN6
+GO:0019900	kinase binding	GO:MF	PTPN6
+GO:0019899	enzyme binding	GO:MF	PTPN6
+GO:0019899	enzyme binding	GO:MF	CD40
+GO:0019198	transmembrane receptor protein phosphatase activity	GO:MF	PTPN6
+GO:0017171	serine hydrolase activity	GO:MF	SERPINB2
+GO:0017124	SH3 domain binding	GO:MF	PTPN6
+GO:0017111	ribonucleoside triphosphate phosphatase activity	GO:MF	IFIH1
+GO:0017076	purine nucleotide binding	GO:MF	IFIH1
+GO:0016887	ATP hydrolysis activity	GO:MF	IFIH1
+GO:0016853	isomerase activity	GO:MF	IFIH1
+GO:0016818	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	GO:MF	IFIH1
+GO:0016817	hydrolase activity, acting on acid anhydrides	GO:MF	IFIH1
+GO:0016791	phosphatase activity	GO:MF	PTPN6
+GO:0016788	hydrolase activity, acting on ester bonds	GO:MF	PTPN6
+GO:0016787	hydrolase activity	GO:MF	SERPINB2
+GO:0016787	hydrolase activity	GO:MF	PTPN6
+GO:0016787	hydrolase activity	GO:MF	IFIH1
+GO:0016462	pyrophosphatase activity	GO:MF	IFIH1
+GO:0008270	zinc ion binding	GO:MF	XAF1
+GO:0008270	zinc ion binding	GO:MF	IFIH1
+GO:0008236	serine-type peptidase activity	GO:MF	SERPINB2
+GO:0008233	peptidase activity	GO:MF	SERPINB2
+GO:0008186	ATP-dependent activity, acting on RNA	GO:MF	IFIH1
+GO:0005524	ATP binding	GO:MF	IFIH1
+GO:0005515	protein binding	GO:MF	XAF1
+GO:0005515	protein binding	GO:MF	SLAMF7
+GO:0005515	protein binding	GO:MF	PTPN6
+GO:0005515	protein binding	GO:MF	IFIH1
+GO:0005515	protein binding	GO:MF	IL1B
+GO:0005515	protein binding	GO:MF	NFKB2
+GO:0005515	protein binding	GO:MF	CD40
+GO:0005515	protein binding	GO:MF	LTB
+GO:0005488	binding	GO:MF	XAF1
+GO:0005488	binding	GO:MF	SLAMF7
+GO:0005488	binding	GO:MF	PTPN6
+GO:0005488	binding	GO:MF	IFIH1
+GO:0005488	binding	GO:MF	IL1B
+GO:0005488	binding	GO:MF	NFKB2
+GO:0005488	binding	GO:MF	CD40
+GO:0005488	binding	GO:MF	LTB
+GO:0005178	integrin binding	GO:MF	IL1B
+GO:0005164	tumor necrosis factor receptor binding	GO:MF	LTB
+GO:0005149	interleukin-1 receptor binding	GO:MF	IL1B
+GO:0005126	cytokine receptor binding	GO:MF	IL1B
+GO:0005126	cytokine receptor binding	GO:MF	LTB
+GO:0005102	signaling receptor binding	GO:MF	IL1B
+GO:0005102	signaling receptor binding	GO:MF	LTB
+GO:0012505	endomembrane system	GO:CC	SLAMF7
+GO:0012505	endomembrane system	GO:CC	PTPN6
+GO:0012505	endomembrane system	GO:CC	IL1B
+GO:0016020	membrane	GO:CC	SERPINB2
+GO:0016020	membrane	GO:CC	SLAMF7
+GO:0016020	membrane	GO:CC	PTPN6
+GO:0016020	membrane	GO:CC	CD40
+GO:0016020	membrane	GO:CC	LTB
+GO:0030054	cell junction	GO:CC	PTPN6
+GO:0002637	regulation of immunoglobulin production	GO:BP	CD40
+GO:0002562	somatic diversification of immune receptors via germline recombination within a single locus	GO:BP	CD40
+GO:0002526	acute inflammatory response	GO:BP	IL1B
+GO:0002521	leukocyte differentiation	GO:BP	PTPN6
+GO:0002521	leukocyte differentiation	GO:BP	IL1B
+GO:0002467	germinal center formation	GO:BP	NFKB2
+GO:0002456	T cell mediated immunity	GO:BP	IL1B
+GO:0002455	humoral immune response mediated by circulating immunoglobulin	GO:BP	PTPN6
+GO:0002440	production of molecular mediator of immune response	GO:BP	IL1B
+GO:0002440	production of molecular mediator of immune response	GO:BP	CD40
+GO:0002429	immune response-activating cell surface receptor signaling pathway	GO:BP	PTPN6
+GO:0002381	immunoglobulin production involved in immunoglobulin-mediated immune response	GO:BP	CD40
+GO:0002377	immunoglobulin production	GO:BP	CD40
+GO:0002369	T cell cytokine production	GO:BP	IL1B
+GO:0002367	cytokine production involved in immune response	GO:BP	IL1B
+GO:0002366	leukocyte activation involved in immune response	GO:BP	PTPN6
+GO:0002366	leukocyte activation involved in immune response	GO:BP	CD40
+GO:0002312	B cell activation involved in immune response	GO:BP	CD40
+GO:0002285	lymphocyte activation involved in immune response	GO:BP	CD40
+GO:0002279	mast cell activation involved in immune response	GO:BP	PTPN6
+GO:0002275	myeloid cell activation involved in immune response	GO:BP	PTPN6
+GO:0002274	myeloid leukocyte activation	GO:BP	PTPN6
+GO:0002268	follicular dendritic cell differentiation	GO:BP	NFKB2
+GO:0002266	follicular dendritic cell activation	GO:BP	NFKB2
+GO:0002263	cell activation involved in immune response	GO:BP	PTPN6
+GO:0002263	cell activation involved in immune response	GO:BP	CD40
+GO:0002244	hematopoietic progenitor cell differentiation	GO:BP	PTPN6
+GO:0002224	toll-like receptor signaling pathway	GO:BP	CD40
+GO:0002221	pattern recognition receptor signaling pathway	GO:BP	IFIH1
+GO:0002221	pattern recognition receptor signaling pathway	GO:BP	CD40
+GO:0002218	activation of innate immune response	GO:BP	IFIH1
+GO:0002218	activation of innate immune response	GO:BP	CD40
+GO:0002208	somatic diversification of immunoglobulins involved in immune response	GO:BP	CD40
+GO:0002204	somatic recombination of immunoglobulin genes involved in immune response	GO:BP	CD40
+GO:0002200	somatic diversification of immune receptors	GO:BP	CD40
+GO:0002639	positive regulation of immunoglobulin production	GO:BP	CD40
+GO:0002064	epithelial cell development	GO:BP	IL1B
+GO:0002673	regulation of acute inflammatory response	GO:BP	IL1B
+GO:0002682	regulation of immune system process	GO:BP	PTPN6
+GO:0002682	regulation of immune system process	GO:BP	IFIH1
+GO:0002682	regulation of immune system process	GO:BP	IL1B
+GO:0002682	regulation of immune system process	GO:BP	CD40
+GO:0002821	positive regulation of adaptive immune response	GO:BP	IL1B
+GO:0002821	positive regulation of adaptive immune response	GO:BP	CD40
+GO:0002820	negative regulation of adaptive immune response	GO:BP	PTPN6
+GO:0002791	regulation of peptide secretion	GO:BP	IL1B
+GO:0002790	peptide secretion	GO:BP	IL1B
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	GO:BP	PTPN6
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	GO:BP	CD40
+GO:0002764	immune response-regulating signaling pathway	GO:BP	PTPN6
+GO:0002764	immune response-regulating signaling pathway	GO:BP	IFIH1
+GO:0002764	immune response-regulating signaling pathway	GO:BP	CD40
+GO:0002758	innate immune response-activating signaling pathway	GO:BP	IFIH1
+GO:0002758	innate immune response-activating signaling pathway	GO:BP	CD40
+GO:0002757	immune response-activating signaling pathway	GO:BP	PTPN6
+GO:0002757	immune response-activating signaling pathway	GO:BP	IFIH1
+GO:0002757	immune response-activating signaling pathway	GO:BP	CD40
+GO:0002756	MyD88-independent toll-like receptor signaling pathway	GO:BP	CD40
+GO:0002753	cytoplasmic pattern recognition receptor signaling pathway	GO:BP	IFIH1
+GO:0002726	positive regulation of T cell cytokine production	GO:BP	IL1B
+GO:0002724	regulation of T cell cytokine production	GO:BP	IL1B
+GO:0002720	positive regulation of cytokine production involved in immune response	GO:BP	IL1B
+GO:0002718	regulation of cytokine production involved in immune response	GO:BP	IL1B
+GO:0002714	positive regulation of B cell mediated immunity	GO:BP	CD40
+GO:0002713	negative regulation of B cell mediated immunity	GO:BP	PTPN6
+GO:0002711	positive regulation of T cell mediated immunity	GO:BP	IL1B
+GO:0002709	regulation of T cell mediated immunity	GO:BP	IL1B
+GO:0002708	positive regulation of lymphocyte mediated immunity	GO:BP	IL1B
+GO:0002708	positive regulation of lymphocyte mediated immunity	GO:BP	CD40
+GO:0002707	negative regulation of lymphocyte mediated immunity	GO:BP	PTPN6
+GO:0002705	positive regulation of leukocyte mediated immunity	GO:BP	IL1B
+GO:0002705	positive regulation of leukocyte mediated immunity	GO:BP	CD40
+GO:0002704	negative regulation of leukocyte mediated immunity	GO:BP	PTPN6
+GO:0002702	positive regulation of production of molecular mediator of immune response	GO:BP	IL1B
+GO:0002702	positive regulation of production of molecular mediator of immune response	GO:BP	CD40
+GO:0002700	regulation of production of molecular mediator of immune response	GO:BP	IL1B
+GO:0002700	regulation of production of molecular mediator of immune response	GO:BP	CD40
+GO:0002698	negative regulation of immune effector process	GO:BP	PTPN6
+GO:0002695	negative regulation of leukocyte activation	GO:BP	PTPN6
+GO:0002694	regulation of leukocyte activation	GO:BP	PTPN6
+GO:0002694	regulation of leukocyte activation	GO:BP	IL1B
+GO:0002694	regulation of leukocyte activation	GO:BP	CD40
+GO:0002684	positive regulation of immune system process	GO:BP	PTPN6
+GO:0002684	positive regulation of immune system process	GO:BP	IFIH1
+GO:0002684	positive regulation of immune system process	GO:BP	IL1B
+GO:0002684	positive regulation of immune system process	GO:BP	CD40
+GO:0002683	negative regulation of immune system process	GO:BP	PTPN6
+GO:0002675	positive regulation of acute inflammatory response	GO:BP	IL1B
+GO:0001959	regulation of cytokine-mediated signaling pathway	GO:BP	PTPN6
+GO:0001944	vasculature development	GO:BP	PTPN6
+GO:0001944	vasculature development	GO:BP	IL1B
+GO:0001944	vasculature development	GO:BP	CD40
+GO:0001934	positive regulation of protein phosphorylation	GO:BP	IL1B
+GO:0001934	positive regulation of protein phosphorylation	GO:BP	CD40
+GO:0065010	extracellular membrane-bounded organelle	GO:CC	PTPN6
+GO:0065010	extracellular membrane-bounded organelle	GO:CC	CD40
+GO:0060205	cytoplasmic vesicle lumen	GO:CC	PTPN6
+GO:0044304	main axon	GO:CC	CD40
+GO:0044297	cell body	GO:CC	CD40
+GO:0043235	receptor complex	GO:CC	PTPN6
+GO:0043235	receptor complex	GO:CC	CD40
+GO:0043233	organelle lumen	GO:CC	XAF1
+GO:0043233	organelle lumen	GO:CC	PTPN6
+GO:0043233	organelle lumen	GO:CC	NFKB2
+GO:0043232	intracellular membraneless organelle	GO:CC	PTPN6
+GO:0043232	intracellular membraneless organelle	GO:CC	NFKB2
+GO:0043231	intracellular membrane-bounded organelle	GO:CC	XAF1
+GO:0043231	intracellular membrane-bounded organelle	GO:CC	SLAMF7
+GO:0043231	intracellular membrane-bounded organelle	GO:CC	PTPN6
+GO:0043231	intracellular membrane-bounded organelle	GO:CC	IFIH1
+GO:0043231	intracellular membrane-bounded organelle	GO:CC	IL1B
+GO:0043231	intracellular membrane-bounded organelle	GO:CC	NFKB2
+GO:0043231	intracellular membrane-bounded organelle	GO:CC	CD40
+GO:0043230	extracellular organelle	GO:CC	PTPN6
+GO:0043230	extracellular organelle	GO:CC	CD40
+GO:0043229	intracellular organelle	GO:CC	XAF1
+GO:0043229	intracellular organelle	GO:CC	SLAMF7
+GO:0043229	intracellular organelle	GO:CC	PTPN6
+GO:0043229	intracellular organelle	GO:CC	IFIH1
+GO:0043229	intracellular organelle	GO:CC	IL1B
+GO:0043229	intracellular organelle	GO:CC	NFKB2
+GO:0043229	intracellular organelle	GO:CC	CD40
+GO:0043228	membraneless organelle	GO:CC	PTPN6
+GO:0043228	membraneless organelle	GO:CC	NFKB2
+GO:0043227	membrane-bounded organelle	GO:CC	XAF1
+GO:0043227	membrane-bounded organelle	GO:CC	SLAMF7
+GO:0043227	membrane-bounded organelle	GO:CC	PTPN6
+GO:0043227	membrane-bounded organelle	GO:CC	IFIH1
+GO:0043227	membrane-bounded organelle	GO:CC	IL1B
+GO:0043227	membrane-bounded organelle	GO:CC	NFKB2
+GO:0043227	membrane-bounded organelle	GO:CC	CD40
+GO:0043226	organelle	GO:CC	XAF1
+GO:0043226	organelle	GO:CC	SLAMF7
+GO:0043226	organelle	GO:CC	PTPN6
+GO:0043226	organelle	GO:CC	IFIH1
+GO:0043226	organelle	GO:CC	IL1B
+GO:0043226	organelle	GO:CC	NFKB2
+GO:0043226	organelle	GO:CC	CD40
+GO:0043025	neuronal cell body	GO:CC	CD40
+GO:0043005	neuron projection	GO:CC	CD40
+GO:0042995	cell projection	GO:CC	CD40
+GO:0042581	specific granule	GO:CC	PTPN6
+GO:0042101	T cell receptor complex	GO:CC	PTPN6
+GO:0036477	somatodendritic compartment	GO:CC	CD40
+GO:0035580	specific granule lumen	GO:CC	PTPN6
+GO:0034774	secretory granule lumen	GO:CC	PTPN6
+GO:0032991	protein-containing complex	GO:CC	PTPN6
+GO:0032991	protein-containing complex	GO:CC	NFKB2
+GO:0032991	protein-containing complex	GO:CC	CD40
+GO:0031983	vesicle lumen	GO:CC	PTPN6
+GO:0031982	vesicle	GO:CC	PTPN6
+GO:0031982	vesicle	GO:CC	IL1B
+GO:0031982	vesicle	GO:CC	CD40
+GO:0031981	nuclear lumen	GO:CC	XAF1
+GO:0031981	nuclear lumen	GO:CC	PTPN6
+GO:0031981	nuclear lumen	GO:CC	NFKB2
+GO:0031974	membrane-enclosed lumen	GO:CC	XAF1
+GO:0031974	membrane-enclosed lumen	GO:CC	PTPN6
+GO:0031974	membrane-enclosed lumen	GO:CC	NFKB2
+GO:0031410	cytoplasmic vesicle	GO:CC	PTPN6
+GO:0031410	cytoplasmic vesicle	GO:CC	IL1B
+GO:0030424	axon	GO:CC	CD40
+GO:0030141	secretory granule	GO:CC	PTPN6
+GO:0030141	secretory granule	GO:CC	IL1B
+GO:0070013	intracellular organelle lumen	GO:CC	XAF1
+GO:0070013	intracellular organelle lumen	GO:CC	PTPN6
+GO:0070013	intracellular organelle lumen	GO:CC	NFKB2
+GO:0070062	extracellular exosome	GO:CC	PTPN6
+GO:0070062	extracellular exosome	GO:CC	CD40
+GO:0070161	anchoring junction	GO:CC	PTPN6
+GO:0070820	tertiary granule	GO:CC	PTPN6
+GO:0001933	negative regulation of protein phosphorylation	GO:BP	PTPN6
+GO:0001933	negative regulation of protein phosphorylation	GO:BP	IL1B
+GO:0001932	regulation of protein phosphorylation	GO:BP	PTPN6
+GO:0001932	regulation of protein phosphorylation	GO:BP	IL1B
+GO:0001932	regulation of protein phosphorylation	GO:BP	CD40
+GO:0001909	leukocyte mediated cytotoxicity	GO:BP	SLAMF7
+GO:0001909	leukocyte mediated cytotoxicity	GO:BP	PTPN6
+GO:0001906	cell killing	GO:BP	SLAMF7
+GO:0001906	cell killing	GO:BP	PTPN6
+GO:0001885	endothelial cell development	GO:BP	IL1B
+GO:0001837	epithelial to mesenchymal transition	GO:BP	IL1B
+GO:0001818	negative regulation of cytokine production	GO:BP	XAF1
+GO:0001818	negative regulation of cytokine production	GO:BP	PTPN6
+GO:0001660	fever generation	GO:BP	IL1B
+GO:0001659	temperature homeostasis	GO:BP	IL1B
+GO:0001568	blood vessel development	GO:BP	PTPN6
+GO:0001568	blood vessel development	GO:BP	IL1B
+GO:0001568	blood vessel development	GO:BP	CD40
+GO:0001562	response to protozoan	GO:BP	CD40
+GO:0001525	angiogenesis	GO:BP	PTPN6
+GO:0001525	angiogenesis	GO:BP	IL1B
+GO:0001525	angiogenesis	GO:BP	CD40
+GO:0001516	prostaglandin biosynthetic process	GO:BP	IL1B
+GO:0000902	cell morphogenesis	GO:BP	PTPN6
+GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	IL1B
+GO:0002824	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	GO:BP	CD40
+GO:0000280	nuclear division	GO:BP	IL1B
+GO:0000165	MAPK cascade	GO:BP	PTPN6
+GO:0000165	MAPK cascade	GO:BP	IL1B
+GO:0000165	MAPK cascade	GO:BP	CD40
+GO:0000082	G1/S transition of mitotic cell cycle	GO:BP	PTPN6
+GO:0000018	regulation of DNA recombination	GO:BP	CD40
+GO:1904724	tertiary granule lumen	GO:CC	PTPN6
+GO:1903561	extracellular vesicle	GO:CC	PTPN6
+GO:1903561	extracellular vesicle	GO:CC	CD40
+GO:0140535	intracellular protein-containing complex	GO:CC	NFKB2
+GO:0120025	plasma membrane bounded cell projection	GO:CC	CD40
+GO:0110165	cellular anatomical structure	GO:CC	IFI44L
+GO:0110165	cellular anatomical structure	GO:CC	SERPINB2
+GO:0110165	cellular anatomical structure	GO:CC	XAF1
+GO:0110165	cellular anatomical structure	GO:CC	SLAMF7
+GO:0110165	cellular anatomical structure	GO:CC	PTPN6
+GO:0110165	cellular anatomical structure	GO:CC	IFIH1
+GO:0110165	cellular anatomical structure	GO:CC	IL1B
+GO:0110165	cellular anatomical structure	GO:CC	NFKB2
+GO:0110165	cellular anatomical structure	GO:CC	CD40
+GO:0110165	cellular anatomical structure	GO:CC	LTB
+GO:0099503	secretory vesicle	GO:CC	PTPN6
+GO:0099503	secretory vesicle	GO:CC	IL1B
+GO:0098797	plasma membrane protein complex	GO:CC	PTPN6
+GO:0098797	plasma membrane protein complex	GO:CC	CD40
+GO:0098796	membrane protein complex	GO:CC	PTPN6
+GO:0098796	membrane protein complex	GO:CC	CD40
+GO:0098552	side of membrane	GO:CC	SLAMF7
+GO:0098552	side of membrane	GO:CC	CD40
+GO:0097708	intracellular vesicle	GO:CC	PTPN6
+GO:0097708	intracellular vesicle	GO:CC	IL1B
+GO:0071944	cell periphery	GO:CC	SERPINB2
+GO:0071944	cell periphery	GO:CC	SLAMF7
+GO:0071944	cell periphery	GO:CC	PTPN6
+GO:0071944	cell periphery	GO:CC	CD40
+GO:0071944	cell periphery	GO:CC	LTB
+GO:0000278	mitotic cell cycle	GO:BP	PTPN6
+GO:0000278	mitotic cell cycle	GO:BP	IL1B
+GO:1901698	response to nitrogen compound	GO:BP	IFIH1
+GO:1901698	response to nitrogen compound	GO:BP	IL1B
+GO:1901698	response to nitrogen compound	GO:BP	CD40
+GO:0032103	positive regulation of response to external stimulus	GO:BP	IFIH1
+GO:0032103	positive regulation of response to external stimulus	GO:BP	IL1B
+GO:0032103	positive regulation of response to external stimulus	GO:BP	CD40
+GO:0032305	positive regulation of icosanoid secretion	GO:BP	IL1B
+GO:0051248	negative regulation of protein metabolic process	GO:BP	PTPN6
+GO:0051248	negative regulation of protein metabolic process	GO:BP	IL1B
+GO:0051247	positive regulation of protein metabolic process	GO:BP	IL1B
+GO:0051247	positive regulation of protein metabolic process	GO:BP	CD40
+GO:0051246	regulation of protein metabolic process	GO:BP	PTPN6
+GO:0051246	regulation of protein metabolic process	GO:BP	IL1B
+GO:0051246	regulation of protein metabolic process	GO:BP	CD40
+GO:0051241	negative regulation of multicellular organismal process	GO:BP	SERPINB2
+GO:0051241	negative regulation of multicellular organismal process	GO:BP	XAF1
+GO:0051241	negative regulation of multicellular organismal process	GO:BP	PTPN6
+GO:0051241	negative regulation of multicellular organismal process	GO:BP	IL1B
+GO:0051235	maintenance of location	GO:BP	PTPN6
+GO:0051234	establishment of localization	GO:BP	PTPN6
+GO:0051234	establishment of localization	GO:BP	IL1B
+GO:0051224	negative regulation of protein transport	GO:BP	IL1B
+GO:0051223	regulation of protein transport	GO:BP	IL1B
+GO:0051222	positive regulation of protein transport	GO:BP	IL1B
+GO:0051209	release of sequestered calcium ion into cytosol	GO:BP	PTPN6
+GO:0051208	sequestering of calcium ion	GO:BP	PTPN6
+GO:0051179	localization	GO:BP	PTPN6
+GO:0051179	localization	GO:BP	IL1B
+GO:0051174	regulation of phosphorus metabolic process	GO:BP	PTPN6
+GO:0051174	regulation of phosphorus metabolic process	GO:BP	IL1B
+GO:0051174	regulation of phosphorus metabolic process	GO:BP	CD40
+GO:0051169	nuclear transport	GO:BP	IL1B
+GO:0051168	nuclear export	GO:BP	IL1B
+GO:0051130	positive regulation of cellular component organization	GO:BP	IL1B
+GO:0051129	negative regulation of cellular component organization	GO:BP	IL1B
+GO:0051128	regulation of cellular component organization	GO:BP	IL1B
+GO:0051094	positive regulation of developmental process	GO:BP	IL1B
+GO:0051094	positive regulation of developmental process	GO:BP	CD40
+GO:0051093	negative regulation of developmental process	GO:BP	PTPN6
+GO:0051093	negative regulation of developmental process	GO:BP	IL1B
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	GO:BP	IL1B
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	GO:BP	CD40
+GO:0051091	positive regulation of DNA-binding transcription factor activity	GO:BP	IL1B
+GO:0051091	positive regulation of DNA-binding transcription factor activity	GO:BP	CD40
+GO:0051090	regulation of DNA-binding transcription factor activity	GO:BP	IL1B
+GO:0051090	regulation of DNA-binding transcription factor activity	GO:BP	CD40
+GO:0051054	positive regulation of DNA metabolic process	GO:BP	CD40
+GO:0051052	regulation of DNA metabolic process	GO:BP	CD40
+GO:0051051	negative regulation of transport	GO:BP	IL1B
+GO:0051050	positive regulation of transport	GO:BP	IL1B
+GO:0051049	regulation of transport	GO:BP	PTPN6
+GO:0051049	regulation of transport	GO:BP	IL1B
+GO:0051048	negative regulation of secretion	GO:BP	IL1B
+GO:0051249	regulation of lymphocyte activation	GO:BP	PTPN6
+GO:0051249	regulation of lymphocyte activation	GO:BP	IL1B
+GO:0051249	regulation of lymphocyte activation	GO:BP	CD40
+GO:0051047	positive regulation of secretion	GO:BP	IL1B
+GO:0051250	negative regulation of lymphocyte activation	GO:BP	PTPN6
+GO:0051254	positive regulation of RNA metabolic process	GO:BP	IL1B
+GO:0051254	positive regulation of RNA metabolic process	GO:BP	NFKB2
+GO:0051254	positive regulation of RNA metabolic process	GO:BP	CD40
+GO:0055080	monoatomic cation homeostasis	GO:BP	PTPN6
+GO:0055080	monoatomic cation homeostasis	GO:BP	CD40
+GO:0055074	calcium ion homeostasis	GO:BP	PTPN6
+GO:0055074	calcium ion homeostasis	GO:BP	CD40
+GO:0051962	positive regulation of nervous system development	GO:BP	IL1B
+GO:0051961	negative regulation of nervous system development	GO:BP	IL1B
+GO:0051960	regulation of nervous system development	GO:BP	IL1B
+GO:0051924	regulation of calcium ion transport	GO:BP	PTPN6
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	GO:BP	PTPN6
+GO:0051896	regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	GO:BP	PTPN6
+GO:0051785	positive regulation of nuclear division	GO:BP	IL1B
+GO:0051783	regulation of nuclear division	GO:BP	IL1B
+GO:0051781	positive regulation of cell division	GO:BP	IL1B
+GO:0051726	regulation of cell cycle	GO:BP	PTPN6
+GO:0051726	regulation of cell cycle	GO:BP	IL1B
+GO:0051716	cellular response to stimulus	GO:BP	PTPN6
+GO:0051716	cellular response to stimulus	GO:BP	IFIH1
+GO:0051716	cellular response to stimulus	GO:BP	IL1B
+GO:0051716	cellular response to stimulus	GO:BP	NFKB2
+GO:0051716	cellular response to stimulus	GO:BP	CD40
+GO:0051716	cellular response to stimulus	GO:BP	LTB
+GO:0051651	maintenance of location in cell	GO:BP	PTPN6
+GO:0051649	establishment of localization in cell	GO:BP	IL1B
+GO:0051641	cellular localization	GO:BP	PTPN6
+GO:0051641	cellular localization	GO:BP	IL1B
+GO:0051353	positive regulation of oxidoreductase activity	GO:BP	IL1B
+GO:0051348	negative regulation of transferase activity	GO:BP	IL1B
+GO:0051347	positive regulation of transferase activity	GO:BP	IL1B
+GO:0051347	positive regulation of transferase activity	GO:BP	CD40
+GO:0051345	positive regulation of hydrolase activity	GO:BP	CD40
+GO:0051341	regulation of oxidoreductase activity	GO:BP	IL1B
+GO:0051338	regulation of transferase activity	GO:BP	IL1B
+GO:0051338	regulation of transferase activity	GO:BP	CD40
+GO:0051336	regulation of hydrolase activity	GO:BP	CD40
+GO:0051302	regulation of cell division	GO:BP	IL1B
+GO:0051301	cell division	GO:BP	IL1B
+GO:0051283	negative regulation of sequestering of calcium ion	GO:BP	PTPN6
+GO:0051282	regulation of sequestering of calcium ion	GO:BP	PTPN6
+GO:0051279	regulation of release of sequestered calcium ion into cytosol	GO:BP	PTPN6
+GO:0051259	protein complex oligomerization	GO:BP	IFIH1
+GO:0051252	regulation of RNA metabolic process	GO:BP	IL1B
+GO:0051252	regulation of RNA metabolic process	GO:BP	NFKB2
+GO:0051252	regulation of RNA metabolic process	GO:BP	CD40
+GO:0055082	intracellular chemical homeostasis	GO:BP	PTPN6
+GO:0055082	intracellular chemical homeostasis	GO:BP	CD40
+GO:0051046	regulation of secretion	GO:BP	IL1B
+GO:0051043	regulation of membrane protein ectodomain proteolysis	GO:BP	IL1B
+GO:0050789	regulation of biological process	GO:BP	SERPINB2
+GO:0050789	regulation of biological process	GO:BP	XAF1
+GO:0050789	regulation of biological process	GO:BP	PTPN6
+GO:0050789	regulation of biological process	GO:BP	IFIH1
+GO:0050789	regulation of biological process	GO:BP	IL1B
+GO:0050789	regulation of biological process	GO:BP	NFKB2
+GO:0050789	regulation of biological process	GO:BP	CD40
+GO:0050789	regulation of biological process	GO:BP	LTB
+GO:0050777	negative regulation of immune response	GO:BP	PTPN6
+GO:0050769	positive regulation of neurogenesis	GO:BP	IL1B
+GO:0050768	negative regulation of neurogenesis	GO:BP	IL1B
+GO:0050767	regulation of neurogenesis	GO:BP	IL1B
+GO:0050732	negative regulation of peptidyl-tyrosine phosphorylation	GO:BP	PTPN6
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	GO:BP	CD40
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	GO:BP	PTPN6
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	GO:BP	CD40
+GO:0050729	positive regulation of inflammatory response	GO:BP	IL1B
+GO:0050728	negative regulation of inflammatory response	GO:BP	PTPN6
+GO:0050727	regulation of inflammatory response	GO:BP	PTPN6
+GO:0050727	regulation of inflammatory response	GO:BP	IL1B
+GO:0050709	negative regulation of protein secretion	GO:BP	IL1B
+GO:0050708	regulation of protein secretion	GO:BP	IL1B
+GO:0050691	regulation of defense response to virus by host	GO:BP	IL1B
+GO:0050688	regulation of defense response to virus	GO:BP	IL1B
+GO:0050672	negative regulation of lymphocyte proliferation	GO:BP	PTPN6
+GO:0050671	positive regulation of lymphocyte proliferation	GO:BP	IL1B
+GO:0050671	positive regulation of lymphocyte proliferation	GO:BP	CD40
+GO:0048878	chemical homeostasis	GO:BP	PTPN6
+GO:0048878	chemical homeostasis	GO:BP	CD40
+GO:0048871	multicellular organismal-level homeostasis	GO:BP	IL1B
+GO:0048870	cell motility	GO:BP	IL1B
+GO:0048870	cell motility	GO:BP	CD40
+GO:0048869	cellular developmental process	GO:BP	PTPN6
+GO:0048869	cellular developmental process	GO:BP	IL1B
+GO:0048869	cellular developmental process	GO:BP	NFKB2
+GO:0048856	anatomical structure development	GO:BP	PTPN6
+GO:0048856	anatomical structure development	GO:BP	IL1B
+GO:0048856	anatomical structure development	GO:BP	NFKB2
+GO:0048856	anatomical structure development	GO:BP	CD40
+GO:0048856	anatomical structure development	GO:BP	LTB
+GO:0048762	mesenchymal cell differentiation	GO:BP	IL1B
+GO:0048731	system development	GO:BP	PTPN6
+GO:0048731	system development	GO:BP	IL1B
+GO:0048731	system development	GO:BP	NFKB2
+GO:0048731	system development	GO:BP	CD40
+GO:0048731	system development	GO:BP	LTB
+GO:0048708	astrocyte differentiation	GO:BP	IL1B
+GO:0048646	anatomical structure formation involved in morphogenesis	GO:BP	PTPN6
+GO:0048646	anatomical structure formation involved in morphogenesis	GO:BP	IL1B
+GO:0048646	anatomical structure formation involved in morphogenesis	GO:BP	NFKB2
+GO:0048646	anatomical structure formation involved in morphogenesis	GO:BP	CD40
+GO:0048585	negative regulation of response to stimulus	GO:BP	SERPINB2
+GO:0048585	negative regulation of response to stimulus	GO:BP	PTPN6
+GO:0048585	negative regulation of response to stimulus	GO:BP	IL1B
+GO:0048584	positive regulation of response to stimulus	GO:BP	PTPN6
+GO:0048584	positive regulation of response to stimulus	GO:BP	IFIH1
+GO:0048584	positive regulation of response to stimulus	GO:BP	IL1B
+GO:0048584	positive regulation of response to stimulus	GO:BP	CD40
+GO:0048584	positive regulation of response to stimulus	GO:BP	LTB
+GO:0048583	regulation of response to stimulus	GO:BP	SERPINB2
+GO:0048583	regulation of response to stimulus	GO:BP	PTPN6
+GO:0048583	regulation of response to stimulus	GO:BP	IFIH1
+GO:0048583	regulation of response to stimulus	GO:BP	IL1B
+GO:0048583	regulation of response to stimulus	GO:BP	CD40
+GO:0048583	regulation of response to stimulus	GO:BP	LTB
+GO:0050790	regulation of catalytic activity	GO:BP	IL1B
+GO:0050790	regulation of catalytic activity	GO:BP	CD40
+GO:0051044	positive regulation of membrane protein ectodomain proteolysis	GO:BP	IL1B
+GO:0050792	regulation of viral process	GO:BP	IFIH1
+GO:0050794	regulation of cellular process	GO:BP	SERPINB2
+GO:0050794	regulation of cellular process	GO:BP	XAF1
+GO:0050794	regulation of cellular process	GO:BP	PTPN6
+GO:0050794	regulation of cellular process	GO:BP	IFIH1
+GO:0050794	regulation of cellular process	GO:BP	IL1B
+GO:0050794	regulation of cellular process	GO:BP	NFKB2
+GO:0050794	regulation of cellular process	GO:BP	CD40
+GO:0050794	regulation of cellular process	GO:BP	LTB
+GO:0050999	regulation of nitric-oxide synthase activity	GO:BP	IL1B
+GO:0050996	positive regulation of lipid catabolic process	GO:BP	IL1B
+GO:0050995	negative regulation of lipid catabolic process	GO:BP	IL1B
+GO:0050994	regulation of lipid catabolic process	GO:BP	IL1B
+GO:0050900	leukocyte migration	GO:BP	IL1B
+GO:0050886	endocrine process	GO:BP	IL1B
+GO:0050871	positive regulation of B cell activation	GO:BP	CD40
+GO:0050870	positive regulation of T cell activation	GO:BP	PTPN6
+GO:0050870	positive regulation of T cell activation	GO:BP	IL1B
+GO:0050868	negative regulation of T cell activation	GO:BP	PTPN6
+GO:0050866	negative regulation of cell activation	GO:BP	PTPN6
+GO:0050865	regulation of cell activation	GO:BP	PTPN6
+GO:0050865	regulation of cell activation	GO:BP	IL1B
+GO:0050865	regulation of cell activation	GO:BP	CD40
+GO:0050864	regulation of B cell activation	GO:BP	PTPN6
+GO:0050864	regulation of B cell activation	GO:BP	CD40
+GO:0050863	regulation of T cell activation	GO:BP	PTPN6
+GO:0050863	regulation of T cell activation	GO:BP	IL1B
+GO:0050860	negative regulation of T cell receptor signaling pathway	GO:BP	PTPN6
+GO:0050859	negative regulation of B cell receptor signaling pathway	GO:BP	PTPN6
+GO:0050858	negative regulation of antigen receptor-mediated signaling pathway	GO:BP	PTPN6
+GO:0050856	regulation of T cell receptor signaling pathway	GO:BP	PTPN6
+GO:0050855	regulation of B cell receptor signaling pathway	GO:BP	PTPN6
+GO:0050854	regulation of antigen receptor-mediated signaling pathway	GO:BP	PTPN6
+GO:0050853	B cell receptor signaling pathway	GO:BP	PTPN6
+GO:0050852	T cell receptor signaling pathway	GO:BP	PTPN6
+GO:0050851	antigen receptor-mediated signaling pathway	GO:BP	PTPN6
+GO:0050830	defense response to Gram-positive bacterium	GO:BP	IL1B
+GO:0050819	negative regulation of coagulation	GO:BP	SERPINB2
+GO:0050818	regulation of coagulation	GO:BP	SERPINB2
+GO:0050805	negative regulation of synaptic transmission	GO:BP	IL1B
+GO:0050804	modulation of chemical synaptic transmission	GO:BP	IL1B
+GO:0050801	monoatomic ion homeostasis	GO:BP	PTPN6
+GO:0050801	monoatomic ion homeostasis	GO:BP	CD40
+GO:0050796	regulation of insulin secretion	GO:BP	IL1B
+GO:0050793	regulation of developmental process	GO:BP	PTPN6
+GO:0050793	regulation of developmental process	GO:BP	IL1B
+GO:0050793	regulation of developmental process	GO:BP	CD40
+GO:0055085	transmembrane transport	GO:BP	PTPN6
+GO:0055085	transmembrane transport	GO:BP	IL1B
+GO:0060251	regulation of glial cell proliferation	GO:BP	IL1B
+GO:0060252	positive regulation of glial cell proliferation	GO:BP	IL1B
+GO:0098660	inorganic ion transmembrane transport	GO:BP	PTPN6
+GO:0098655	monoatomic cation transmembrane transport	GO:BP	PTPN6
+GO:0098609	cell-cell adhesion	GO:BP	PTPN6
+GO:0098609	cell-cell adhesion	GO:BP	IL1B
+GO:0098586	cellular response to virus	GO:BP	IFIH1
+GO:0097696	cell surface receptor signaling pathway via STAT	GO:BP	CD40
+GO:0097553	calcium ion transmembrane import into cytosol	GO:BP	PTPN6
+GO:0097530	granulocyte migration	GO:BP	IL1B
+GO:0097529	myeloid leukocyte migration	GO:BP	IL1B
+GO:0097398	cellular response to interleukin-17	GO:BP	IL1B
+GO:0097396	response to interleukin-17	GO:BP	IL1B
+WP:WP727	Monoamine transport	WP	IL1B
+GO:0097191	extrinsic apoptotic signaling pathway	GO:BP	IL1B
+GO:0097191	extrinsic apoptotic signaling pathway	GO:BP	LTB
+GO:0097190	apoptotic signaling pathway	GO:BP	IL1B
+GO:0097190	apoptotic signaling pathway	GO:BP	LTB
+GO:0090594	inflammatory response to wounding	GO:BP	PTPN6
+GO:0090316	positive regulation of intracellular protein transport	GO:BP	IL1B
+GO:0090304	nucleic acid metabolic process	GO:BP	IL1B
+GO:0090304	nucleic acid metabolic process	GO:BP	NFKB2
+GO:0090304	nucleic acid metabolic process	GO:BP	CD40
+GO:0090287	regulation of cellular response to growth factor stimulus	GO:BP	IL1B
+GO:0090276	regulation of peptide hormone secretion	GO:BP	IL1B
+GO:0090087	regulation of peptide transport	GO:BP	IL1B
+GO:0090068	positive regulation of cell cycle process	GO:BP	IL1B
+GO:0090037	positive regulation of protein kinase C signaling	GO:BP	CD40
+GO:0090036	regulation of protein kinase C signaling	GO:BP	CD40
+GO:0080164	regulation of nitric oxide metabolic process	GO:BP	IL1B
+GO:0080090	regulation of primary metabolic process	GO:BP	PTPN6
+GO:0080090	regulation of primary metabolic process	GO:BP	IL1B
+GO:0080090	regulation of primary metabolic process	GO:BP	NFKB2
+GO:0080090	regulation of primary metabolic process	GO:BP	CD40
+GO:0072577	endothelial cell apoptotic process	GO:BP	CD40
+GO:0072359	circulatory system development	GO:BP	PTPN6
+GO:0072359	circulatory system development	GO:BP	IL1B
+GO:0072359	circulatory system development	GO:BP	CD40
+GO:0072330	monocarboxylic acid biosynthetic process	GO:BP	IL1B
+GO:0071902	positive regulation of protein serine/threonine kinase activity	GO:BP	IL1B
+GO:0071902	positive regulation of protein serine/threonine kinase activity	GO:BP	CD40
+GO:0071901	negative regulation of protein serine/threonine kinase activity	GO:BP	IL1B
+GO:0098662	inorganic cation transmembrane transport	GO:BP	PTPN6
+GO:0071900	regulation of protein serine/threonine kinase activity	GO:BP	IL1B
+GO:0071900	regulation of protein serine/threonine kinase activity	GO:BP	CD40
+GO:0098771	inorganic ion homeostasis	GO:BP	PTPN6
+GO:0098771	inorganic ion homeostasis	GO:BP	CD40
+GO:0099177	regulation of trans-synaptic signaling	GO:BP	IL1B
+GO:1901343	negative regulation of vasculature development	GO:BP	PTPN6
+GO:1901224	positive regulation of non-canonical NF-kappaB signal transduction	GO:BP	IL1B
+GO:1901222	regulation of non-canonical NF-kappaB signal transduction	GO:BP	IL1B
+GO:1901137	carbohydrate derivative biosynthetic process	GO:BP	IL1B
+GO:1901135	carbohydrate derivative metabolic process	GO:BP	IL1B
+GO:1901099	negative regulation of signal transduction in absence of ligand	GO:BP	IL1B
+GO:1900745	positive regulation of p38MAPK cascade	GO:BP	IL1B
+GO:1900744	regulation of p38MAPK cascade	GO:BP	IL1B
+GO:1900077	negative regulation of cellular response to insulin stimulus	GO:BP	IL1B
+GO:1900076	regulation of cellular response to insulin stimulus	GO:BP	IL1B
+GO:1900047	negative regulation of hemostasis	GO:BP	SERPINB2
+GO:1900046	regulation of hemostasis	GO:BP	SERPINB2
+GO:0170062	nutrient storage	GO:BP	IL1B
+GO:0160162	CD27 signaling pathway	GO:BP	PTPN6
+GO:0150078	positive regulation of neuroinflammatory response	GO:BP	IL1B
+GO:0150077	regulation of neuroinflammatory response	GO:BP	IL1B
+GO:0150076	neuroinflammatory response	GO:BP	IL1B
+GO:0141187	nucleic acid biosynthetic process	GO:BP	IL1B
+GO:0141187	nucleic acid biosynthetic process	GO:BP	NFKB2
+GO:0141187	nucleic acid biosynthetic process	GO:BP	CD40
+GO:0141124	intracellular signaling cassette	GO:BP	PTPN6
+GO:0141124	intracellular signaling cassette	GO:BP	IL1B
+GO:0141124	intracellular signaling cassette	GO:BP	NFKB2
+GO:0141124	intracellular signaling cassette	GO:BP	CD40
+GO:0141124	intracellular signaling cassette	GO:BP	LTB
+GO:0140888	interferon-mediated signaling pathway	GO:BP	PTPN6
+GO:0140888	interferon-mediated signaling pathway	GO:BP	IFIH1
+GO:0140374	antiviral innate immune response	GO:BP	IFIH1
+GO:0140353	lipid export from cell	GO:BP	IL1B
+GO:0140352	export from cell	GO:BP	IL1B
+GO:0140014	mitotic nuclear division	GO:BP	IL1B
+GO:0106015	negative regulation of inflammatory response to wounding	GO:BP	PTPN6
+GO:0106014	regulation of inflammatory response to wounding	GO:BP	PTPN6
+GO:0104004	cellular response to environmental stimulus	GO:BP	IL1B
+GO:0104004	cellular response to environmental stimulus	GO:BP	CD40
+GO:0099537	trans-synaptic signaling	GO:BP	IL1B
+GO:0099536	synaptic signaling	GO:BP	IL1B
+GO:0098916	anterograde trans-synaptic signaling	GO:BP	IL1B
+GO:0071840	cellular component organization or biogenesis	GO:BP	IFIH1
+GO:0071840	cellular component organization or biogenesis	GO:BP	IL1B
+GO:0071840	cellular component organization or biogenesis	GO:BP	NFKB2
+GO:0071840	cellular component organization or biogenesis	GO:BP	CD40
+GO:0071715	icosanoid transport	GO:BP	IL1B
+GO:0071706	tumor necrosis factor superfamily cytokine production	GO:BP	PTPN6
+GO:0071706	tumor necrosis factor superfamily cytokine production	GO:BP	IFIH1
+GO:0070164	negative regulation of adiponectin secretion	GO:BP	IL1B
+GO:0070163	regulation of adiponectin secretion	GO:BP	IL1B
+GO:0070162	adiponectin secretion	GO:BP	IL1B
+GO:0065009	regulation of molecular function	GO:BP	IL1B
+GO:0065009	regulation of molecular function	GO:BP	CD40
+GO:0065008	regulation of biological quality	GO:BP	SERPINB2
+GO:0065008	regulation of biological quality	GO:BP	PTPN6
+GO:0065008	regulation of biological quality	GO:BP	IL1B
+GO:0065008	regulation of biological quality	GO:BP	CD40
+GO:0065007	biological regulation	GO:BP	SERPINB2
+GO:0065007	biological regulation	GO:BP	XAF1
+GO:0065007	biological regulation	GO:BP	PTPN6
+GO:0065007	biological regulation	GO:BP	IFIH1
+GO:0065007	biological regulation	GO:BP	IL1B
+GO:0065007	biological regulation	GO:BP	NFKB2
+GO:0065007	biological regulation	GO:BP	CD40
+GO:0065007	biological regulation	GO:BP	LTB
+GO:0065003	protein-containing complex assembly	GO:BP	IFIH1
+GO:0065003	protein-containing complex assembly	GO:BP	CD40
+GO:0062013	positive regulation of small molecule metabolic process	GO:BP	IL1B
+GO:0062012	regulation of small molecule metabolic process	GO:BP	IL1B
+GO:0061900	glial cell activation	GO:BP	IL1B
+GO:0061515	myeloid cell development	GO:BP	PTPN6
+GO:0061045	negative regulation of wound healing	GO:BP	SERPINB2
+GO:0061041	regulation of wound healing	GO:BP	SERPINB2
+GO:0061028	establishment of endothelial barrier	GO:BP	IL1B
+GO:0060986	endocrine hormone secretion	GO:BP	IL1B
+GO:0060760	positive regulation of response to cytokine stimulus	GO:BP	IFIH1
+GO:0060759	regulation of response to cytokine stimulus	GO:BP	PTPN6
+GO:0060759	regulation of response to cytokine stimulus	GO:BP	IFIH1
+GO:0060559	positive regulation of calcidiol 1-monooxygenase activity	GO:BP	IL1B
+GO:0060558	regulation of calcidiol 1-monooxygenase activity	GO:BP	IL1B
+GO:0060485	mesenchyme development	GO:BP	IL1B
+GO:0060429	epithelium development	GO:BP	IL1B
+GO:0060355	positive regulation of cell adhesion molecule production	GO:BP	IL1B
+GO:0060353	regulation of cell adhesion molecule production	GO:BP	IL1B
+GO:0060352	cell adhesion molecule production	GO:BP	IL1B
+GO:0060341	regulation of cellular localization	GO:BP	IL1B
+GO:0060338	regulation of type I interferon-mediated signaling pathway	GO:BP	PTPN6
+GO:0060326	cell chemotaxis	GO:BP	IL1B
+GO:0060284	regulation of cell development	GO:BP	PTPN6
+GO:0060284	regulation of cell development	GO:BP	IL1B
+GO:0060255	regulation of macromolecule metabolic process	GO:BP	XAF1
+GO:0060255	regulation of macromolecule metabolic process	GO:BP	PTPN6
+GO:0060255	regulation of macromolecule metabolic process	GO:BP	IFIH1
+GO:0060255	regulation of macromolecule metabolic process	GO:BP	IL1B
+GO:0060255	regulation of macromolecule metabolic process	GO:BP	NFKB2
+GO:0060255	regulation of macromolecule metabolic process	GO:BP	CD40
+GO:0060255	regulation of macromolecule metabolic process	GO:BP	LTB
+GO:0070201	regulation of establishment of protein localization	GO:BP	IL1B
+GO:0070371	ERK1 and ERK2 cascade	GO:BP	PTPN6
+GO:0070371	ERK1 and ERK2 cascade	GO:BP	IL1B
+GO:0070372	regulation of ERK1 and ERK2 cascade	GO:BP	PTPN6
+GO:0070372	regulation of ERK1 and ERK2 cascade	GO:BP	IL1B
+GO:0070486	leukocyte aggregation	GO:BP	IL1B
+GO:0071705	nitrogen compound transport	GO:BP	IL1B
+GO:0071692	protein localization to extracellular region	GO:BP	IL1B
+GO:0071639	positive regulation of monocyte chemotactic protein-1 production	GO:BP	IL1B
+GO:0071637	regulation of monocyte chemotactic protein-1 production	GO:BP	IL1B
+GO:0071621	granulocyte chemotaxis	GO:BP	IL1B
+GO:0071605	monocyte chemotactic protein-1 production	GO:BP	IL1B
+GO:0071495	cellular response to endogenous stimulus	GO:BP	IL1B
+GO:0071466	cellular response to xenobiotic stimulus	GO:BP	IL1B
+GO:0071396	cellular response to lipid	GO:BP	IL1B
+GO:0071396	cellular response to lipid	GO:BP	CD40
+GO:0071375	cellular response to peptide hormone stimulus	GO:BP	IL1B
+GO:0071363	cellular response to growth factor stimulus	GO:BP	IL1B
+GO:0071360	cellular response to exogenous dsRNA	GO:BP	IFIH1
+GO:0071359	cellular response to dsRNA	GO:BP	IFIH1
+GO:0071356	cellular response to tumor necrosis factor	GO:BP	CD40
+GO:0048536	spleen development	GO:BP	NFKB2
+GO:0071222	cellular response to lipopolysaccharide	GO:BP	IL1B
+GO:0071222	cellular response to lipopolysaccharide	GO:BP	CD40
+GO:0071216	cellular response to biotic stimulus	GO:BP	IL1B
+GO:0071216	cellular response to biotic stimulus	GO:BP	CD40
+GO:0071214	cellular response to abiotic stimulus	GO:BP	IL1B
+GO:0071214	cellular response to abiotic stimulus	GO:BP	CD40
+GO:0070887	cellular response to chemical stimulus	GO:BP	IFIH1
+GO:0070887	cellular response to chemical stimulus	GO:BP	IL1B
+GO:0070887	cellular response to chemical stimulus	GO:BP	CD40
+GO:0070848	response to growth factor	GO:BP	IL1B
+GO:0070727	cellular macromolecule localization	GO:BP	IL1B
+GO:0070665	positive regulation of leukocyte proliferation	GO:BP	IL1B
+GO:0070665	positive regulation of leukocyte proliferation	GO:BP	CD40
+GO:0070664	negative regulation of leukocyte proliferation	GO:BP	PTPN6
+GO:0070647	protein modification by small protein conjugation or removal	GO:BP	IFIH1
+GO:0070588	calcium ion transmembrane transport	GO:BP	PTPN6
+GO:0070555	response to interleukin-1	GO:BP	IL1B
+GO:0070555	response to interleukin-1	GO:BP	CD40
+GO:0070528	protein kinase C signaling	GO:BP	CD40
+GO:0070527	platelet aggregation	GO:BP	PTPN6
+GO:0070498	interleukin-1-mediated signaling pathway	GO:BP	IL1B
+GO:0070487	monocyte aggregation	GO:BP	IL1B
+GO:0071219	cellular response to molecule of bacterial origin	GO:BP	IL1B
+GO:0071219	cellular response to molecule of bacterial origin	GO:BP	CD40
+GO:0032303	regulation of icosanoid secretion	GO:BP	IL1B
+GO:0048535	lymph node development	GO:BP	LTB
+GO:0048525	negative regulation of viral process	GO:BP	IFIH1
+GO:0034765	regulation of monoatomic ion transmembrane transport	GO:BP	PTPN6
+GO:0034763	negative regulation of transmembrane transport	GO:BP	IL1B
+GO:0034762	regulation of transmembrane transport	GO:BP	PTPN6
+GO:0034762	regulation of transmembrane transport	GO:BP	IL1B
+GO:0034654	nucleobase-containing compound biosynthetic process	GO:BP	IL1B
+GO:0034654	nucleobase-containing compound biosynthetic process	GO:BP	NFKB2
+GO:0034654	nucleobase-containing compound biosynthetic process	GO:BP	CD40
+GO:0034612	response to tumor necrosis factor	GO:BP	CD40
+GO:0034344	regulation of type III interferon production	GO:BP	IFIH1
+GO:0034343	type III interferon production	GO:BP	IFIH1
+GO:0034341	response to type II interferon	GO:BP	CD40
+GO:0034330	cell junction organization	GO:BP	IL1B
+GO:0034329	cell junction assembly	GO:BP	IL1B
+GO:0034220	monoatomic ion transmembrane transport	GO:BP	PTPN6
+GO:0034219	carbohydrate transmembrane transport	GO:BP	IL1B
+GO:0034116	positive regulation of heterotypic cell-cell adhesion	GO:BP	IL1B
+GO:0034114	regulation of heterotypic cell-cell adhesion	GO:BP	IL1B
+GO:0034113	heterotypic cell-cell adhesion	GO:BP	IL1B
+GO:0034109	homotypic cell-cell adhesion	GO:BP	PTPN6
+GO:0033993	response to lipid	GO:BP	IL1B
+GO:0033993	response to lipid	GO:BP	NFKB2
+GO:0033993	response to lipid	GO:BP	CD40
+GO:0033674	positive regulation of kinase activity	GO:BP	IL1B
+GO:0033674	positive regulation of kinase activity	GO:BP	CD40
+GO:0033673	negative regulation of kinase activity	GO:BP	IL1B
+GO:0033630	positive regulation of cell adhesion mediated by integrin	GO:BP	PTPN6
+GO:0033628	regulation of cell adhesion mediated by integrin	GO:BP	PTPN6
+GO:0033627	cell adhesion mediated by integrin	GO:BP	PTPN6
+GO:0033619	membrane protein proteolysis	GO:BP	IL1B
+GO:0033590	response to cobalamin	GO:BP	CD40
+GO:0033559	unsaturated fatty acid metabolic process	GO:BP	IL1B
+GO:0033273	response to vitamin	GO:BP	CD40
+GO:0033198	response to ATP	GO:BP	IL1B
+GO:0033157	regulation of intracellular protein transport	GO:BP	IL1B
+GO:0033092	positive regulation of immature T cell proliferation in thymus	GO:BP	IL1B
+GO:0035234	ectopic germ cell programmed cell death	GO:BP	IL1B
+GO:0033091	positive regulation of immature T cell proliferation	GO:BP	IL1B
+GO:0035239	tube morphogenesis	GO:BP	PTPN6
+GO:0035239	tube morphogenesis	GO:BP	IL1B
+GO:0035239	tube morphogenesis	GO:BP	CD40
+GO:0035335	peptidyl-tyrosine dephosphorylation	GO:BP	PTPN6
+GO:0042130	negative regulation of T cell proliferation	GO:BP	PTPN6
+GO:0042129	regulation of T cell proliferation	GO:BP	PTPN6
+GO:0042129	regulation of T cell proliferation	GO:BP	IL1B
+GO:0042127	regulation of cell population proliferation	GO:BP	PTPN6
+GO:0042127	regulation of cell population proliferation	GO:BP	IL1B
+GO:0042127	regulation of cell population proliferation	GO:BP	CD40
+GO:0042113	B cell activation	GO:BP	PTPN6
+GO:0042113	B cell activation	GO:BP	CD40
+GO:0042110	T cell activation	GO:BP	SLAMF7
+GO:0042110	T cell activation	GO:BP	PTPN6
+GO:0042110	T cell activation	GO:BP	IL1B
+GO:0042102	positive regulation of T cell proliferation	GO:BP	IL1B
+GO:0042100	B cell proliferation	GO:BP	CD40
+GO:0042098	T cell proliferation	GO:BP	PTPN6
+GO:0042098	T cell proliferation	GO:BP	IL1B
+GO:0042088	T-helper 1 type immune response	GO:BP	IL1B
+GO:0042063	gliogenesis	GO:BP	IL1B
+GO:0042060	wound healing	GO:BP	SERPINB2
+GO:0042060	wound healing	GO:BP	PTPN6
+GO:0042060	wound healing	GO:BP	CD40
+GO:0040017	positive regulation of locomotion	GO:BP	IL1B
+GO:0040017	positive regulation of locomotion	GO:BP	CD40
+GO:0040012	regulation of locomotion	GO:BP	IL1B
+GO:0040012	regulation of locomotion	GO:BP	CD40
+GO:0040011	locomotion	GO:BP	IL1B
+GO:0040011	locomotion	GO:BP	CD40
+GO:0039530	MDA-5 signaling pathway	GO:BP	IFIH1
+GO:0038066	p38MAPK cascade	GO:BP	IL1B
+GO:0038061	non-canonical NF-kappaB signal transduction	GO:BP	IL1B
+GO:0038061	non-canonical NF-kappaB signal transduction	GO:BP	NFKB2
+GO:0038034	signal transduction in absence of ligand	GO:BP	IL1B
+GO:0036344	platelet morphogenesis	GO:BP	PTPN6
+GO:0036211	protein modification process	GO:BP	PTPN6
+GO:0036211	protein modification process	GO:BP	IFIH1
+GO:0036211	protein modification process	GO:BP	IL1B
+GO:0036211	protein modification process	GO:BP	CD40
+GO:0036018	cellular response to erythropoietin	GO:BP	CD40
+GO:0036017	response to erythropoietin	GO:BP	CD40
+GO:0035855	megakaryocyte development	GO:BP	PTPN6
+GO:0035744	T-helper 1 cell cytokine production	GO:BP	IL1B
+GO:0035743	CD4-positive, alpha-beta T cell cytokine production	GO:BP	IL1B
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway	GO:BP	CD40
+GO:0035592	establishment of protein localization to extracellular region	GO:BP	IL1B
+GO:0035556	intracellular signal transduction	GO:BP	PTPN6
+GO:0035556	intracellular signal transduction	GO:BP	IFIH1
+GO:0035556	intracellular signal transduction	GO:BP	IL1B
+GO:0035556	intracellular signal transduction	GO:BP	NFKB2
+GO:0035556	intracellular signal transduction	GO:BP	CD40
+GO:0035556	intracellular signal transduction	GO:BP	LTB
+GO:0035456	response to interferon-beta	GO:BP	XAF1
+GO:0035295	tube development	GO:BP	PTPN6
+GO:0035295	tube development	GO:BP	IL1B
+GO:0035295	tube development	GO:BP	CD40
+GO:0042176	regulation of protein catabolic process	GO:BP	IL1B
+GO:0033084	regulation of immature T cell proliferation in thymus	GO:BP	IL1B
+GO:0033080	immature T cell proliferation in thymus	GO:BP	IL1B
+GO:0032677	regulation of interleukin-8 production	GO:BP	IL1B
+GO:0032663	regulation of interleukin-2 production	GO:BP	IL1B
+GO:0032649	regulation of type II interferon production	GO:BP	IL1B
+GO:0032648	regulation of interferon-beta production	GO:BP	IFIH1
+GO:0032647	regulation of interferon-alpha production	GO:BP	IFIH1
+GO:0032645	regulation of granulocyte macrophage colony-stimulating factor production	GO:BP	IL1B
+GO:0032642	regulation of chemokine production	GO:BP	IL1B
+GO:0032640	tumor necrosis factor production	GO:BP	PTPN6
+GO:0032640	tumor necrosis factor production	GO:BP	IFIH1
+GO:0032637	interleukin-8 production	GO:BP	IL1B
+GO:0032623	interleukin-2 production	GO:BP	IL1B
+GO:0032609	type II interferon production	GO:BP	IL1B
+GO:0032608	interferon-beta production	GO:BP	IFIH1
+GO:0032607	interferon-alpha production	GO:BP	IFIH1
+GO:0032606	type I interferon production	GO:BP	XAF1
+GO:0032606	type I interferon production	GO:BP	IFIH1
+GO:0032604	granulocyte macrophage colony-stimulating factor production	GO:BP	IL1B
+GO:0032602	chemokine production	GO:BP	IL1B
+GO:0032502	developmental process	GO:BP	PTPN6
+GO:0032502	developmental process	GO:BP	IL1B
+GO:0032502	developmental process	GO:BP	NFKB2
+GO:0032502	developmental process	GO:BP	CD40
+GO:0032502	developmental process	GO:BP	LTB
+GO:0032481	positive regulation of type I interferon production	GO:BP	IFIH1
+GO:0032480	negative regulation of type I interferon production	GO:BP	XAF1
+GO:0032479	regulation of type I interferon production	GO:BP	XAF1
+GO:0032479	regulation of type I interferon production	GO:BP	IFIH1
+GO:0032446	protein modification by small protein conjugation	GO:BP	IFIH1
+GO:0032388	positive regulation of intracellular transport	GO:BP	IL1B
+GO:0032386	regulation of intracellular transport	GO:BP	IL1B
+GO:0032370	positive regulation of lipid transport	GO:BP	IL1B
+GO:0032368	regulation of lipid transport	GO:BP	IL1B
+GO:0032310	prostaglandin secretion	GO:BP	IL1B
+GO:0032309	icosanoid secretion	GO:BP	IL1B
+GO:0032308	positive regulation of prostaglandin secretion	GO:BP	IL1B
+GO:0032306	regulation of prostaglandin secretion	GO:BP	IL1B
+GO:0032680	regulation of tumor necrosis factor production	GO:BP	PTPN6
+GO:0032680	regulation of tumor necrosis factor production	GO:BP	IFIH1
+GO:0033083	regulation of immature T cell proliferation	GO:BP	IL1B
+GO:0032715	negative regulation of interleukin-6 production	GO:BP	PTPN6
+GO:0032722	positive regulation of chemokine production	GO:BP	IL1B
+GO:0033079	immature T cell proliferation	GO:BP	IL1B
+GO:0033077	T cell differentiation in thymus	GO:BP	IL1B
+GO:0033043	regulation of organelle organization	GO:BP	IL1B
+GO:0033036	macromolecule localization	GO:BP	IL1B
+GO:0033007	negative regulation of mast cell activation involved in immune response	GO:BP	PTPN6
+GO:0033006	regulation of mast cell activation involved in immune response	GO:BP	PTPN6
+GO:0033004	negative regulation of mast cell activation	GO:BP	PTPN6
+GO:0033003	regulation of mast cell activation	GO:BP	PTPN6
+GO:0032946	positive regulation of mononuclear cell proliferation	GO:BP	IL1B
+GO:0032946	positive regulation of mononuclear cell proliferation	GO:BP	CD40
+GO:0032945	negative regulation of mononuclear cell proliferation	GO:BP	PTPN6
+GO:0032940	secretion by cell	GO:BP	IL1B
+GO:0032892	positive regulation of organic acid transport	GO:BP	IL1B
+GO:0032890	regulation of organic acid transport	GO:BP	IL1B
+GO:0032880	regulation of protein localization	GO:BP	IL1B
+GO:0032879	regulation of localization	GO:BP	PTPN6
+GO:0032879	regulation of localization	GO:BP	IL1B
+GO:0032870	cellular response to hormone stimulus	GO:BP	IL1B
+GO:0032869	cellular response to insulin stimulus	GO:BP	IL1B
+GO:0032868	response to insulin	GO:BP	IL1B
+GO:0032787	monocarboxylic acid metabolic process	GO:BP	IL1B
+GO:0032774	RNA biosynthetic process	GO:BP	IL1B
+GO:0032774	RNA biosynthetic process	GO:BP	NFKB2
+GO:0032774	RNA biosynthetic process	GO:BP	CD40
+GO:0032770	positive regulation of monooxygenase activity	GO:BP	IL1B
+GO:0032760	positive regulation of tumor necrosis factor production	GO:BP	IFIH1
+GO:0032757	positive regulation of interleukin-8 production	GO:BP	IL1B
+GO:0032755	positive regulation of interleukin-6 production	GO:BP	IFIH1
+GO:0032755	positive regulation of interleukin-6 production	GO:BP	IL1B
+GO:0032743	positive regulation of interleukin-2 production	GO:BP	IL1B
+GO:0032729	positive regulation of type II interferon production	GO:BP	IL1B
+GO:0032728	positive regulation of interferon-beta production	GO:BP	IFIH1
+GO:0032727	positive regulation of interferon-alpha production	GO:BP	IFIH1
+GO:0032725	positive regulation of granulocyte macrophage colony-stimulating factor production	GO:BP	IL1B
+GO:0032720	negative regulation of tumor necrosis factor production	GO:BP	PTPN6
+GO:0042180	ketone metabolic process	GO:BP	IL1B
+GO:0042221	response to chemical	GO:BP	XAF1
+GO:0042221	response to chemical	GO:BP	PTPN6
+GO:0042221	response to chemical	GO:BP	IFIH1
+GO:0042221	response to chemical	GO:BP	IL1B
+GO:0042221	response to chemical	GO:BP	NFKB2
+GO:0042221	response to chemical	GO:BP	CD40
+GO:0042304	regulation of fatty acid biosynthetic process	GO:BP	IL1B
+GO:0046328	regulation of JNK cascade	GO:BP	IL1B
+GO:0046209	nitric oxide metabolic process	GO:BP	IL1B
+GO:0045944	positive regulation of transcription by RNA polymerase II	GO:BP	IL1B
+GO:0045944	positive regulation of transcription by RNA polymerase II	GO:BP	NFKB2
+GO:0045944	positive regulation of transcription by RNA polymerase II	GO:BP	CD40
+GO:0045937	positive regulation of phosphate metabolic process	GO:BP	IL1B
+GO:0045937	positive regulation of phosphate metabolic process	GO:BP	CD40
+GO:0045936	negative regulation of phosphate metabolic process	GO:BP	PTPN6
+GO:0045936	negative regulation of phosphate metabolic process	GO:BP	IL1B
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	GO:BP	IL1B
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	GO:BP	NFKB2
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	GO:BP	CD40
+GO:0045923	positive regulation of fatty acid metabolic process	GO:BP	IL1B
+GO:0045917	positive regulation of complement activation	GO:BP	IL1B
+GO:0045911	positive regulation of DNA recombination	GO:BP	CD40
+GO:0045893	positive regulation of DNA-templated transcription	GO:BP	IL1B
+GO:0045893	positive regulation of DNA-templated transcription	GO:BP	NFKB2
+GO:0045893	positive regulation of DNA-templated transcription	GO:BP	CD40
+GO:0045862	positive regulation of proteolysis	GO:BP	IL1B
+GO:0045860	positive regulation of protein kinase activity	GO:BP	IL1B
+GO:0045860	positive regulation of protein kinase activity	GO:BP	CD40
+GO:0045859	regulation of protein kinase activity	GO:BP	IL1B
+GO:0045859	regulation of protein kinase activity	GO:BP	CD40
+GO:0045840	positive regulation of mitotic nuclear division	GO:BP	IL1B
+GO:0045834	positive regulation of lipid metabolic process	GO:BP	IL1B
+GO:0045833	negative regulation of lipid metabolic process	GO:BP	IL1B
+GO:0045830	positive regulation of isotype switching	GO:BP	CD40
+GO:0045824	negative regulation of innate immune response	GO:BP	PTPN6
+GO:0045787	positive regulation of cell cycle	GO:BP	IL1B
+GO:0045785	positive regulation of cell adhesion	GO:BP	PTPN6
+GO:0045785	positive regulation of cell adhesion	GO:BP	IL1B
+GO:0045766	positive regulation of angiogenesis	GO:BP	IL1B
+GO:0045766	positive regulation of angiogenesis	GO:BP	CD40
+GO:0045732	positive regulation of protein catabolic process	GO:BP	IL1B
+GO:0045723	positive regulation of fatty acid biosynthetic process	GO:BP	IL1B
+GO:0045619	regulation of lymphocyte differentiation	GO:BP	PTPN6
+GO:0045601	regulation of endothelial cell differentiation	GO:BP	IL1B
+GO:0045597	positive regulation of cell differentiation	GO:BP	IL1B
+GO:0045596	negative regulation of cell differentiation	GO:BP	IL1B
+GO:0045595	regulation of cell differentiation	GO:BP	PTPN6
+GO:0045595	regulation of cell differentiation	GO:BP	IL1B
+GO:0045577	regulation of B cell differentiation	GO:BP	PTPN6
+GO:0046330	positive regulation of JNK cascade	GO:BP	IL1B
+GO:0045576	mast cell activation	GO:BP	PTPN6
+GO:0046394	carboxylic acid biosynthetic process	GO:BP	IL1B
+GO:0046457	prostanoid biosynthetic process	GO:BP	IL1B
+GO:0048523	negative regulation of cellular process	GO:BP	SERPINB2
+GO:0048523	negative regulation of cellular process	GO:BP	XAF1
+GO:0048523	negative regulation of cellular process	GO:BP	PTPN6
+GO:0048523	negative regulation of cellular process	GO:BP	IL1B
+GO:0048522	positive regulation of cellular process	GO:BP	PTPN6
+GO:0048522	positive regulation of cellular process	GO:BP	IFIH1
+GO:0048522	positive regulation of cellular process	GO:BP	IL1B
+GO:0048522	positive regulation of cellular process	GO:BP	NFKB2
+GO:0048522	positive regulation of cellular process	GO:BP	CD40
+GO:0048522	positive regulation of cellular process	GO:BP	LTB
+GO:0048519	negative regulation of biological process	GO:BP	SERPINB2
+GO:0048519	negative regulation of biological process	GO:BP	XAF1
+GO:0048519	negative regulation of biological process	GO:BP	PTPN6
+GO:0048519	negative regulation of biological process	GO:BP	IFIH1
+GO:0048519	negative regulation of biological process	GO:BP	IL1B
+GO:0048518	positive regulation of biological process	GO:BP	PTPN6
+GO:0048518	positive regulation of biological process	GO:BP	IFIH1
+GO:0048518	positive regulation of biological process	GO:BP	IL1B
+GO:0048518	positive regulation of biological process	GO:BP	NFKB2
+GO:0048518	positive regulation of biological process	GO:BP	CD40
+GO:0048518	positive regulation of biological process	GO:BP	LTB
+GO:0048514	blood vessel morphogenesis	GO:BP	PTPN6
+GO:0048514	blood vessel morphogenesis	GO:BP	IL1B
+GO:0048514	blood vessel morphogenesis	GO:BP	CD40
+GO:0048513	animal organ development	GO:BP	IL1B
+GO:0048513	animal organ development	GO:BP	NFKB2
+GO:0048513	animal organ development	GO:BP	LTB
+GO:0048511	rhythmic process	GO:BP	NFKB2
+GO:0048468	cell development	GO:BP	PTPN6
+GO:0048468	cell development	GO:BP	IL1B
+GO:0048304	positive regulation of isotype switching to IgG isotypes	GO:BP	CD40
+GO:0048302	regulation of isotype switching to IgG isotypes	GO:BP	CD40
+GO:0048291	isotype switching to IgG isotypes	GO:BP	CD40
+GO:0048285	organelle fission	GO:BP	IL1B
+GO:0048143	astrocyte activation	GO:BP	IL1B
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	GO:BP	IL1B
+GO:0046942	carboxylic acid transport	GO:BP	IL1B
+GO:0046907	intracellular transport	GO:BP	IL1B
+GO:0046903	secretion	GO:BP	IL1B
+GO:0046890	regulation of lipid biosynthetic process	GO:BP	IL1B
+GO:0046889	positive regulation of lipid biosynthetic process	GO:BP	IL1B
+GO:0046888	negative regulation of hormone secretion	GO:BP	IL1B
+GO:0046883	regulation of hormone secretion	GO:BP	IL1B
+GO:0046879	hormone secretion	GO:BP	IL1B
+GO:0046827	positive regulation of protein export from nucleus	GO:BP	IL1B
+GO:0046825	regulation of protein export from nucleus	GO:BP	IL1B
+GO:0046824	positive regulation of nucleocytoplasmic transport	GO:BP	IL1B
+GO:0046822	regulation of nucleocytoplasmic transport	GO:BP	IL1B
+GO:0046683	response to organophosphorus	GO:BP	IL1B
+GO:0046627	negative regulation of insulin receptor signaling pathway	GO:BP	IL1B
+GO:0046626	regulation of insulin receptor signaling pathway	GO:BP	IL1B
+GO:0046456	icosanoid biosynthetic process	GO:BP	IL1B
+GO:0045446	endothelial cell differentiation	GO:BP	IL1B
+GO:0045429	positive regulation of nitric oxide biosynthetic process	GO:BP	IL1B
+GO:0045428	regulation of nitric oxide biosynthetic process	GO:BP	IL1B
+GO:0043412	macromolecule modification	GO:BP	PTPN6
+GO:0043412	macromolecule modification	GO:BP	IFIH1
+GO:0043412	macromolecule modification	GO:BP	IL1B
+GO:0043412	macromolecule modification	GO:BP	CD40
+GO:0043410	positive regulation of MAPK cascade	GO:BP	IL1B
+GO:0043410	positive regulation of MAPK cascade	GO:BP	CD40
+GO:0043409	negative regulation of MAPK cascade	GO:BP	PTPN6
+GO:0043409	negative regulation of MAPK cascade	GO:BP	IL1B
+GO:0043408	regulation of MAPK cascade	GO:BP	PTPN6
+GO:0043408	regulation of MAPK cascade	GO:BP	IL1B
+GO:0043408	regulation of MAPK cascade	GO:BP	CD40
+GO:0043407	negative regulation of MAP kinase activity	GO:BP	IL1B
+GO:0043405	regulation of MAP kinase activity	GO:BP	IL1B
+GO:0043405	regulation of MAP kinase activity	GO:BP	CD40
+GO:0043331	response to dsRNA	GO:BP	IFIH1
+GO:0043330	response to exogenous dsRNA	GO:BP	IFIH1
+GO:0043269	regulation of monoatomic ion transport	GO:BP	PTPN6
+GO:0043170	macromolecule metabolic process	GO:BP	XAF1
+GO:0043170	macromolecule metabolic process	GO:BP	PTPN6
+GO:0043170	macromolecule metabolic process	GO:BP	IFIH1
+GO:0043170	macromolecule metabolic process	GO:BP	IL1B
+GO:0043170	macromolecule metabolic process	GO:BP	NFKB2
+GO:0043170	macromolecule metabolic process	GO:BP	CD40
+GO:0043170	macromolecule metabolic process	GO:BP	LTB
+GO:0043087	regulation of GTPase activity	GO:BP	CD40
+GO:0043086	negative regulation of catalytic activity	GO:BP	IL1B
+GO:0043085	positive regulation of catalytic activity	GO:BP	IL1B
+GO:0043085	positive regulation of catalytic activity	GO:BP	CD40
+GO:0043069	negative regulation of programmed cell death	GO:BP	SERPINB2
+GO:0043069	negative regulation of programmed cell death	GO:BP	IL1B
+GO:0043068	positive regulation of programmed cell death	GO:BP	CD40
+GO:0043068	positive regulation of programmed cell death	GO:BP	LTB
+GO:0043066	negative regulation of apoptotic process	GO:BP	SERPINB2
+GO:0043066	negative regulation of apoptotic process	GO:BP	IL1B
+GO:0043065	positive regulation of apoptotic process	GO:BP	CD40
+GO:0043065	positive regulation of apoptotic process	GO:BP	LTB
+GO:0043062	extracellular structure organization	GO:BP	NFKB2
+GO:0042886	amide transport	GO:BP	IL1B
+GO:0042832	defense response to protozoan	GO:BP	CD40
+GO:0042742	defense response to bacterium	GO:BP	IL1B
+GO:0042730	fibrinolysis	GO:BP	SERPINB2
+GO:0042592	homeostatic process	GO:BP	PTPN6
+GO:0042592	homeostatic process	GO:BP	IL1B
+GO:0042592	homeostatic process	GO:BP	CD40
+GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	GO:BP	CD40
+GO:0042509	regulation of tyrosine phosphorylation of STAT protein	GO:BP	CD40
+GO:0042330	taxis	GO:BP	IL1B
+GO:0042327	positive regulation of phosphorylation	GO:BP	IL1B
+GO:0042327	positive regulation of phosphorylation	GO:BP	CD40
+GO:0042326	negative regulation of phosphorylation	GO:BP	PTPN6
+GO:0042326	negative regulation of phosphorylation	GO:BP	IL1B
+GO:0042325	regulation of phosphorylation	GO:BP	PTPN6
+GO:0042325	regulation of phosphorylation	GO:BP	IL1B
+GO:0042325	regulation of phosphorylation	GO:BP	CD40
+GO:0043434	response to peptide hormone	GO:BP	IL1B
+GO:0043436	oxoacid metabolic process	GO:BP	IL1B
+GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	GO:BP	PTPN6
+GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	GO:BP	CD40
+GO:0043500	muscle adaptation	GO:BP	IL1B
+GO:0045229	external encapsulating structure organization	GO:BP	NFKB2
+GO:0045216	cell-cell junction organization	GO:BP	IL1B
+GO:0045191	regulation of isotype switching	GO:BP	CD40
+GO:0045190	isotype switching	GO:BP	CD40
+GO:0045184	establishment of protein localization	GO:BP	IL1B
+GO:0045089	positive regulation of innate immune response	GO:BP	IFIH1
+GO:0045089	positive regulation of innate immune response	GO:BP	CD40
+GO:0045088	regulation of innate immune response	GO:BP	PTPN6
+GO:0045088	regulation of innate immune response	GO:BP	IFIH1
+GO:0045088	regulation of innate immune response	GO:BP	CD40
+GO:0045071	negative regulation of viral genome replication	GO:BP	IFIH1
+GO:0045069	regulation of viral genome replication	GO:BP	IFIH1
+GO:0044843	cell cycle G1/S phase transition	GO:BP	PTPN6
+GO:0044772	mitotic cell cycle phase transition	GO:BP	PTPN6
+GO:0044770	cell cycle phase transition	GO:BP	PTPN6
+GO:0044706	multi-multicellular organism process	GO:BP	IL1B
+GO:0044703	multi-organism reproductive process	GO:BP	IL1B
+GO:0048534	hematopoietic or lymphoid organ development	GO:BP	NFKB2
+GO:0048534	hematopoietic or lymphoid organ development	GO:BP	LTB
+GO:0044283	small molecule biosynthetic process	GO:BP	IL1B
+GO:0044238	primary metabolic process	GO:BP	PTPN6
+GO:0044238	primary metabolic process	GO:BP	IFIH1
+GO:0044238	primary metabolic process	GO:BP	IL1B
+GO:0044238	primary metabolic process	GO:BP	NFKB2
+GO:0044238	primary metabolic process	GO:BP	CD40
+GO:0044093	positive regulation of molecular function	GO:BP	IL1B
+GO:0044093	positive regulation of molecular function	GO:BP	CD40
+GO:0044092	negative regulation of molecular function	GO:BP	IL1B
+GO:0044087	regulation of cellular component biogenesis	GO:BP	IL1B
+GO:0044085	cellular component biogenesis	GO:BP	IFIH1
+GO:0044085	cellular component biogenesis	GO:BP	IL1B
+GO:0044085	cellular component biogenesis	GO:BP	CD40
+GO:0043933	protein-containing complex organization	GO:BP	IFIH1
+GO:0043933	protein-containing complex organization	GO:BP	CD40
+GO:0043687	post-translational protein modification	GO:BP	IFIH1
+GO:0043588	skin development	GO:BP	LTB
+GO:0043549	regulation of kinase activity	GO:BP	IL1B
+GO:0043549	regulation of kinase activity	GO:BP	CD40
+GO:0043547	positive regulation of GTPase activity	GO:BP	CD40
+GO:0043542	endothelial cell migration	GO:BP	CD40
+GO:0043536	positive regulation of blood vessel endothelial cell migration	GO:BP	CD40
+GO:0043535	regulation of blood vessel endothelial cell migration	GO:BP	CD40
+GO:0043534	blood vessel endothelial cell migration	GO:BP	CD40
+GO:0044281	small molecule metabolic process	GO:BP	IL1B
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	GO:BP	IL1B

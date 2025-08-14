@@ -1,0 +1,21 @@
+B cell sample 1 — funkcionalno obogaćenje (automatizovani rezime)
+
+Ulazni podaci
+• Lista gena: preuzeta iz Cytoscape/STRING CSV (B_cell_sample_1_ImmuneMeta_overlap_STRING.csv).
+• Enrichment: g:Profiler (Enrichment_all u Bcell_genes_gprofiler_results.xlsx).
+• Višestruko testiranje: adj_p_value (FDR), prag = 0.05.
+
+Rezultati (sažetak)
+• Ukupan broj termina: 2217; značajnih na FDR ≤ 0.05: 35.
+• Prikazani Top 5 termina rangiranih po adj_p_value.
+
+Top termini
+1. defense response to other organism [GO:BP] — FDR=3.30e-04; hits=7: ['IFI44L', 'SLAMF7', 'PTPN6', 'IFIH1', 'IL1B', 'NFKB2', 'CD40']
+2. immune response [GO:BP] — FDR=3.80e-04; hits=8: ['IFI44L', 'SLAMF7', 'PTPN6', 'IFIH1', 'IL1B', 'NFKB2', 'CD40', 'LTB']
+3. Immune System [REAC] — FDR=4.11e-04; hits=8: ['SERPINB2', 'XAF1', 'SLAMF7', 'PTPN6', 'IFIH1', 'IL1B', 'NFKB2', 'LTB']
+4. regulation of cytokine production [GO:BP] — FDR=5.54e-04; hits=6: ['XAF1', 'PTPN6', 'IFIH1', 'IL1B', 'CD40', 'LTB']
+5. Network map of SARS CoV 2 signaling [WP] — FDR=5.76e-04; hits=5: ['IFI44L', 'PTPN6', 'IFIH1', 'IL1B', 'NFKB2']
+
+Napomena
+• Ovo je automatski opis: ne sadrži tumačenja; navodi isključivo nazive termina, FDR i gene (sa znakom logFC).
+• Za narativ po putu koristite Reactome/Metascape izveštaje; za AI sažetke uz kurirane izvore – QIAGEN IPA Interpret.

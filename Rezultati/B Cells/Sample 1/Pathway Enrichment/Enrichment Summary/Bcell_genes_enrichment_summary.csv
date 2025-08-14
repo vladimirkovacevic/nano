@@ -1,0 +1,6 @@
+﻿Rank,Term_ID,Term,Source,Category,adj_p_value,-log10(adj_p),hits,Genes (with direction & logFC)
+1,GO:0098542,defense response to other organism,GO:BP,Other,0.0003299908858456099,3.4814980549149013,7,['IFI44L'; 'SLAMF7'; 'PTPN6'; 'IFIH1'; 'IL1B'; 'NFKB2'; 'CD40']
+2,GO:0006955,immune response,GO:BP,Other,0.0003801141077661347,3.420086011451135,8,['IFI44L'; 'SLAMF7'; 'PTPN6'; 'IFIH1'; 'IL1B'; 'NFKB2'; 'CD40'; 'LTB']
+3,REAC:R-HSA-168256,Immune System,REAC,Other,0.0004108184104616935,3.3863501021176923,8,['SERPINB2'; 'XAF1'; 'SLAMF7'; 'PTPN6'; 'IFIH1'; 'IL1B'; 'NFKB2'; 'LTB']
+4,GO:0001817,regulation of cytokine production,GO:BP,Immune signaling,0.0005537391617809328,3.2566947610393906,6,['XAF1'; 'PTPN6'; 'IFIH1'; 'IL1B'; 'CD40'; 'LTB']
+5,WP:WP5115,Network map of SARS CoV 2 signaling,WP,Other,0.0005760555567130606,3.2395356297532003,5,['IFI44L'; 'PTPN6'; 'IFIH1'; 'IL1B'; 'NFKB2']
