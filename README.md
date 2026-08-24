@@ -1,4 +1,4 @@
-# Unraveling the molecular effects of nanoplastics on human blood cells using microfluidic chip-based single-cell RNA sequencing
+# Heterogeneous nanoplastic exposure induces integrated immunometabolic states in human monocytes under physiological flow
 To execute all analysis run `notebooks/full_analysis.ipynb`
 
 ## Dependencies
